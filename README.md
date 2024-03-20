@@ -11,6 +11,7 @@
 - VSCode
 - Jupyter
 - IDLE (python built-in IDE)
+- Python CLI
 
 ### Web Resources
 - Github xBootcamp repository
