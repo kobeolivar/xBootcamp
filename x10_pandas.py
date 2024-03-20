@@ -13,7 +13,7 @@ def f01_create_df_from_dict():
     }
 
     df = pd.DataFrame(data)
-    print(df)
+    #print(df)
 
     return df
 
@@ -247,6 +247,7 @@ def medart_iterator():
 def main():
     
     employee_df = f01_create_df_from_dict()
+    print(employee_df)
     #ok planets_df = f02_create_df_from_list()
   
     #err elements_df  = f03_create_df_from_csv()
