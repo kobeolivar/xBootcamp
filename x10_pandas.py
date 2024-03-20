@@ -44,28 +44,9 @@ def f02_create_df_from_list():
 
 
 def f03_create_df_from_csv():
-    """
-    Reads a CSV file from the given URL and returns a DataFrame.
-    
-    Parameters:
-    - url: str, The URL to the CSV file.
-    
-    Returns:
-    - DataFrame containing the data read from the CSV file.
-
-    https://www.kaggle.com/datasets/vinicius150987/titanic3/download?datasetVersionNumber=1
-    """
-    try:
-        # Read the CSV file from the URL
-        url = 'https://www.kaggle.com/datasets/vinicius150987/titanic3/download?datasetVersionNumber=1'
-        df = pd.read_csv(url)
-        return df
-    except Exception as e:
-        print(f"Error reading the CSV file: {e}")
-        return None
-
-    if df is not None:
-        print(df.head())  # Display the first few rows of the DataFrame
+    csv_file = ('employee.csv')
+    df.read_csv(csv_file)
+    print(df)
 
 def download_from_kaggle():
     #import kaggle
@@ -265,3 +246,30 @@ def main():
 
 
 main()
+
+#####################################################################
+# Deprecated Code
+#####################################################################
+def f03_create_df_from_csv():
+    """
+    Reads a CSV file from the given URL and returns a DataFrame.
+    
+    Parameters:
+    - url: str, The URL to the CSV file.
+    
+    Returns:
+    - DataFrame containing the data read from the CSV file.
+
+    https://www.kaggle.com/datasets/vinicius150987/titanic3/download?datasetVersionNumber=1
+    """
+    try:
+        # Read the CSV file from the URL
+        url = 'https://www.kaggle.com/datasets/vinicius150987/titanic3/download?datasetVersionNumber=1'
+        df = pd.read_csv(url)
+        return df
+    except Exception as e:
+        print(f"Error reading the CSV file: {e}")
+        return None
+
+    if df is not None:
+        print(df.head())  # Display the first few rows of the DataFrame
