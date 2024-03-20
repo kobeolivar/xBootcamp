@@ -246,9 +246,9 @@ def medart_iterator():
 
 def main():
     
-    employee_df = f01_create_df_from_dict()
-    print(employee_df)
-    #ok planets_df = f02_create_df_from_list()
+    #employee_df = f01_create_df_from_dict()
+    #print(employee_df)
+    planets_df = f02_create_df_from_list()
   
     #err elements_df  = f03_create_df_from_csv()
     #ok  elements_df  = f04_create_df_from_json()
