@@ -13,9 +13,14 @@ def f01_create_df_from_dict():
     }
 
     df = pd.DataFrame(data)
-    #print(df)
+    csv_file = ('employee.csv')
+    df.to_csv(csv_file)
 
     return df
+
+
+def f01a_save_df_to_csv():
+    pass
 
 def f02_create_df_from_list():
     # List of planets
@@ -246,9 +251,9 @@ def medart_iterator():
 
 def main():
     
-    #employee_df = f01_create_df_from_dict()
+    employee_df = f01_create_df_from_dict()
     #print(employee_df)
-    planets_df = f02_create_df_from_list()
+    #planets_df = f02_create_df_from_list()
   
     #err elements_df  = f03_create_df_from_csv()
     #ok  elements_df  = f04_create_df_from_json()
