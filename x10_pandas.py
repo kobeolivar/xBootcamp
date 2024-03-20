@@ -63,11 +63,11 @@ def f03_create_df_from_csv():
         print(df.head())  # Display the first few rows of the DataFrame
 
 def download_from_kaggle():
-    import kaggle
+    #import kaggle
 
     # Download the dataset (this requires the Kaggle API credentials set up)
-    kaggle.datasets.download('vinicius150987/titanic3', path='./', unzip=True)
-
+    #kaggle.datasets.download('vinicius150987/titanic3', path='./', unzip=True)
+    pass
 
 def f04_create_df_from_json():
     url = 'https://raw.githubusercontent.com/Bowserinator/Periodic-Table-JSON/master/PeriodicTableJSON.json'
@@ -154,10 +154,10 @@ def medart_20_codes():
     print(pivot_table)
 
     # Data visualization with Pandas
-    import matplotlib.pyplot as plt
+    #import matplotlib.pyplot as plt
 
     df.plot(kind='bar', x='Name', y='Salary', title='Salary Distribution')
-    plt.show()
+    #plt.show()
 
     # Applying a custom function to a column
     df['Salary'] = df['Salary'].apply(lambda x: x + 5000)
