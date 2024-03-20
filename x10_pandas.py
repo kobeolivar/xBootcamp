@@ -245,7 +245,8 @@ def medart_iterator():
 
 
 def main():
-    #ok employee_df = f01_create_df_from_dict()
+    
+    employee_df = f01_create_df_from_dict()
     #ok planets_df = f02_create_df_from_list()
   
     #err elements_df  = f03_create_df_from_csv()
@@ -254,7 +255,7 @@ def main():
     #ok sp500_df = f05_create_df_from_read_html()
 
     #ok medart_20_codes()
-    medart_iterator()
+    #medart_iterator()
 
 
 main()
