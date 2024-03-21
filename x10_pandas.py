@@ -79,6 +79,23 @@ def f05_create_df_from_read_html():
     df = df_list[0]
     df.to_csv('data/pandas/sp500_wikipedia.csv')
     print(df)
+    
+    # Display basic information about the DataFrame
+    print(df.info())
+
+    # Descriptive statistics of numeric columns
+    print(df.describe())
+
+    # Handling missing values (dropna or fillna)
+    df.dropna(inplace=True)
+    # OR
+    df.fillna(0, inplace=True)
+
+    # Grouping and aggregating data
+    # grouped_df = df.groupby('Department').agg({'Salary': 'mean', 'Age': 'max'})
+    grouped_df = df.groupby('GICS Sector'))
+    print(grouped_df)
+
     return df
 
 
