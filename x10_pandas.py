@@ -80,6 +80,18 @@ def f05_create_df_from_read_html():
     df.to_csv('data/pandas/sp500_wikipedia.csv')
     print(df)
     
+    # Assuming you have a DataFrame named df
+    # Change the CIK column to string type
+    df['CIK'] = df['CIK'].astype(str)
+
+    # Assuming you have a DataFrame named df
+    # Convert 'Date Added' and 'Founded' columns to datetime
+    df['Date Added'] = pd.to_datetime(df['Date Added'])
+    df['Founded'] = pd.to_datetime(df['Founded'])
+    
+    # Check the DataFrame to ensure the changes have been made
+    print(df.dtypes)
+   
     # Display basic information about the DataFrame
     print(df.info())
 
