@@ -5,5 +5,6 @@ https://chat.openai.com/c/1cbfc3e5-15aa-42c7-bed5-f2f580381a8e
 
 https://chat.openai.com/share/39666555-e590-402e-8c93-620358c1aebd
 
+https://chat.openai.com/share/95536ac0-0a59-4d0d-800d-6cc98b5e05ee
 # Example Ipynb
 https://github.com/odewahn/ipynb-examples
