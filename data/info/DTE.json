@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"One Energy Plaza",
         "city":"Detroit",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"313 235 4000",
         "website":"https:\/\/www.dteenergy.com",
-        "industry":"Utilities—Regulated Electric",
+        "industry":"Utilities - Regulated Electric",
+        "industryKey":"utilities-regulated-electric",
+        "industryDisp":"Utilities - Regulated Electric",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"DTE Energy Company engages in the utility operations. The company's Electric segment generates, purchases, distributes, and sells electricity to various residential, commercial, and industrial customers in southeastern Michigan. It generates electricity through coal-fired plants, hydroelectric pumped storage, and nuclear plants, as well as wind and solar assets. This segment owns and operates distribution substations and line transformers. The company's Gas segment purchases, stores, transports, distributes, and sells natural gas to various residential, commercial, and industrial customers throughout Michigan; and sells storage and transportation capacity. Its DTE Vantage segment offers metallurgical and petroleum coke to steel and other industries; and power generation, steam production, chilled water production, and wastewater treatment services, as well as air supplies compressed air to industrial customers. Its Energy Trading segment engages in power, natural gas, and environmental marketing and trading; structured transactions; and the optimization of contracted natural gas pipeline transportation and storage positions. The company was founded in 1849 and is based in Detroit, Michigan.",
         "fullTimeEmployees":9950,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":0.77089995,
         "shortRatio":2.16,
         "shortPercentOfFloat":0.0174,
+        "impliedSharesOutstanding":208660992,
         "bookValue":53.548,
         "priceToBook":2.0383582,
         "lastFiscalYearEnd":1703980800,
@@ -182,6 +187,10 @@
         "lastSplitDate":1625097600,
         "enterpriseToRevenue":3.426,
         "enterpriseToEbitda":12.912,
+        "52WeekChange":0.07188773,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.02,
+        "lastDividendDate":1710460800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"DTE",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"4ecdc022-f62f-363d-a864-478a09d23b8a",
+        "messageBoardId":"finmb_266598",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":109.15,
         "targetHighPrice":129.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.8645
     }
-]
+

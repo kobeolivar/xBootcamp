@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"230 Park Avenue South",
         "city":"New York",
@@ -8,7 +8,11 @@
         "phone":"212 548 5555",
         "website":"https:\/\/ir.wbd.com",
         "industry":"Entertainment",
+        "industryKey":"entertainment",
+        "industryDisp":"Entertainment",
         "sector":"Communication Services",
+        "sectorKey":"communication-services",
+        "sectorDisp":"Communication Services",
         "longBusinessSummary":"Warner Bros. Discovery, Inc. operates as a media and entertainment company worldwide. It operates through three segments: Studios, Network, and DTC. The Studios segment produces and releases feature films for initial exhibition in theaters; produces and licenses television programs to its networks and third parties and direct-to-consumer services; distributes films and television programs to various third parties and internal television; and offers streaming services and distribution through the home entertainment market, themed experience licensing, and interactive gaming. The Network segment comprises domestic and international television networks. The DTC segment offers premium pay-tv and streaming services. In addition, the company offers portfolio of content, brands, and franchises across television, film, streaming, and gaming under the Warner Bros. Motion Picture Group, Warner Bros. Television Group, DC, HBO, HBO Max, Max, Discovery Channel, discovery+, CNN, HGTV, Food Network, TNT Sports, TBS, TLC, OWN, Warner Bros. Games, Batman, Superman, Wonder Woman, Harry Potter, Looney Tunes, Hanna-Barbera, Game of Thrones, and The Lord of the Rings brands. Further, it provides content through distribution platforms, including linear network, free-to-air, and broadcast television; authenticated GO applications, digital distribution arrangements, content licensing arrangements, and direct-to-consumer subscription products. Warner Bros. Discovery, Inc. was incorporated in 2008 and is headquartered in New York, New York.",
         "fullTimeEmployees":35300,
         "companyOfficers":[
@@ -161,6 +165,7 @@
         "heldPercentInstitutions":0.62978,
         "shortRatio":3.21,
         "shortPercentOfFloat":0.0392,
+        "impliedSharesOutstanding":2439689984,
         "bookValue":18.543,
         "priceToBook":0.47025836,
         "lastFiscalYearEnd":1703980800,
@@ -170,8 +175,12 @@
         "trailingEps":-1.28,
         "forwardEps":-0.12,
         "pegRatio":-1.21,
+        "lastSplitFactor":"1957:1000",
+        "lastSplitDate":1407369600,
         "enterpriseToRevenue":1.599,
         "enterpriseToEbitda":8.915,
+        "52WeekChange":-0.3984859,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"WBD",
@@ -182,6 +191,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"42d0996b-9893-37c0-a7cd-634db653f5b3",
+        "messageBoardId":"finmb_22666093",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":8.72,
         "targetHighPrice":24.0,
@@ -211,4 +221,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

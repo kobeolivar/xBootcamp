@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"231 West Michigan Street",
         "address2":"PO Box 1331",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"414 221 2345",
         "website":"https:\/\/www.wecenergygroup.com",
-        "industry":"Utilities—Regulated Electric",
+        "industry":"Utilities - Regulated Electric",
+        "industryKey":"utilities-regulated-electric",
+        "industryDisp":"Utilities - Regulated Electric",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"WEC Energy Group, Inc., through its subsidiaries, provides regulated natural gas and electricity, and renewable and nonregulated renewable energy services in the United States. It operates through Wisconsin, Illinois, Other States, Electric Transmission, and Non-Utility Energy Infrastructure segments. The company generates and distributes electricity from coal, natural gas, oil, and nuclear, as well as renewable energy resources, including wind, solar, hydroelectric, and biomass; and distributes and transports natural gas. It also owns, maintains, monitors, and operates electric transmission systems; and generates, distributes, and sells steam. As of December 31, 2023, the company operated approximately 35,500 miles of overhead distribution lines and 36,500 miles of underground distribution cables, as well as 430 electric distribution substations and 523,700 line transformers; approximately 46,400 miles of natural gas distribution mains; 1,700 miles of natural gas transmission mains; 2.4 million natural gas lateral services; 490 natural gas distribution and transmission gate stations; and 69.3 billion cubic feet of working gas capacities in underground natural gas storage fields. The company was formerly known as Wisconsin Energy Corporation and changed its name to WEC Energy Group, Inc. in June 2015. WEC Energy Group, Inc. was founded in 1896 and is headquartered in Milwaukee, Wisconsin.",
         "fullTimeEmployees":7000,
         "companyOfficers":[
@@ -175,6 +179,7 @@
         "heldPercentInstitutions":0.79489,
         "shortRatio":3.05,
         "shortPercentOfFloat":0.0327,
+        "impliedSharesOutstanding":315561984,
         "bookValue":37.168,
         "priceToBook":2.1534655,
         "lastFiscalYearEnd":1703980800,
@@ -189,6 +194,10 @@
         "lastSplitDate":1299024000,
         "enterpriseToRevenue":5.012,
         "enterpriseToEbitda":12.923,
+        "52WeekChange":-0.10419214,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.835,
+        "lastDividendDate":1707782400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"WEC",
@@ -199,6 +208,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"78d06f53-0c63-3f4a-b37f-07a545aa974d",
+        "messageBoardId":"finmb_315117",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":80.04,
         "targetHighPrice":96.0,
@@ -229,4 +239,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.4961
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"5260 California Avenue",
         "city":"Irvine",
@@ -8,7 +8,11 @@
         "phone":"949 231 3000",
         "website":"https:\/\/www.skyworksinc.com",
         "industry":"Semiconductors",
+        "industryKey":"semiconductors",
+        "industryDisp":"Semiconductors",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Skyworks Solutions, Inc., together with its subsidiaries, designs, develops, manufactures, and markets proprietary semiconductor products in the United States, China, South Korea, Taiwan, Europe, the Middle East, Africa, and the rest of Asia-Pacific. Its product portfolio includes amplifiers, antenna tuners, attenuators, automotive tuners and digital radios, DC\/DC converters, demodulators, detectors, diodes, wireless analog system on chip products, directional couplers, diversity receive modules, filters, front-end modules, hybrids, light emitting diode drivers, low noise amplifiers, mixers, modulators, optocouplers\/optoisolators, phase locked loops, phase shifters, power dividers\/combiners, power over ethernet, power isolators, receivers, switches, synthesizers, timing devices, voltage controlled oscillators\/synthesizers, and voltage regulators. The company products are the used in aerospace, automotive, broadband, cellular infrastructure, connected home, defense, entertainment and gaming, industrial, medical, military, smartphone, tablet, and wearable markets. It sells its products through direct sales force, electronic component distributors, and independent sales representatives. Skyworks Solutions, Inc. was founded in 1962 and is based in Irvine, California.",
         "fullTimeEmployees":9750,
         "companyOfficers":[
@@ -173,6 +177,7 @@
         "heldPercentInstitutions":0.87992996,
         "shortRatio":2.12,
         "shortPercentOfFloat":0.0326,
+        "impliedSharesOutstanding":160226000,
         "bookValue":38.871,
         "priceToBook":2.7313423,
         "lastFiscalYearEnd":1695945600,
@@ -187,6 +192,10 @@
         "lastSplitDate":956188800,
         "enterpriseToRevenue":3.677,
         "enterpriseToEbitda":12.004,
+        "52WeekChange":-0.0928154,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.68,
+        "lastDividendDate":1708041600,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"SWKS",
@@ -197,6 +206,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"3e3573db-84b3-3f81-a794-983ed41c6529",
+        "messageBoardId":"finmb_1462309",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":106.17,
         "targetHighPrice":154.0,
@@ -227,4 +237,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.3256
     }
-]
+

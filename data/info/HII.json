@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"4101 Washington Avenue",
         "city":"Newport News",
@@ -8,7 +8,11 @@
         "phone":"757 380 2000",
         "website":"https:\/\/www.hii.com",
         "industry":"Aerospace & Defense",
+        "industryKey":"aerospace-defense",
+        "industryDisp":"Aerospace & Defense",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Huntington Ingalls Industries, Inc. designs, builds, overhauls, and repairs military ships in the United States. It operates through three segments: Ingalls, Newport News, and Mission Technologies. The company is involved in the design and construction of non-nuclear ships comprising amphibious assault ships; expeditionary warfare ships; surface combatants; and national security cutters for the U.S. Navy and U.S. Coast Guard. It also provides nuclear-powered ships, such as aircraft carriers and submarines, as well as refueling and overhaul, and inactivation services of nuclear-powered aircraft carriers. In addition, the company offers naval nuclear support services, including fleet services comprising design, construction, maintenance, and disposal activities for in-service the U.S. Navy nuclear ships; and maintenance services on nuclear reactor prototypes. Further, the company provides C5ISR systems and operations; application of artificial intelligence and machine learning to battlefield decisions; defensive and offensive cyberspace strategies and electronic warfare; live, virtual, and constructive solutions; unmanned, autonomous systems; and fleet sustainment; and critical nuclear operations. Huntington Ingalls Industries, Inc. was founded in 1886 and is headquartered in Newport News, Virginia.",
         "fullTimeEmployees":44000,
         "companyOfficers":[
@@ -158,6 +162,7 @@
         "heldPercentInstitutions":0.92199,
         "shortRatio":2.45,
         "shortPercentOfFloat":0.0214,
+        "impliedSharesOutstanding":39608500,
         "bookValue":103.309,
         "priceToBook":2.8451538,
         "lastFiscalYearEnd":1703980800,
@@ -168,10 +173,12 @@
         "trailingEps":17.06,
         "forwardEps":19.26,
         "pegRatio":2.7,
-        "lastSplitFactor":"1:2",
-        "lastSplitDate":1070582400,
         "enterpriseToRevenue":1.21,
         "enterpriseToEbitda":12.388,
+        "52WeekChange":0.48528445,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.3,
+        "lastDividendDate":1708560000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"HII",
@@ -182,6 +189,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"ecffb2b0-d1b1-3b4b-b04a-7e9fb1d466e6",
+        "messageBoardId":"finmb_363263",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":293.93,
         "targetHighPrice":325.0,
@@ -212,4 +220,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.9721
     }
-]
+

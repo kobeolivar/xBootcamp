@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1932 Wynnton Road",
         "city":"Columbus",
@@ -148,7 +148,7 @@
         "averageVolume10days":2547380,
         "averageDailyVolume10Day":2547380,
         "bid":85.21,
-        "ask":85.11,
+        "ask":85.02,
         "bidSize":1000,
         "askSize":800,
         "marketCap":49057218560,
@@ -233,4 +233,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"2300 Oracle Way",
         "city":"Austin",
@@ -147,7 +147,7 @@
         "averageVolume10days":16044520,
         "averageDailyVolume10Day":16044520,
         "bid":129.01,
-        "ask":129.0,
+        "ask":129.29,
         "bidSize":900,
         "askSize":900,
         "marketCap":354585247744,
@@ -232,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.0891
     }
-]
+

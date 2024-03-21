@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"9001 Spectrum Center Boulevard",
         "city":"San Diego",
@@ -8,7 +8,11 @@
         "phone":"858-836-5000",
         "website":"https:\/\/www.resmed.com",
         "industry":"Medical Instruments & Supplies",
+        "industryKey":"medical-instruments-supplies",
+        "industryDisp":"Medical Instruments & Supplies",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"ResMed Inc. develops, manufactures, distributes, and markets medical devices and cloud-based software applications for the healthcare markets. It operates in two segments, Sleep and Respiratory Care, and Software as a Service. It offers various products and solutions for a range of respiratory disorders, including technologies to be applied in medical and consumer products, ventilation devices, diagnostic products, mask systems for use in the hospital and home, headgear and other accessories, dental devices, and cloud-based software informatics solutions to manage patient outcomes, as well as provides customer and business processes. The company also provides AirView, a cloud-based system that enables remote monitoring and changing of patients' device settings; myAir, a personalized therapy management application for patients with sleep apnea that provides support, education, and troubleshooting tools for increased patient engagement and improved compliance; U-Sleep, a compliance monitoring solution that enables home medical equipment (HME) to streamline their sleep programs; connectivity module and propeller solutions; and Propeller portal. It offers out-of-hospital software solution, such as Brightree business management software and service solutions to providers of HME, pharmacy, home infusion, orthotics, and prosthetics services; MatrixCare care management and related ancillary solutions to senior living, skilled nursing, life plan communities, home health, home care, and hospice organizations, as well as related accountable care organizations; HEALTHCAREfirst that offers electronic health record, software, billing and coding services, and analytics for home health and hospice agencies; and MEDIFOX DAN's software solutions. The company markets its products to sleep clinics, home healthcare dealers, and hospitals through a network of distributors and direct sales force. The company was founded in 1989 and is headquartered in San Diego, California.",
         "companyOfficers":[
             {
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.56636,
         "shortRatio":7.78,
         "shortPercentOfFloat":0.052399997,
+        "impliedSharesOutstanding":147088992,
         "bookValue":30.471,
         "priceToBook":6.357848,
         "lastFiscalYearEnd":1625011200,
@@ -179,6 +184,10 @@
         "lastSplitDate":1283212800,
         "enterpriseToRevenue":6.543,
         "enterpriseToEbitda":21.54,
+        "52WeekChange":-0.08647132,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.48,
+        "lastDividendDate":1707264000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"RMD",
@@ -189,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"d1143bab-49a9-3a71-8c3a-83e43b5a2e4e",
+        "messageBoardId":"finmb_340196",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":193.73,
         "targetHighPrice":227.0,
@@ -219,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.8688
     }
-]
+

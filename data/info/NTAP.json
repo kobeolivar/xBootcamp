@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3060 Olsen Drive",
         "city":"San Jose",
@@ -8,7 +8,11 @@
         "phone":"408 822 6000",
         "website":"https:\/\/www.netapp.com",
         "industry":"Computer Hardware",
+        "industryKey":"computer-hardware",
+        "industryDisp":"Computer Hardware",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"NetApp, Inc. provides cloud-led and data-centric services to manage and share data on-premises, and private and public clouds worldwide. It operates in two segments, Hybrid Cloud and Public Could. The company offers intelligent data management software, such as NetApp ONTAP, NetApp Snapshot, NetApp SnapCenter Backup Management, NetApp SnapMirror Data Replication, NetApp SnapLock Data Compliance, and storage infrastructure solutions, including NetApp All-Flash FAS series, NetApp Fabric Attached Storage, NetApp E\/EF series, and NetApp StorageGRID. In addition, it provides cloud storage and data services comprising NetApp Cloud Volumes ONTAP, Azure NetApp Files, Amazon FSx for NetApp ONTAP, NetApp Cloud Volumes Service for Google Cloud, and cloud operations services, such as NetApp Cloud Insights, Spot by NetApp, and Instaclustr. Further, the company offers application-aware data management service under the NetApp Astra name; and professional and support services, such as strategic consulting, professional, managed, and support services. Additionally, it provides assessment, design, implementation, and migration services. The company serves the energy, financial service, government, technology, internet, life science, healthcare service, manufacturing, media, entertainment, animation, video postproduction, and markets through a direct sales force and an ecosystem of partners. NetApp, Inc. was incorporated in 1992 and is headquartered in San Jose, California.",
         "fullTimeEmployees":12000,
         "companyOfficers":[
@@ -164,6 +168,7 @@
         "heldPercentInstitutions":0.94394994,
         "shortRatio":4.65,
         "shortPercentOfFloat":0.0403,
+        "impliedSharesOutstanding":206376992,
         "bookValue":4.825,
         "priceToBook":21.776167,
         "lastFiscalYearEnd":1682640000,
@@ -178,6 +183,10 @@
         "lastSplitDate":953769600,
         "enterpriseToRevenue":3.444,
         "enterpriseToEbitda":14.742,
+        "52WeekChange":0.6973834,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.5,
+        "lastDividendDate":1704326400,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"NTAP",
@@ -188,6 +197,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"952796c7-d003-394d-86b5-16b92eb94ed5",
+        "messageBoardId":"finmb_32052",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":105.07,
         "targetHighPrice":120.0,
@@ -218,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

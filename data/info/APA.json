@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"One Post Oak Central",
         "address2":"Suite 100 2000 Post Oak Boulevard",
@@ -9,7 +9,11 @@
         "phone":"(713) 296-6000",
         "website":"https:\/\/www.apacorp.com",
         "industry":"Oil & Gas E&P",
+        "industryKey":"oil-gas-e-p",
+        "industryDisp":"Oil & Gas E&P",
         "sector":"Energy",
+        "sectorKey":"energy",
+        "sectorDisp":"Energy",
         "longBusinessSummary":"APA Corporation, an independent energy company, explores for, develops, and produces natural gas, crude oil, and natural gas liquids. It has oil and gas operations in the United States, Egypt, and North Sea. The company also has exploration and appraisal activities in Suriname, as well as holds interests in projects located in Uruguay and internationally. APA Corporation was incorporated in 1954 and is headquartered in Houston, Texas.",
         "fullTimeEmployees":2271,
         "companyOfficers":[
@@ -175,6 +179,7 @@
         "heldPercentInstitutions":0.85150003,
         "shortRatio":3.08,
         "shortPercentOfFloat":0.0748,
+        "impliedSharesOutstanding":305744000,
         "bookValue":8.746,
         "priceToBook":3.8772008,
         "lastFiscalYearEnd":1703980800,
@@ -189,6 +194,10 @@
         "lastSplitDate":1074124800,
         "enterpriseToRevenue":2.053,
         "enterpriseToEbitda":3.256,
+        "52WeekChange":-0.0064687133,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.25,
+        "lastDividendDate":1705622400,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"APA",
@@ -199,6 +208,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"73880360-3f51-34f8-ad4c-027748ffae7f",
+        "messageBoardId":"finmb_169838",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":33.91,
         "targetHighPrice":59.0,
@@ -229,4 +239,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

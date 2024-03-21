@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"2200 West Don Tyson Parkway",
         "city":"Springdale",
@@ -8,7 +8,11 @@
         "phone":"(479) 290-4000",
         "website":"https:\/\/www.tysonfoods.com",
         "industry":"Farm Products",
+        "industryKey":"farm-products",
+        "industryDisp":"Farm Products",
         "sector":"Consumer Defensive",
+        "sectorKey":"consumer-defensive",
+        "sectorDisp":"Consumer Defensive",
         "longBusinessSummary":"Tyson Foods, Inc., together with its subsidiaries, operates as a food company worldwide. It operates through four segments: Beef, Pork, Chicken, and Prepared Foods. The company processes live fed cattle and hogs; fabricates dressed beef and pork carcasses into primal and sub-primal meat cuts, as well as case ready beef and pork, and fully cooked meats; raises and processes chickens into fresh, frozen, and value-added chicken products, including breaded chicken strips, nuggets, patties, and other ready-to-fix or fully cooked chicken parts; and supplies poultry breeding stock. It also manufactures and markets frozen and refrigerated food products, including ready-to-eat sandwiches, flame-grilled hamburgers, Philly steaks, pepperoni, bacon, breakfast sausage, turkey, lunchmeat, hot dogs, flour and corn tortilla products, appetizers, snacks, prepared meals, ethnic foods, side dishes, meat dishes, breadsticks, and processed meats under the Tyson, Jimmy Dean, Hillshire Farm, Ball Park, Wright, Aidells, ibp, and State Fair brands. The company sells its products through its sales staff to grocery retailers, grocery wholesalers, meat distributors, warehouse club stores, military commissaries, industrial food processing companies, chain restaurants or their distributors, live markets, international export companies, and domestic distributors who serve restaurants and food service operations, such as plant and school cafeterias, convenience stores, hospitals, and other vendors, as well as through independent brokers and trading companies. The company was founded in 1935 and is headquartered in Springdale, Arkansas.",
         "fullTimeEmployees":139000,
         "companyOfficers":[
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":0.84099,
         "shortRatio":1.73,
         "shortPercentOfFloat":0.0228,
+        "impliedSharesOutstanding":357008992,
         "bookValue":50.933,
         "priceToBook":1.1401253,
         "lastFiscalYearEnd":1696032000,
@@ -181,6 +186,10 @@
         "lastSplitDate":856224000,
         "enterpriseToRevenue":0.545,
         "enterpriseToEbitda":13.884,
+        "52WeekChange":0.028887272,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.49,
+        "lastDividendDate":1709164800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"TSN",
@@ -191,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"55f18f64-6d57-32d0-87c7-3e243bc8c3f3",
+        "messageBoardId":"finmb_190636",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":58.07,
         "targetHighPrice":71.0,
@@ -221,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

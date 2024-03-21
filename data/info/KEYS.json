@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1400 Fountaingrove Parkway",
         "city":"Santa Rosa",
@@ -9,7 +9,11 @@
         "fax":"800 829 4433",
         "website":"https:\/\/www.keysight.com",
         "industry":"Scientific & Technical Instruments",
+        "industryKey":"scientific-technical-instruments",
+        "industryDisp":"Scientific & Technical Instruments",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Keysight Technologies, Inc. provides electronic design and test solutions to commercial communications, networking, aerospace, defense and government, automotive, energy, semiconductor, electronic, and education industries in the Americas, Europe, and the Asia Pacific. The company operates in two segments, Communications Solutions Group and Electronic Industrial Solutions Group. It offers electronic design automation (EDA) software; instrument measurement software, instrument workflow software, and software testing; digital multimeter, phase noise measurement, power meters and power sensors, counters, LCR meters and impedance measurement products, and electrometers; and spectrum analyzers, network analyzers, logic analyzers, protocol analyzers and exercisers, bit error ratio testers, noise figure analyzers, AC and DC power analyzers, materials test equipment, device current waveform analyzers, and curve tracers. The company also provides waveform and function generators, arbitrary waveform generators, DC power supplies, and DC electronic loads; wireless drive test, radio access and core network test, wireless analyzers, wireless network emulators, and over-the-air test; application and threat intelligence, cloud test, cyber training simulator, network test hardware, synthetic traffic generators, protocol and load test, network security test, and network modeling; bypass switches, clock synchronization, cloud visibility, network and application monitoring, network packet brokers, and network taps; and application-specific test systems, photonic test and measurement products, and MMIC millimeter-wave and microwave devices. In addition, it offers product support, technical support, installation, training, engineering, and integration services. The company sells its products through direct sales force, distributors, resellers, and manufacturer's representatives. Keysight Technologies, Inc. was founded in 1939 and is headquartered in Santa Rosa, California.",
         "fullTimeEmployees":15500,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":0.90005,
         "shortRatio":2.14,
         "shortPercentOfFloat":0.0228,
+        "impliedSharesOutstanding":174556000,
         "bookValue":27.597,
         "priceToBook":5.5890136,
         "lastFiscalYearEnd":1698710400,
@@ -180,6 +185,8 @@
         "pegRatio":5.62,
         "enterpriseToRevenue":4.982,
         "enterpriseToEbitda":17.708,
+        "52WeekChange":-0.03681922,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"KEYS",
@@ -190,6 +197,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"48fb38e1-f876-3a3d-89c8-cd6cad73c243",
+        "messageBoardId":"finmb_247017859",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":154.24,
         "targetHighPrice":208.0,
@@ -220,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.7658
     }
-]
+

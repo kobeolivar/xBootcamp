@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"350 West Washington Street",
         "address2":"Suite 600",
@@ -10,7 +10,11 @@
         "fax":"602 414 9400",
         "website":"https:\/\/www.firstsolar.com",
         "industry":"Solar",
+        "industryKey":"solar",
+        "industryDisp":"Solar",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar energy solutions in the United States, France, Japan, Chile, and internationally. The company manufactures and sells PV solar modules with a thin film semiconductor technology that provides a lower-carbon alternative to conventional crystalline silicon PV solar modules. It designs, manufactures, and sells cadmium telluride solar modules that converts sunlight into electricity. The company's residual business operations include project development activities, operations and maintenance services, and the sale of PV solar power systems to third-party customers. It serves developers and operators of systems, utilities, independent power producers, commercial and industrial companies, and other system owners. The company was formerly known as First Solar Holdings, Inc. and changed its name to First Solar, Inc. in 2006. First Solar, Inc. was founded in 1999 and is headquartered in Tempe, Arizona.",
         "fullTimeEmployees":6700,
         "companyOfficers":[
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.92109,
         "shortRatio":2.36,
         "shortPercentOfFloat":0.072,
+        "impliedSharesOutstanding":106849000,
         "bookValue":62.589,
         "priceToBook":2.4394062,
         "lastFiscalYearEnd":1703980800,
@@ -180,6 +185,8 @@
         "pegRatio":0.16,
         "enterpriseToRevenue":4.417,
         "enterpriseToEbitda":12.277,
+        "52WeekChange":-0.2815072,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"FSLR",
@@ -190,6 +197,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"e8b9ad1f-8c6e-3941-8adb-df3003710c1e",
+        "messageBoardId":"finmb_4593731",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":152.68,
         "targetHighPrice":359.0,
@@ -219,4 +227,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.3359
     }
-]
+

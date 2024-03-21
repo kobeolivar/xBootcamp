@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1000 Mylan Boulevard",
         "city":"Canonsburg",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"724 514 1800",
         "website":"https:\/\/www.viatris.com",
-        "industry":"Drug Manufacturers—Specialty & Generic",
+        "industry":"Drug Manufacturers - Specialty & Generic",
+        "industryKey":"drug-manufacturers-specialty-generic",
+        "industryDisp":"Drug Manufacturers - Specialty & Generic",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Viatris Inc. operates as a healthcare company worldwide. The company operates in four segments: Developed Markets, Greater China, JANZ, and Emerging Markets. It offers prescription brand drugs, generic drugs, complex generic drugs, biosimilars, and active pharmaceutical ingredients (APIs). The company offers drugs in various therapeutic areas, including noncommunicable and infectious diseases; biosimilars in the areas of oncology, immunology, endocrinology, ophthalmology, and dermatology; and APIs for antibacterial, central nervous system agents, antihistamines\/antiasthmatics, cardiovascular, antivirals, antidiabetics, antifungals, and proton pump inhibitor areas, as well as support services, such as diagnostic clinics, educational seminars, and digital tools to help patients better manage their health. It provides it medicines in the form of oral solid doses, injectables, complex dosage forms, and APIs to retail and pharmacy establishments, wholesalers and distributors, payers, insurers and governments, and institutions. The company distributes its products through pharmaceutical wholesalers\/distributors, pharmaceutical retailers, institutional pharmacies, mail-order and e-commerce pharmacies, and specialty pharmacies. It sells its products under the Lyrica, Lipitor, Creon, Influvac, Wixela Inhub, EpiPen auto-injector, Fraxiparine, and Yupelri; Norvasc and Viagra; AMITIZA, Lipacreon, and Effexor; and Celebrex and ARV names, as well as glargine and SEMGLEE names. The company has collaboration and licensing agreements with Revance Therapeutics, Inc.; and Momenta Pharmaceuticals, Inc. Viatris Inc. was founded in 1961 and is headquartered in Canonsburg, Pennsylvania.",
         "fullTimeEmployees":38000,
         "companyOfficers":[
@@ -163,6 +167,7 @@
         "heldPercentInstitutions":0.83255994,
         "shortRatio":3.86,
         "shortPercentOfFloat":0.041100003,
+        "impliedSharesOutstanding":1187570048,
         "bookValue":17.045,
         "priceToBook":0.70460546,
         "lastFiscalYearEnd":1703980800,
@@ -176,6 +181,10 @@
         "lastSplitDate":1065657600,
         "enterpriseToRevenue":2.029,
         "enterpriseToEbitda":6.443,
+        "52WeekChange":0.29130435,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.12,
+        "lastDividendDate":1709856000,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"VTRS",
@@ -186,6 +195,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"d5d1873c-6bd3-3e7a-85a5-4c85b774dfd9",
+        "messageBoardId":"finmb_290203",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":12.01,
         "targetHighPrice":35.0,
@@ -215,4 +225,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

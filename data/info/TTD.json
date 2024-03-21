@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"42 North Chestnut Street",
         "city":"Ventura",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"805 585 3434",
         "website":"https:\/\/www.thetradedesk.com",
-        "industry":"Software—Application",
+        "industry":"Software - Application",
+        "industryKey":"software-application",
+        "industryDisp":"Software - Application",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"The Trade Desk, Inc. operates as a technology company in the United States and internationally. The company offers a self-service cloud-based platform that allows buyers to plan, manage, optimize, and measure data-driven digital advertising campaigns across various ad formats and channels, including video, display, audio, digital-out-of-home, native, and social on various devices, such as computers, mobile devices, televisions, and streaming devices. It provides data and other value-added services. The company serves advertising agencies, brands, and other service providers for advertisers. The Trade Desk, Inc. was incorporated in 2009 and is headquartered in Ventura, California.",
         "fullTimeEmployees":3115,
         "companyOfficers":[
@@ -148,6 +152,7 @@
         "heldPercentInstitutions":0.78846,
         "shortRatio":1.54,
         "shortPercentOfFloat":0.0251,
+        "impliedSharesOutstanding":488936992,
         "bookValue":4.427,
         "priceToBook":19.213913,
         "lastFiscalYearEnd":1703980800,
@@ -162,6 +167,8 @@
         "lastSplitDate":1623888000,
         "enterpriseToRevenue":20.383,
         "enterpriseToEbitda":148.623,
+        "52WeekChange":0.38677526,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NGM",
         "quoteType":"EQUITY",
         "symbol":"TTD",
@@ -172,6 +179,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"486a950d-9ad7-33de-99f6-fe8a13803a97",
+        "messageBoardId":"finmb_99942756",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":85.06,
         "targetHighPrice":115.0,
@@ -202,4 +210,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.2977
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"4300 Wilson Boulevard",
         "address2":"11th Floor",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"703 522 1315",
         "website":"https:\/\/www.aes.com",
-        "industry":"Utilities—Diversified",
+        "industry":"Utilities - Diversified",
+        "industryKey":"utilities-diversified",
+        "industryDisp":"Utilities - Diversified",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"The AES Corporation, together with its subsidiaries, operates as a diversified power generation and utility company in the United States and internationally. The company owns and\/or operates power plants to generate and sell power to customers, such as utilities, industrial users, and other intermediaries; owns and\/or operates utilities to generate or purchase, distribute, transmit, and sell electricity to end-user customers in the residential, commercial, industrial, and governmental sectors; and generates and sells electricity on the wholesale market. It uses various fuels and technologies to generate electricity, such as coal, gas, hydro, wind, solar, and biomass, as well as renewables comprising energy storage and landfill gas. The company owns and\/or operates a generation portfolio of approximately 34,596 megawatts and distributes power to 2.6 million customers. The company was formerly known as Applied Energy Services, Inc. and changed its name to The AES Corporation in April 2000. The AES Corporation was incorporated in 1981 and is headquartered in Arlington, Virginia.",
         "fullTimeEmployees":9600,
         "companyOfficers":[
@@ -173,6 +177,7 @@
         "heldPercentInstitutions":0.94029,
         "shortRatio":1.59,
         "shortPercentOfFloat":0.024,
+        "impliedSharesOutstanding":710808000,
         "bookValue":2.464,
         "priceToBook":6.396104,
         "lastFiscalYearEnd":1703980800,
@@ -186,6 +191,10 @@
         "lastSplitDate":959904000,
         "enterpriseToRevenue":3.417,
         "enterpriseToEbitda":12.865,
+        "52WeekChange":-0.29234976,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.173,
+        "lastDividendDate":1706659200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"AES",
@@ -196,6 +205,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"76b75934-57e2-3b50-befe-2dcd63cf388f",
+        "messageBoardId":"finmb_35312",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":15.76,
         "targetHighPrice":25.0,
@@ -225,4 +235,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.1376
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1391 Timberlake Manor Parkway",
         "city":"Chesterfield",
@@ -8,7 +8,11 @@
         "phone":"314 292 2000",
         "website":"https:\/\/www.bunge.com",
         "industry":"Farm Products",
+        "industryKey":"farm-products",
+        "industryDisp":"Farm Products",
         "sector":"Consumer Defensive",
+        "sectorKey":"consumer-defensive",
+        "sectorDisp":"Consumer Defensive",
         "longBusinessSummary":"Bunge Global SA operates as an agribusiness and food company worldwide. It operates through four segments: Agribusiness, Refined and Specialty Oils, Milling, and Sugar and Bioenergy. The Agribusiness segment purchases, stores, transports, processes, and sells agricultural commodities and commodity products, including oilseeds primarily soybeans, rapeseed, canola, and sunflower seeds, as well as grains comprising wheat and corn; and processes oilseeds into vegetable oils and protein meals. This segment offers its products for animal feed manufacturers, livestock producers, wheat and corn millers, and other oilseed processors, as well as third-party edible oil processing and biofuel companies for biofuel production applications. The Refined and Specialty Oils segment sells packaged and bulk oils and fats that comprise cooking oils, shortenings, margarines, mayonnaise, renewable diesel feedstocks, and other products for baked goods companies, snack food producers, confectioners, restaurant chains, foodservice operators, infant nutrition companies, and other food manufacturers, as well as grocery chains, wholesalers, distributors, and other retailers. This segment also refines and fractionates palm oil, palm kernel oil, coconut oil, and shea butter, and olive oil; and produces specialty ingredients derived from vegetable oils, such as lecithin. The Milling segment provides wheat flours and bakery mixes; corn milling products that comprise dry-milled corn meals and flours, wet-milled masa and flours, and flaking and brewer's grits, as well as soy-fortified corn meal, corn-soy blends, and other products; whole grain and fiber ingredients; die-cut pellets; and non-GMO products. The Sugar and Bioenergy segment produces sugar and ethanol; and generates electricity from burning sugarcane bagasse. Bunge Global SA was founded in 1818 and is headquartered in Chesterfield, Missouri.",
         "fullTimeEmployees":23000,
         "companyOfficers":[
@@ -174,6 +178,7 @@
         "heldPercentInstitutions":0.89356005,
         "shortRatio":2.36,
         "shortPercentOfFloat":0.0416,
+        "impliedSharesOutstanding":150158000,
         "bookValue":80.367,
         "priceToBook":1.2456605,
         "lastFiscalYearEnd":1703980800,
@@ -186,6 +191,10 @@
         "pegRatio":-1.13,
         "enterpriseToRevenue":0.293,
         "enterpriseToEbitda":4.697,
+        "52WeekChange":0.041372657,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.663,
+        "lastDividendDate":1707955200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BG",
@@ -196,6 +205,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"461b1990-fe86-3f96-acd1-5a16a26dceb8",
+        "messageBoardId":"finmb_687261",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":100.11,
         "targetHighPrice":136.93,
@@ -226,4 +236,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Thurgauerstrasse 34",
         "city":"Zurich",
@@ -7,7 +7,11 @@
         "phone":"41 44 316 1717",
         "website":"https:\/\/www.amcor.com",
         "industry":"Packaging & Containers",
+        "industryKey":"packaging-containers",
+        "industryDisp":"Packaging & Containers",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Amcor plc develops, produces, and sells packaging products in Europe, North America, Latin America, Africa, and the Asia Pacific regions. The company operates through two segments, Flexibles and Rigid Packaging. The Flexibles segment provides flexible and film packaging products in the food and beverage, medical and pharmaceutical, fresh produce, snack food, personal care, and other industries. The Rigid Packaging segment offers rigid containers for various beverage and food products, including carbonated soft drinks, water, juices, sports drinks, milk-based beverages, spirits and beer, sauces, dressings, spreads, and personal care items; and plastic caps for various applications. The company sells its products through its direct sales force. Amcor plc was incorporated in 2018 and is headquartered in Zurich, Switzerland.",
         "fullTimeEmployees":41000,
         "companyOfficers":[
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":0.52343,
         "shortRatio":2.17,
         "shortPercentOfFloat":0.0162,
+        "impliedSharesOutstanding":1445340032,
         "bookValue":2.745,
         "priceToBook":3.3806922,
         "lastFiscalYearEnd":1688083200,
@@ -178,6 +183,10 @@
         "pegRatio":2.49,
         "enterpriseToRevenue":1.46,
         "enterpriseToEbitda":11.332,
+        "52WeekChange":-0.15590405,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.125,
+        "lastDividendDate":1708992000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"AMCR",
@@ -188,6 +197,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"a664bbf5-809e-3649-bcb0-d71c5bb3a910",
+        "messageBoardId":"finmb_401715",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":9.28,
         "targetHighPrice":10.09,
@@ -218,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.7282
     }
-]
+

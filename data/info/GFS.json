@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"400 Stonebreak Road Extension",
         "city":"Malta",
@@ -8,7 +8,11 @@
         "phone":"518 305 9013",
         "website":"https:\/\/gf.com",
         "industry":"Semiconductors",
+        "industryKey":"semiconductors",
+        "industryDisp":"Semiconductors",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"GLOBALFOUNDRIES Inc. operates as a semiconductor foundry worldwide. The company manufactures a range of semiconductor devices, including microprocessors, mobile application processors, baseband processors, network processors, radio frequency modems, microcontrollers, and power management units; and offers mainstream wafer fabrication services and technologies. The company was founded in 2009 and is based in Malta, New York.",
         "companyOfficers":[
             {
@@ -135,6 +139,7 @@
         "heldPercentInstitutions":1.02682,
         "shortRatio":6.13,
         "shortPercentOfFloat":0.1499,
+        "impliedSharesOutstanding":560342016,
         "bookValue":20.08,
         "priceToBook":2.613546,
         "lastFiscalYearEnd":1703980800,
@@ -147,6 +152,8 @@
         "pegRatio":3.38,
         "enterpriseToRevenue":3.788,
         "enterpriseToEbitda":10.561,
+        "52WeekChange":-0.24806422,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"GFS",
@@ -157,6 +164,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"1258e882-1fa8-3c20-b278-d6d0522ad2ee",
+        "messageBoardId":"finmb_237245858",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":52.48,
         "targetHighPrice":75.0,
@@ -187,4 +195,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.5778
     }
-]
+

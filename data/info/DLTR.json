@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"500 Volvo Parkway",
         "city":"Chesapeake",
@@ -8,7 +8,11 @@
         "phone":"757 321 5000",
         "website":"https:\/\/www.dollartree.com",
         "industry":"Discount Stores",
+        "industryKey":"discount-stores",
+        "industryDisp":"Discount Stores",
         "sector":"Consumer Defensive",
+        "sectorKey":"consumer-defensive",
+        "sectorDisp":"Consumer Defensive",
         "longBusinessSummary":"Dollar Tree, Inc. operates retail discount stores. The company operates in two segments, Dollar Tree and Family Dollar. The Dollar Tree segment offers merchandise at the fixed price of $ 1.25. It provides consumable merchandise, which includes everyday consumables, such as household paper and chemicals, food, candy, health, personal care products, and frozen and refrigerated food; variety merchandise comprising toys, durable housewares, gifts, stationery, party goods, greeting cards, softlines, arts and crafts supplies, and other items; and seasonal goods that include Christmas, Easter, Halloween, and Valentine's Day merchandise. It operates stores under the Dollar Tree and Dollar Tree Canada brands, as well as distribution centers in the United States and Canada. The Family Dollar segment operates general merchandise retail discount stores that offer consumable merchandise, which comprise food and beverages, tobacco, health and personal care, household chemicals, paper products, hardware and automotive supplies, diapers, batteries, and pet food and supplies; and home products, including housewares, home décor, and giftware, as well as domestics, such as comforters, sheets, and towels. It also provides apparel and accessories merchandise comprising clothing, fashion accessories, and shoes; and seasonal and electronics merchandise that include Christmas, Easter, Halloween, and Valentine's Day merchandise, as well as personal electronics, which comprise pre-paid cellular phones and services, stationery and school supplies, and toys. Dollar Tree, Inc. was founded in 1986 and is based in Chesapeake, Virginia.",
         "companyOfficers":[
             {
@@ -161,6 +165,7 @@
         "heldPercentInstitutions":1.04988,
         "shortRatio":3.02,
         "shortPercentOfFloat":0.037,
+        "impliedSharesOutstanding":217872000,
         "bookValue":33.546,
         "priceToBook":3.7921062,
         "lastFiscalYearEnd":1706918400,
@@ -174,6 +179,8 @@
         "lastSplitDate":1340755200,
         "enterpriseToRevenue":1.23,
         "enterpriseToEbitda":36.596,
+        "52WeekChange":-0.05433339,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"DLTR",
@@ -184,6 +191,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"93813a67-1334-34e6-a70f-a46e06dc4100",
+        "messageBoardId":"finmb_27685",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":127.21,
         "targetHighPrice":180.0,
@@ -213,4 +221,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.2648
     }
-]
+

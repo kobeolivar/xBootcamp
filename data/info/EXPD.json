@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1015 Third Avenue",
         "city":"Seattle",
@@ -8,7 +8,11 @@
         "phone":"206 674 3400",
         "website":"https:\/\/www.expeditors.com",
         "industry":"Integrated Freight & Logistics",
+        "industryKey":"integrated-freight-logistics",
+        "industryDisp":"Integrated Freight & Logistics",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Expeditors International of Washington, Inc., together with its subsidiaries, provides logistics services worldwide. The company offers airfreight services, such as air freight consolidation and forwarding; ocean freight and ocean services, including ocean freight consolidation, direct ocean forwarding, and order management; customs brokerage, import, intra-continental ground transportation and delivery, and warehousing and distribution services; and customs clearance, purchase order management, vendor consolidation, time-definite transportation services, temperature-controlled transit, cargo insurance, specialized cargo monitoring and tracking, and other supply chain solutions. It also provides optimization, trade compliance consulting, cargo security, and solutions. In addition, it acts as a freight consolidator or as an agent for the airline that carries the shipment. Further, the company provides ancillary services that include preparation of shipping and customs documentation, packing, crating, insurance services, and the preparation of documentation to comply with local import and export laws. Its customers include retailing and wholesaling, electronics, technology, and industrial and manufacturing companies. The company was incorporated in 1979 and is headquartered in Seattle, Washington.",
         "fullTimeEmployees":18100,
         "companyOfficers":[
@@ -139,8 +143,8 @@
         "averageVolume":1170260,
         "averageVolume10days":1326680,
         "averageDailyVolume10Day":1326680,
-        "bid":107.06,
-        "ask":121.09,
+        "bid":121.78,
+        "ask":124.42,
         "bidSize":800,
         "askSize":800,
         "marketCap":17489485824,
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.97475,
         "shortRatio":4.46,
         "shortPercentOfFloat":0.0535,
+        "impliedSharesOutstanding":143899008,
         "bookValue":16.615,
         "priceToBook":7.315077,
         "lastFiscalYearEnd":1703980800,
@@ -179,6 +184,10 @@
         "lastSplitDate":1151280000,
         "enterpriseToRevenue":1.744,
         "enterpriseToEbitda":16.098,
+        "52WeekChange":0.14355397,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.69,
+        "lastDividendDate":1701302400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"EXPD",
@@ -189,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"887ad785-966b-33ef-b557-a45155fda78c",
+        "messageBoardId":"finmb_270071",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":121.54,
         "targetHighPrice":130.0,
@@ -219,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

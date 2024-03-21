@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"2225 Lawson Lane",
         "city":"Santa Clara",
@@ -144,8 +144,8 @@
         "averageVolume":1197181,
         "averageVolume10days":1257720,
         "averageDailyVolume10Day":1257720,
-        "bid":770.89,
-        "ask":775.2,
+        "bid":772.31,
+        "ask":775.12,
         "bidSize":1100,
         "askSize":1000,
         "marketCap":158501896192,
@@ -224,4 +224,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.881
     }
-]
+

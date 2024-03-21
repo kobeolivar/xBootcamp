@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3850 Hamlin Road",
         "city":"Auburn Hills",
@@ -8,7 +8,11 @@
         "phone":"248 754 9200",
         "website":"https:\/\/www.borgwarner.com",
         "industry":"Auto Parts",
+        "industryKey":"auto-parts",
+        "industryDisp":"Auto Parts",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"BorgWarner Inc., together with its subsidiaries, provides solutions for combustion, hybrid, and electric vehicles worldwide. It offers turbochargers, eBoosters, eTurbos, timing systems, emissions systems, thermal systems, gasoline ignition technology, smart remote actuators, powertrain sensors, cabin heaters, battery modules and systems, battery heaters, and battery charging. The company provides power electronics, control modules, software, friction, and mechanical products for automatic transmissions and torque-management products. It sells its products to original equipment manufacturers of light vehicles, which comprise passenger cars, sport-utility vehicles, vans, and light trucks; commercial vehicles, including medium-duty and heavy-duty trucks, and buses; and off-highway vehicles, such as agricultural and construction machinery, and marine applications, as well as to tier one vehicle systems suppliers and the aftermarket for light, commercial, and off-highway vehicles. The company was formerly known as Borg-Warner Automotive, Inc. BorgWarner Inc. was incorporated in 1987 and is headquartered in Auburn Hills, Michigan.",
         "fullTimeEmployees":39900,
         "companyOfficers":[
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":1.00021,
         "shortRatio":3.41,
         "shortPercentOfFloat":0.05,
+        "impliedSharesOutstanding":229780000,
         "bookValue":25.363,
         "priceToBook":1.3168789,
         "lastFiscalYearEnd":1703980800,
@@ -177,10 +182,14 @@
         "trailingEps":2.7,
         "forwardEps":4.37,
         "pegRatio":0.77,
-        "lastSplitFactor":"2:1",
-        "lastSplitDate":1387238400,
+        "lastSplitFactor":"1136:1000",
+        "lastSplitDate":1688515200,
         "enterpriseToRevenue":0.715,
         "enterpriseToEbitda":5.547,
+        "52WeekChange":-0.20270443,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.11,
+        "lastDividendDate":1709164800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BWA",
@@ -191,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"06aaeaa7-db0d-3bfe-b0b9-8d06678c217d",
+        "messageBoardId":"finmb_25708",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":33.4,
         "targetHighPrice":50.0,
@@ -221,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.59
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"5500 Haven Street",
         "city":"Las Vegas",
@@ -8,7 +8,11 @@
         "phone":"702 923 9000",
         "website":"https:\/\/www.sands.com",
         "industry":"Resorts & Casinos",
+        "industryKey":"resorts-casinos",
+        "industryDisp":"Resorts & Casinos",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Las Vegas Sands Corp., together with its subsidiaries, develops, owns, and operates integrated resorts in Macao and Singapore. It owns and operates The Venetian Macao Resort Hotel, the Londoner Macao, The Parisian Macao, The Plaza Macao and Four Seasons Hotel Macao, Cotai Strip, and the Sands Macao in Macao, the People's Republic of China; and Marina Bay Sands in Singapore. The company's integrated resorts feature accommodations, gaming, entertainment and retail malls, convention and exhibition facilities, celebrity chef restaurants, and other amenities. Las Vegas Sands Corp. was founded in 1988 and is based in Las Vegas, Nevada.",
         "fullTimeEmployees":38400,
         "companyOfficers":[
@@ -158,6 +162,7 @@
         "heldPercentInstitutions":0.46148998,
         "shortRatio":1.43,
         "shortPercentOfFloat":0.0177,
+        "impliedSharesOutstanding":753620992,
         "bookValue":5.466,
         "priceToBook":9.211489,
         "lastFiscalYearEnd":1703980800,
@@ -169,6 +174,10 @@
         "pegRatio":0.65,
         "enterpriseToRevenue":4.559,
         "enterpriseToEbitda":13.321,
+        "52WeekChange":-0.07600951,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.2,
+        "lastDividendDate":1707091200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"LVS",
@@ -179,6 +188,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"76ae2e1c-04e5-3e1c-b855-24a20193b25c",
+        "messageBoardId":"finmb_3632895",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":50.35,
         "targetHighPrice":75.0,
@@ -208,4 +218,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.6944
     }
-]
+

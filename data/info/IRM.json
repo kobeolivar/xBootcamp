@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"85 New Hampshire Avenue",
         "address2":"Suite 150",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"617 535 4766",
         "website":"https:\/\/www.ironmountain.com",
-        "industry":"REIT—Specialty",
+        "industry":"REIT - Specialty",
+        "industryKey":"reit-specialty",
+        "industryDisp":"REIT - Specialty",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"Iron Mountain Incorporated (NYSE: IRM) is a global leader in information management services. Founded in 1951 and trusted by more than 240,000 customers worldwide, Iron Mountain serves to protect and elevate the power of our customers' work. Through a range of offerings including digital transformation, data centers, secure records storage, information management, asset lifecycle management, secure destruction and art storage and logistics, Iron Mountain helps businesses bring light to their dark data, enabling customers to unlock value and intelligence from their stored digital and physical assets at speed and with security, while helping them meet their environmental goals.",
         "fullTimeEmployees":27000,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":0.81466,
         "shortRatio":6.69,
         "shortPercentOfFloat":0.0436,
+        "impliedSharesOutstanding":292276000,
         "bookValue":0.724,
         "priceToBook":111.78177,
         "lastFiscalYearEnd":1703980800,
@@ -182,6 +187,10 @@
         "lastSplitDate":1411689600,
         "enterpriseToRevenue":6.966,
         "enterpriseToEbitda":20.85,
+        "52WeekChange":0.6182883,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.65,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"IRM",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"7244d4f1-53c4-320f-80d8-0154b2d6c5a7",
+        "messageBoardId":"finmb_30292",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":80.93,
         "targetHighPrice":91.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Seon Place",
         "address2":"4th Floor 141 Front Street PO Box HM 845",
@@ -8,8 +8,12 @@
         "phone":"441 295 0006",
         "fax":"441 295 4828",
         "website":"https:\/\/www.everestglobal.com",
-        "industry":"Insurance—Reinsurance",
+        "industry":"Insurance - Reinsurance",
+        "industryKey":"insurance-reinsurance",
+        "industryDisp":"Insurance - Reinsurance",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Everest Group, Ltd., through its subsidiaries, provides reinsurance and insurance products in the United States, Europe, and internationally. The company operates through two segment, Insurance and Reinsurance. The Reinsurance segment writes property and casualty reinsurance; and specialty lines of business through reinsurance brokers, as well as directly with ceding companies in the United States, Bermuda, Ireland, Canada, Singapore, Switzerland, and the United Kingdom. The Insurance Operations segment writes property and casualty insurance directly, as well as through brokers, surplus lines, and general agents in the United States, Bermuda, Canada, Europe, South America, Singapore, France, Germany, Spain, Canada, Chile, the United Kingdom, Ireland, and the Netherlands. The company also provides treaty and facultative reinsurance products; admitted and non-admitted insurance products; and accident and health, specialty underwriters, eversports and entertainment, and surety and credit, marine and aviation, as well as structured and property hybrid solutions. In addition, it offers commercial property and casualty insurance products through wholesale and retail brokers, surplus lines brokers, and program administrators. The company was formerly known as Everest Re Group, Ltd. and changed its name to Everest Group, Ltd. in July 2023.Everest Group, Ltd., was founded in 1973 and is headquartered in Hamilton, Bermuda.",
         "fullTimeEmployees":2844,
         "companyOfficers":[
@@ -140,7 +144,7 @@
         "averageVolume":389531,
         "averageVolume10days":387880,
         "averageDailyVolume10Day":387880,
-        "bid":379.12,
+        "bid":378.84,
         "ask":389.25,
         "bidSize":800,
         "askSize":800,
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":0.95494,
         "shortRatio":1.97,
         "shortPercentOfFloat":0.025899999,
+        "impliedSharesOutstanding":43381600,
         "bookValue":304.194,
         "priceToBook":1.2637658,
         "lastFiscalYearEnd":1703980800,
@@ -177,6 +182,10 @@
         "forwardEps":68.67,
         "pegRatio":0.24,
         "enterpriseToRevenue":1.158,
+        "52WeekChange":0.14315808,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.75,
+        "lastDividendDate":1710720000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"EG",
@@ -187,6 +196,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"fbe46383-db39-3907-941a-234bec7f2424",
+        "messageBoardId":"finmb_340813",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":384.43,
         "targetHighPrice":466.0,
@@ -215,4 +225,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

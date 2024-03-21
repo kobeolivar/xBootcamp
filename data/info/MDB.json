@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1633 Broadway",
         "address2":"38th Floor",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"646 727 4092",
         "website":"https:\/\/www.mongodb.com",
-        "industry":"Software—Infrastructure",
+        "industry":"Software - Infrastructure",
+        "industryKey":"software-infrastructure",
+        "industryDisp":"Software - Infrastructure",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"MongoDB, Inc., together with its subsidiaries, provides general purpose database platform worldwide. The company provides MongoDB Atlas, a hosted multi-cloud database-as-a-service solution; MongoDB Enterprise Advanced, a commercial database server for enterprise customers to run in the cloud, on-premises, or in a hybrid environment; and Community Server, a free-to-download version of its database, which includes the functionality that developers need to get started with MongoDB. It offers professional services comprising consulting and training. The company was formerly known as 10gen, Inc. and changed its name to MongoDB, Inc. in August 2013. MongoDB, Inc. was incorporated in 2007 and is headquartered in New York, New York.",
         "fullTimeEmployees":5037,
         "companyOfficers":[
@@ -154,6 +158,7 @@
         "heldPercentInstitutions":0.92656,
         "shortRatio":2.51,
         "shortPercentOfFloat":0.0495,
+        "impliedSharesOutstanding":72831104,
         "bookValue":14.696,
         "priceToBook":24.506668,
         "lastFiscalYearEnd":1706659200,
@@ -164,6 +169,8 @@
         "forwardEps":3.5,
         "enterpriseToRevenue":15.07,
         "enterpriseToEbitda":-120.311,
+        "52WeekChange":0.6316172,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NGM",
         "quoteType":"EQUITY",
         "symbol":"MDB",
@@ -174,6 +181,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"6c152faa-4bbc-39a0-87fc-7c608b6583a5",
+        "messageBoardId":"finmb_46952162",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":360.15,
         "targetHighPrice":700.0,
@@ -203,4 +211,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

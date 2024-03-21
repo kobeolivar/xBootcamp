@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"One Citizens Plaza",
         "city":"Providence",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"203 900 6715",
         "website":"https:\/\/www.citizensbank.com",
-        "industry":"Banks—Regional",
+        "industry":"Banks - Regional",
+        "industryKey":"banks-regional",
+        "industryDisp":"Banks - Regional",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Citizens Financial Group, Inc. operates as the bank holding company that provides retail and commercial banking products and services to individuals, small businesses, middle-market companies, corporations, and institutions in the United States. The company operates in two segments, Consumer Banking and Commercial Banking. The Consumer Banking segment offers deposit products, mortgage and home equity lending products, credit cards, business loans, wealth management, and investment services; and auto, education, and point-of-sale finance loans, as well as digital deposit products. This segment serves its customers through telephone service centers, as well as through its online and mobile platforms. The Commercial Banking segment provides various financial products and solutions, including lending and leasing, deposit and treasury management services, foreign exchange, and interest rate and commodity risk management solutions, as well as syndicated loans, corporate finance, mergers and acquisitions, and debt and equity capital markets services. This segment serves corporate banking, healthcare, technology, asset finance, franchise finance, leasing, asset-based lending, commercial real estate, mid-corporate, and private equity sponsor industries. The company was formerly known as RBS Citizens Financial Group, Inc. and changed its name to Citizens Financial Group, Inc. in April 2014. Citizens Financial Group, Inc. was founded in 1828 and is headquartered in Providence, Rhode Island.",
         "fullTimeEmployees":17570,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":0.97411,
         "shortRatio":3.41,
         "shortPercentOfFloat":0.0618,
+        "impliedSharesOutstanding":458756992,
         "bookValue":47.871,
         "priceToBook":0.7459631,
         "lastFiscalYearEnd":1703980800,
@@ -181,6 +186,10 @@
         "forwardEps":4.04,
         "pegRatio":12.25,
         "enterpriseToRevenue":2.924,
+        "52WeekChange":0.16560721,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.42,
+        "lastDividendDate":1706572800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"CFG",
@@ -191,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"fdd77d90-0c9d-3547-8ef8-d20aff4680dc",
+        "messageBoardId":"finmb_46051729",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":35.71,
         "targetHighPrice":42.0,
@@ -214,4 +224,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

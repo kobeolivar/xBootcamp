@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"2170 Piedmont Road, NE",
         "city":"Atlanta",
@@ -8,7 +8,11 @@
         "phone":"404 888 2000",
         "website":"https:\/\/www.rollins.com",
         "industry":"Personal Services",
+        "industryKey":"personal-services",
+        "industryDisp":"Personal Services",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Rollins, Inc., through its subsidiaries, provides pest and wildlife control services to residential and commercial customers in the United States and internationally. The company offers pest control services to residential properties protecting from common pests, including rodents, insects, and wildlife. It also provides workplace pest control solutions for customers across various end markets, such as healthcare, foodservice, and logistics. In addition, the company offers termite protection services and ancillary services. It serves clients directly, as well as through franchisee operations. The company was formerly known as Rollins Broadcasting, Inc and changed its name to Rollins, Inc. in 1965. Rollins, Inc. was founded in 1901 and is headquartered in Atlanta, Georgia.",
         "fullTimeEmployees":19031,
         "companyOfficers":[
@@ -110,6 +114,7 @@
         "heldPercentInstitutions":0.53358,
         "shortRatio":3.36,
         "shortPercentOfFloat":0.034,
+        "impliedSharesOutstanding":484535008,
         "bookValue":2.387,
         "priceToBook":19.488897,
         "lastFiscalYearEnd":1703980800,
@@ -124,6 +129,10 @@
         "lastSplitDate":1607644800,
         "enterpriseToRevenue":7.605,
         "enterpriseToEbitda":33.81,
+        "52WeekChange":0.29471934,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.15,
+        "lastDividendDate":1708387200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"ROL",
@@ -134,6 +143,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"5f35bee0-3536-3410-9c07-d5b521674167",
+        "messageBoardId":"finmb_300753",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":46.52,
         "targetHighPrice":52.0,
@@ -164,4 +174,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":4.2534
     }
-]
+

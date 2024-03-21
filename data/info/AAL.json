@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1 Skyview Drive",
         "city":"Fort Worth",
@@ -8,7 +8,11 @@
         "phone":"682 278 9000",
         "website":"https:\/\/www.americanairlines.in\/intl\/in\/index.jsp",
         "industry":"Airlines",
+        "industryKey":"airlines",
+        "industryDisp":"Airlines",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"American Airlines Group Inc., through its subsidiaries, operates as a network air carrier. The company provides scheduled air transportation services for passengers and cargo through its hubs in Charlotte, Chicago, Dallas\/Fort Worth, Los Angeles, Miami, New York, Philadelphia, Phoenix, and Washington, D.C., as well as through partner gateways in London, Doha, Madrid, Seattle\/Tacoma, Sydney, and Tokyo. It operates a mainline fleet of 965 aircraft. The company was formerly known as AMR Corporation and changed its name to American Airlines Group Inc. in December 2013. American Airlines Group Inc. was founded in 1926 and is headquartered in Fort Worth, Texas.",
         "fullTimeEmployees":132100,
         "companyOfficers":[
@@ -159,6 +163,7 @@
         "heldPercentInstitutions":0.52936,
         "shortRatio":1.32,
         "shortPercentOfFloat":0.0655,
+        "impliedSharesOutstanding":654756992,
         "bookValue":-7.951,
         "lastFiscalYearEnd":1703980800,
         "nextFiscalYearEnd":1735603200,
@@ -168,10 +173,12 @@
         "trailingEps":1.21,
         "forwardEps":3.32,
         "pegRatio":0.12,
-        "lastSplitFactor":"0:1",
-        "lastSplitDate":1386547200,
         "enterpriseToRevenue":0.792,
         "enterpriseToEbitda":6.639,
+        "52WeekChange":0.068965554,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.1,
+        "lastDividendDate":1580774400,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"AAL",
@@ -182,6 +189,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"b73d98bf-8d5e-382f-9d49-b84d8f52f152",
+        "messageBoardId":"finmb_168569",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":14.78,
         "targetHighPrice":23.0,
@@ -210,4 +218,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.3121
     }
-]
+

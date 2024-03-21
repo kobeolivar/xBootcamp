@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"51 Lime Street",
         "city":"London",
@@ -7,7 +7,11 @@
         "phone":"44 203 1246000",
         "website":"https:\/\/www.wtwco.com",
         "industry":"Insurance Brokers",
+        "industryKey":"insurance-brokers",
+        "industryDisp":"Insurance Brokers",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Willis Towers Watson Public Limited Company operates as an advisory, broking, and solutions company worldwide. It operates through two segments: Health, Wealth & Career and Risk & Broking. The company offers strategy and design consulting, plan management service and support, broking and administration services for health, wellbeing, and other group benefit program, including medical, dental, disability, life, voluntary benefits and other coverages; actuarial support, plan design, and administrative services for pension and retirement savings plans; retirement consulting services and solutions; and integrated solutions that consists of investment discretionary management, pension administration, core actuarial, and communication and change management assistance services. It also provides advice, data, software, and products to address clients' total rewards and talent issues; and risk advice, insurance brokerage, and consulting services in the areas of property and casualty, affinity, risk and analytics, aerospace, construction, global markets direct & facultative, financial, executive and professional risks, financial solutions, crisis management, surety, marine, and natural resources. In addition, the company offers integrated solutions that consists of investment discretionary management, pension administration, core actuarial, and communication and change management assistance services; and software and technology, risk and capital management, products and product pricing, financial and regulatory reporting, financial and capital modeling, M&A, outsourcing, and business management services. The company was formerly known as Willis Group Holdings Public Limited Company and changed its name to Willis Towers Watson Public Limited Company in January 2016. Willis Towers Watson Public Limited Company was founded in 1828 and is based in London, the United Kingdom.",
         "fullTimeEmployees":48000,
         "companyOfficers":[
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.94367,
         "shortRatio":1.24,
         "shortPercentOfFloat":0.0078,
+        "impliedSharesOutstanding":102481000,
         "bookValue":92.844,
         "priceToBook":2.95668,
         "lastFiscalYearEnd":1703980800,
@@ -179,8 +184,14 @@
         "trailingEps":9.94,
         "forwardEps":18.52,
         "pegRatio":1.55,
+        "lastSplitFactor":"3775:10000",
+        "lastSplitDate":1451952000,
         "enterpriseToRevenue":3.453,
         "enterpriseToEbitda":13.515,
+        "52WeekChange":0.21450996,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.84,
+        "lastDividendDate":1703721600,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"WTW",
@@ -191,6 +202,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"cf891d10-f77f-3499-a9a1-8b0ce462546b",
+        "messageBoardId":"finmb_36623",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":274.51,
         "targetHighPrice":320.0,
@@ -221,4 +233,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.3568
     }
-]
+

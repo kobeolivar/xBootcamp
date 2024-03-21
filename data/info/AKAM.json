@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"145 Broadway",
         "city":"Cambridge",
@@ -8,8 +8,12 @@
         "phone":"617 444 3000",
         "fax":"617 444 3001",
         "website":"https:\/\/www.akamai.com",
-        "industry":"Software—Infrastructure",
+        "industry":"Software - Infrastructure",
+        "industryKey":"software-infrastructure",
+        "industryDisp":"Software - Infrastructure",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Akamai Technologies, Inc. provides cloud computing, security, and content delivery services in the United States and internationally. The company offers cloud solutions to keep infrastructure, websites, applications, application programming interfaces, and users safe from various cyberattacks and online threats while enhancing performance. It also provides web and mobile performance solutions to enable dynamic websites and applications; media delivery solutions, including video streaming and video player services, game and software delivery, broadcast operations, authoritative domain name system, resolution, and data and analytics; and cloud computing services, such as compute, storage, networking, database, and container management services to build, deploy, and secure applications and workloads. In addition, the company offers content delivery solutions; and an array of service and support to assist customers with integrating, configuring, optimizing, and managing its offerings. It sells its solutions through various channel partners. Akamai Technologies, Inc. was incorporated in 1998 and is headquartered in Cambridge, Massachusetts.",
         "fullTimeEmployees":10250,
         "companyOfficers":[
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":0.98853,
         "shortRatio":3.55,
         "shortPercentOfFloat":0.060300004,
+        "impliedSharesOutstanding":153932000,
         "bookValue":30.398,
         "priceToBook":3.590532,
         "lastFiscalYearEnd":1703980800,
@@ -178,6 +183,8 @@
         "pegRatio":2.47,
         "enterpriseToRevenue":5.32,
         "enterpriseToEbitda":18.419,
+        "52WeekChange":0.4603598,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"AKAM",
@@ -188,6 +195,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"349ac0eb-b982-3d38-abe9-be5d74e7cfe5",
+        "messageBoardId":"finmb_24522",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":109.145,
         "targetHighPrice":150.0,
@@ -218,4 +226,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.3534
     }
-]
+

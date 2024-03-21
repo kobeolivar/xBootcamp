@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"28601 Clemens Road",
         "city":"Westlake",
@@ -8,7 +8,11 @@
         "phone":"440-892-1580",
         "website":"https:\/\/www.nordson.com",
         "industry":"Specialty Industrial Machinery",
+        "industryKey":"specialty-industrial-machinery",
+        "industryDisp":"Specialty Industrial Machinery",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Nordson Corporation engineers, manufactures, and markets products and systems to dispense, apply, and control adhesives, coatings, polymers, sealants, biomaterials, and other fluids worldwide. It operates through three segments: Industrial Precision Solutions; Medical and Fluid Solutions; and Advanced Technology Solutions. The Industrial Precision Solutions segment provides dispensing, coating, and laminating systems for adhesives, lotions, liquids, and fibers to disposable products and roll goods; automated adhesive dispensing systems used in packaged goods industries; components and systems used in the thermoplastic and biopolymer melt stream; precision agriculture spraying solutions; fluid components, such as nozzles, pumps, and filters; and product assembly systems for use in paper and paperboard converting applications, and manufacturing roll goods. It also offers automated and manual dispensing products and systems for cold materials, container coating, liquid finishing, and powder coating, as well as ultraviolet equipment used primarily in curing and drying operations. The Medical and Fluid Solutions segment offers medical devices, including cannulas, catheters, and medical balloons; single-use plastic components; precision manual and semi-automated dispensers; minimally invasive interventional delivery devices; and plastic molded syringes, cartridges, tips, and fluid connection components. The Advanced Technology Solutions segment provides automated dispensing systems for the attachment, protection, and coating of fluids, as well as related gas plasma treatment systems for cleaning and conditioning surfaces; and bond testing and automated optical, acoustic microscopy, and x-ray inspection systems for use in semiconductor and printed circuit board industries. The company markets its products through direct sales force, as well as distributors and sales representatives. Nordson Corporation was founded in 1909 and is headquartered in Westlake, Ohio.",
         "fullTimeEmployees":7900,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":0.74749,
         "shortRatio":3.71,
         "shortPercentOfFloat":0.018099999,
+        "impliedSharesOutstanding":57192200,
         "bookValue":47.628,
         "priceToBook":5.671874,
         "lastFiscalYearEnd":1698710400,
@@ -184,6 +189,10 @@
         "lastSplitDate":1302652800,
         "enterpriseToRevenue":6.326,
         "enterpriseToEbitda":20.57,
+        "52WeekChange":0.2790866,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.68,
+        "lastDividendDate":1708041600,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"NDSN",
@@ -194,6 +203,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"897ce616-07fd-3d53-90cd-cbe454b7c3f2",
+        "messageBoardId":"finmb_143614",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":270.14,
         "targetHighPrice":328.0,
@@ -224,4 +234,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.2553
     }
-]
+

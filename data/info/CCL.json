@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3655 N.W. 87th Avenue",
         "city":"Miami",
@@ -8,7 +8,11 @@
         "phone":"305 599 2600",
         "website":"https:\/\/www.carnivalcorp.com",
         "industry":"Travel Services",
+        "industryKey":"travel-services",
+        "industryDisp":"Travel Services",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Carnival Corporation & plc engages in the provision of leisure travel services in North America, Australia, Europe, Asia, and internationally. The company operates through four segments: NAA Cruise Operations, Europe Cruise Operations, Cruise Support, and Tour and Other. It operates port destinations, private islands, and a solar park, as well as owns and operates hotels, lodges, glass-domed railcars, and motor coaches. The company offers its services under the Carnival Cruise Line, Princess Cruises, Holland America Line, Seabourn, Costa Cruises, AIDA Cruises, P&O Cruises, and Cunard brand. Additionally, it sells its cruises primarily through travel agents, tour operators, vacation planners, and websites. Carnival Corporation & plc was founded in 1972 and is headquartered in Miami, Florida.",
         "fullTimeEmployees":106000,
         "companyOfficers":[
@@ -134,7 +138,7 @@
         "averageVolume":30143301,
         "averageVolume10days":27445820,
         "averageDailyVolume10Day":27445820,
-        "bid":17.03,
+        "bid":17.02,
         "ask":17.03,
         "bidSize":3200,
         "askSize":1800,
@@ -158,6 +162,7 @@
         "heldPercentInstitutions":0.60534,
         "shortRatio":2.97,
         "shortPercentOfFloat":0.107,
+        "impliedSharesOutstanding":1306279936,
         "bookValue":5.445,
         "priceToBook":3.1258035,
         "lastFiscalYearEnd":1701302400,
@@ -171,6 +176,10 @@
         "lastSplitDate":897868800,
         "enterpriseToRevenue":2.353,
         "enterpriseToEbitda":11.78,
+        "52WeekChange":0.82754886,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.5,
+        "lastDividendDate":1582156800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"CCL",
@@ -181,6 +190,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"0cb59638-360e-3604-a99a-27513043e7f3",
+        "messageBoardId":"finmb_258823",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":17.02,
         "targetHighPrice":26.0,
@@ -210,4 +220,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

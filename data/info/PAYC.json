@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"7501 West Memorial Road",
         "city":"Oklahoma City",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"405 722 6900",
         "website":"https:\/\/www.paycom.com",
-        "industry":"Software—Application",
+        "industry":"Software - Application",
+        "industryKey":"software-application",
+        "industryDisp":"Software - Application",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Paycom Software, Inc. provides cloud-based human capital management (HCM) solution delivered as software-as-a-service for small to mid-sized companies in the United States. It offers functionality and data analytics that businesses need to manage the employment life cycle from recruitment to retirement. The company's HCM solution provides a suite of applications in the areas of talent acquisition, including applicant tracking, candidate tracker, background checks, on-boarding, e-verify, and tax credit services; and time and labor management, such as time and attendance, scheduling, time-off requests, labor allocation, labor management reports\/push reporting, geofencing\/geotracking, and Microfence, a proprietary Bluetooth. Its HCM solution also offers payroll applications comprising better employee transaction interface, payroll and tax management, payroll card, Everyday, Paycom pay, Client Action Center, expense management, mileage tracker\/fixed and variable rates, garnishment administration, and GL concierge applications; and talent management applications that include employee self-service, compensation budgeting, performance management, position management, and Paycom learning, as well as my analytics. In addition, its HCM solution provides manager on-the-go that gives supervisors and managers the ability to perform a variety of tasks, such as approving time-off requests and expense reimbursements; direct data exchange; ask here, a tool for direct line of communication to ask work-related questions; document and checklist; government and compliance; benefits administration\/benefits to carrier; benefit enrollment service; COBRA administration; personnel action and performance discussion forms; surveys; 401(k) reporting; report center; and affordable care act applications, as well as Clue, which securely collects, tracks, and manages the vaccination and testing data of the workforce. Paycom Software, Inc. was founded in 1998 and is based in Oklahoma City, Oklahoma.",
         "fullTimeEmployees":7308,
         "companyOfficers":[
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.80673,
         "shortRatio":1.89,
         "shortPercentOfFloat":0.0404,
+        "impliedSharesOutstanding":56556600,
         "bookValue":24.185,
         "priceToBook":8.002068,
         "lastFiscalYearEnd":1703980800,
@@ -177,6 +182,10 @@
         "pegRatio":2.29,
         "enterpriseToRevenue":6.261,
         "enterpriseToEbitda":21.065,
+        "52WeekChange":-0.29737073,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.375,
+        "lastDividendDate":1709251200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"PAYC",
@@ -187,6 +196,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"7074ae7c-b915-3b16-8f24-8e1864e2d20c",
+        "messageBoardId":"finmb_254225545",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":193.53,
         "targetHighPrice":250.0,
@@ -217,4 +227,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.998
     }
-]
+

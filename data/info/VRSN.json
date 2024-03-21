@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"12061 Bluemont Way",
         "city":"Reston",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"703 948 3200",
         "website":"https:\/\/www.verisign.com",
-        "industry":"Software—Infrastructure",
+        "industry":"Software - Infrastructure",
+        "industryKey":"software-infrastructure",
+        "industryDisp":"Software - Infrastructure",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"VeriSign, Inc., together with its subsidiaries, provides domain name registry services and internet infrastructure that enables internet navigation for various recognized domain names worldwide. The company enables the security, stability, and resiliency of internet infrastructure and services, including providing root zone maintainer services, operating two of thirteen internet root servers; and offering registration services and authoritative resolution for the .com and .net domains, which supports global e-commerce. It operates directory for .name and .cc; and back-end systems for .edu, domain names. VeriSign, Inc. was incorporated in 1995 and is headquartered in Reston, Virginia.",
         "fullTimeEmployees":907,
         "companyOfficers":[
@@ -158,6 +162,7 @@
         "heldPercentInstitutions":0.82418996,
         "shortRatio":2.53,
         "shortPercentOfFloat":0.0195,
+        "impliedSharesOutstanding":101102000,
         "bookValue":-15.607,
         "lastFiscalYearEnd":1703980800,
         "nextFiscalYearEnd":1735603200,
@@ -171,6 +176,10 @@
         "lastSplitDate":944524800,
         "enterpriseToRevenue":13.416,
         "enterpriseToEbitda":19.174,
+        "52WeekChange":-0.0534842,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":2.75,
+        "lastDividendDate":1304553600,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"VRSN",
@@ -181,6 +190,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"994d23c4-bd6e-34e9-9e25-7f9a666ca01a",
+        "messageBoardId":"finmb_36216",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":190.82,
         "targetHighPrice":237.0,
@@ -209,4 +219,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.7205
     }
-]
+

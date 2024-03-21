@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"121 Seaport Boulevard",
         "city":"Boston",
@@ -8,8 +8,12 @@
         "phone":"781 370 5000",
         "fax":"781 370 6000",
         "website":"https:\/\/www.ptc.com",
-        "industry":"Software—Application",
+        "industry":"Software - Application",
+        "industryKey":"software-application",
+        "industryDisp":"Software - Application",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"PTC Inc. operates as software company in the Americas, Europe, and the Asia Pacific. The company provides Windchill, a suite that manages all aspects of the product development lifecycle(PLM) that provides real-time information sharing, dynamic data visualization, collaborate across geographically distributed teams, and enabling manufacturers to elevate product development, manufacturing, and field service processes; ThingWorx, a platform for Industrial Internet of Things; ServiceMax, a field service management solutions enable companies to asset uptime with optimized in-person and remote service and technician productivity with mobile tools. and deliver metrics; and Arena, a SaaS PLM solution enables product teams to collaborate virtually to share product and quality information with internal teams and supply chain partners and deliver products to customers. It offers Codebeamer, an application lifecycle management for products and software development; Servigistics, a service parts management solution; and FlexPLM, a solution provides retailers with a single platform for merchandising and line planning, materials management, sampling, and others. In addition, it offers Kepware, a portfolio of industrial connectivity solutions helps companies connect diverse automation devices and software applications; Creo, a 3D CAD technology enables the digital design, testing, and modification of product models; and Onshape, a cloud product development platform that delivers computer-aided design with data management tools. Further, it offers Vuforia, an augmented reality (AR) technology enables the visualization of digital information in a physical context and the creation of AR enabling companies to drive results in manufacturing, service, engineering, and operations; and Arbortext, a dynamic publishing solution streamlines how organizations create, manage, and publish technical documentation. PTC Inc. was incorporated in 1985 and is headquartered in Boston, Massachusetts.",
         "fullTimeEmployees":7168,
         "companyOfficers":[
@@ -155,6 +159,7 @@
         "heldPercentInstitutions":0.96857,
         "shortRatio":1.94,
         "shortPercentOfFloat":0.019299999,
+        "impliedSharesOutstanding":119552000,
         "bookValue":23.497,
         "priceToBook":8.072946,
         "lastFiscalYearEnd":1696032000,
@@ -169,6 +174,8 @@
         "lastSplitDate":1141084800,
         "enterpriseToRevenue":11.403,
         "enterpriseToEbitda":44.19,
+        "52WeekChange":0.5817636,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"PTC",
@@ -179,6 +186,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"e095b813-3a2d-3dc2-bb30-0f5d39211ec0",
+        "messageBoardId":"finmb_32710",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":189.69,
         "targetHighPrice":220.0,
@@ -209,4 +217,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.9483
     }
-]
+

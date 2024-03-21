@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"7628 Thorndike Road",
         "city":"Greensboro",
@@ -8,7 +8,11 @@
         "phone":"336 664 1233",
         "website":"https:\/\/www.qorvo.com",
         "industry":"Semiconductors",
+        "industryKey":"semiconductors",
+        "industryDisp":"Semiconductors",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Qorvo, Inc. engages in development and commercialization of technologies and products for wireless, wired, and power markets. It operates through three segments: High Performance Analog (HPA), Connectivity and Sensors Group (CSG), and Advanced Cellular Group (ACG). The HPA segment supplies radio frequency and power management solutions for automotive, defense and aerospace, cellular infrastructure, broadband, and other markets. The CSG segment supplies connectivity and sensor components and systems featuring various technologies, such as UWB, Matter, Bluetooth Low Energy, Zigbee, Thread, Wi-Fi, cellular IoT, and MEMS-\/BAW-based sensors. It serves markets, such as smart home, industrial automation, automotive, smartphones, wearables, gaming, and industrial and enterprise access points. The ACG segment supplies cellular RF solutions for smartphones, wearables, laptops, tablets, and various other devices. The company also offers foundry services for defense primes and other defense and aerospace customers. The company sells its products directly to original equipment manufacturers and original design manufacturers, as well as through a network of sales representative firms and distributors. It operates in the United States, China, other Asian countries, Taiwan, and Europe. The company was founded in 1957 and is headquartered in Greensboro, North Carolina.",
         "fullTimeEmployees":8500,
         "companyOfficers":[
@@ -156,6 +160,7 @@
         "heldPercentInstitutions":0.90586,
         "shortRatio":1.46,
         "shortPercentOfFloat":0.0253,
+        "impliedSharesOutstanding":96548496,
         "bookValue":37.633,
         "priceToBook":3.065926,
         "lastFiscalYearEnd":1680307200,
@@ -165,10 +170,10 @@
         "trailingEps":-2.08,
         "forwardEps":7.62,
         "pegRatio":1.85,
-        "lastSplitFactor":"1:4",
-        "lastSplitDate":1420156800,
         "enterpriseToRevenue":3.443,
         "enterpriseToEbitda":23.885,
+        "52WeekChange":0.10772836,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"QRVO",
@@ -179,6 +184,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"c03e480e-1b82-3765-90a6-f1449315044b",
+        "messageBoardId":"finmb_33821",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":115.38,
         "targetHighPrice":136.0,
@@ -208,4 +214,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.4768
     }
-]
+

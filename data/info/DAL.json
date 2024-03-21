@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"PO Box 20706",
         "city":"Atlanta",
@@ -8,7 +8,11 @@
         "phone":"404 715 2600",
         "website":"https:\/\/www.delta.com",
         "industry":"Airlines",
+        "industryKey":"airlines",
+        "industryDisp":"Airlines",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Delta Air Lines, Inc. provides scheduled air transportation for passengers and cargo in the United States and internationally. The company operates through two segments, Airline and Refinery. Its domestic network centered on core hubs in Atlanta, Minneapolis-St. Paul, Detroit, and Salt Lake City, as well as coastal hub positions in Boston, Los Angeles, New York-LaGuardia, New York-JFK, and Seattle; and international network centered on hubs and market presence in Amsterdam, Bogota, Lima, Mexico City, London-Heathrow, Paris-Charles de Gaulle, Sao Paulo, Seoul-Incheon, and Tokyo. The company sells its tickets through various distribution channels, including delta.com and the Fly Delta app; acts as a reservations specialists; and operates online travel and traditional brick and mortar agencies. It also provides aircraft maintenance and engineering support, repair, and overhaul services; and vacation packages to third-party consumers. The company operates through a fleet of approximately 1,273 aircrafts. Delta Air Lines, Inc. was founded in 1924 and is based in Atlanta, Georgia.",
         "fullTimeEmployees":103000,
         "companyOfficers":[
@@ -174,6 +178,7 @@
         "heldPercentInstitutions":0.70466006,
         "shortRatio":1.84,
         "shortPercentOfFloat":0.025899999,
+        "impliedSharesOutstanding":643324032,
         "bookValue":17.371,
         "priceToBook":2.6480916,
         "lastFiscalYearEnd":1703980800,
@@ -186,6 +191,10 @@
         "pegRatio":0.34,
         "enterpriseToRevenue":0.922,
         "enterpriseToEbitda":6.615,
+        "52WeekChange":0.41194773,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.1,
+        "lastDividendDate":1708646400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"DAL",
@@ -196,6 +205,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"e40ac152-3f13-3ca7-b78b-5f3b421c37a0",
+        "messageBoardId":"finmb_266311",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":46.0,
         "targetHighPrice":77.0,
@@ -226,4 +236,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

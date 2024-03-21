@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Huntington Center",
         "address2":"41 South High Street",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"614 480 2265",
         "website":"https:\/\/www.huntington.com",
-        "industry":"Banks—Regional",
+        "industry":"Banks - Regional",
+        "industryKey":"banks-regional",
+        "industryDisp":"Banks - Regional",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Huntington Bancshares Incorporated operates as the bank holding company for The Huntington National Bank that provides commercial, consumer, and mortgage banking services in the United States. The company offers financial products and services to consumer and business customers, including deposits, lending, payments, mortgage banking, dealer financing, investment management, trust, brokerage, insurance, and other financial products and services. It also provides 24-hour grace, asterisk-free checking, money scout, $50 safety zone, standby cash, early pay, instant access, savings goal getter, and Huntington heads up; digitally powered consumer and business financial solutions to consumer lending, regional banking, branch banking, and wealth management customers; direct and indirect consumer loans, as well as dealer finance loans and deposits; and private banking, wealth management and legacy planning through investment and portfolio management, fiduciary administration and trust, institutional custody, and full-service retail brokerage investment services. The company offers equipment financing, asset-based lending, distribution finance, structured lending, and municipal financing solutions, as well as Huntington ChoicePay. In addition, it offers lending, liquidity, treasury management and other payment services, and capital markets; government and non-profits, healthcare, technology and telecommunications, franchises, financial sponsors, and global services; and corporate risk management, institutional sales and trading, debt and equity issuance, and additional advisory services. The company offers its products through a network of channels, including branches and ATMs, online and mobile banking, and through customer call centers to customers in middle market banking, corporate, specialty, and government banking, asset finance, commercial real estate banking, and capital markets. The company was founded in 1866 and is headquartered in Columbus, Ohio.",
         "fullTimeEmployees":19955,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":0.82061,
         "shortRatio":2.04,
         "shortPercentOfFloat":0.0275,
+        "impliedSharesOutstanding":1455810048,
         "bookValue":11.709,
         "priceToBook":1.1623538,
         "lastFiscalYearEnd":1703980800,
@@ -183,6 +188,10 @@
         "lastSplitFactor":"11:10",
         "lastSplitDate":963360000,
         "enterpriseToRevenue":3.603,
+        "52WeekChange":0.24719095,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.155,
+        "lastDividendDate":1710460800,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"HBAN",
@@ -193,6 +202,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"518d4502-4a9e-3dc9-96e4-93adc53cb04f",
+        "messageBoardId":"finmb_278614",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":13.61,
         "targetHighPrice":16.0,
@@ -216,4 +226,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

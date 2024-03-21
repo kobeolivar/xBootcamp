@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"2884 Sand Hill Road",
         "address2":"Suite 200",
@@ -9,7 +9,11 @@
         "phone":"650 234 6000",
         "website":"https:\/\/www.roberthalf.com",
         "industry":"Staffing & Employment Services",
+        "industryKey":"staffing-employment-services",
+        "industryDisp":"Staffing & Employment Services",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Robert Half Inc. provides talent solutions and business consulting services in North America, South America, Europe, Asia, and Australia. The company operates through Contract Talent Solutions, Permanent Placement Talent Solutions, and Protiviti segments. The Contract Talent Solutions segment provides contract engagement professionals in the fields of finance and accounting, technology, marketing and creative, legal and administrative, and customer support. This segment markets its services to clients and employment candidates through both national and local advertising activities, including radio, digital advertising, job boards, alliance partners, and events. The Permanent Placement Talent Solutions segment engages in the placement of full-time accounting, finance, and tax and accounting operations personnel. The Protiviti segment offers consulting services in the areas of internal audit, technology consulting, risk, and compliance consulting. It offers it services under the Robert Half brand name. The company was formerly known as Robert Half International Inc. and changed its name to Robert Half Inc. in July 2023. Robert Half Inc. was founded in 1948 and is headquartered in Menlo Park, California.",
         "fullTimeEmployees":15000,
         "companyOfficers":[
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.95936996,
         "shortRatio":4.86,
         "shortPercentOfFloat":0.0761,
+        "impliedSharesOutstanding":105209000,
         "bookValue":15.354,
         "priceToBook":5.280709,
         "lastFiscalYearEnd":1703980800,
@@ -179,6 +184,10 @@
         "lastSplitDate":960854400,
         "enterpriseToRevenue":1.221,
         "enterpriseToEbitda":15.045,
+        "52WeekChange":0.082770705,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.53,
+        "lastDividendDate":1708560000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"RHI",
@@ -189,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"c45045e7-ade7-37c9-b259-a3fbc39e66e8",
+        "messageBoardId":"finmb_276703",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":81.08,
         "targetHighPrice":100.0,
@@ -219,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

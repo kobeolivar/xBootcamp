@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1100 Park Place",
         "address2":"Suite 200",
@@ -9,8 +9,12 @@
         "phone":"650 655 7800",
         "fax":"650 655 7810",
         "website":"https:\/\/www.essexapartmenthomes.com",
-        "industry":"REIT—Residential",
+        "industry":"REIT - Residential",
+        "industryKey":"reit-residential",
+        "industryDisp":"REIT - Residential",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"Essex Property Trust, Inc., an S&P 500 company, is a fully integrated real estate investment trust (REIT) that acquires, develops, redevelops, and manages multifamily residential properties in selected West Coast markets. Essex currently has ownership interests in 252 apartment communities comprising approximately 62,000 apartment homes with an additional property in active development.",
         "fullTimeEmployees":1747,
         "companyOfficers":[
@@ -154,6 +158,7 @@
         "heldPercentInstitutions":0.98459,
         "shortRatio":3.32,
         "shortPercentOfFloat":0.0394,
+        "impliedSharesOutstanding":66462500,
         "bookValue":84.462,
         "priceToBook":2.8889916,
         "lastFiscalYearEnd":1703980800,
@@ -166,6 +171,10 @@
         "pegRatio":-113.82,
         "enterpriseToRevenue":12.817,
         "enterpriseToEbitda":19.854,
+        "52WeekChange":0.22699702,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":2.31,
+        "lastDividendDate":1703808000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"ESS",
@@ -176,6 +185,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"ffea021a-2ef0-3d50-98bb-8ae2f868d64e",
+        "messageBoardId":"finmb_332646",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":244.01,
         "targetHighPrice":291.0,
@@ -206,4 +216,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":7.6352
     }
-]
+

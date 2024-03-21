@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1515 Broadway",
         "city":"New York",
@@ -8,7 +8,11 @@
         "phone":"212 258 6000",
         "website":"https:\/\/www.paramount.com",
         "industry":"Entertainment",
+        "industryKey":"entertainment",
+        "industryDisp":"Entertainment",
         "sector":"Communication Services",
+        "sectorKey":"communication-services",
+        "sectorDisp":"Communication Services",
         "longBusinessSummary":"Paramount Global operates as a media, streaming, and entertainment company worldwide. It operates through TV Media, Direct-to-Consumer, and Filmed Entertainment segments. The TV Media segment operates CBS Television Network, a domestic broadcast television network; CBS Stations, a television station; and international free-to-air networks comprising Network 10, Channel 5, Telefe, and Chilevisión; domestic premium and basic cable networks, such as Paramount+ with Showtime, MTV, Comedy Central, Paramount Network, The Smithsonian Channel, Nickelodeon, BET Media Group, and CBS Sports Network; and international extensions of these brands. This segment also offers domestic and international television studio operations, including CBS Studios, Paramount Television Studios, and Showtime\/MTV Entertainment Studios; CBS Media Ventures, which produces and distributes first-run syndicated programming; and digital properties consisting of CBS News Streaming and CBS Sports HQ. The Direct-to-Consumer segment provides a portfolio of domestic and international pay and free streaming services, including Paramount+, Pluto TV, BET+, and Noggin. The Filmed Entertainment segment produces and acquires films, series, and short-form content for release and licensing around the world, including in theaters, on streaming services, on television, through digital home entertainment, and DVDs\/Blu-rays; and operates a portfolio consisting of Paramount Pictures, Paramount Players, Paramount Animation, Nickelodeon Studio, Awesomeness, and Miramax. It also offers production, distribution, and advertising solutions. The company was formerly known as ViacomCBS Inc. and changed its name to Paramount Global in February 2022. The company was founded in 1914 and is headquartered in New York, New York. Paramount Global is a subsidiary of National Amusements, Inc.",
         "fullTimeEmployees":21900,
         "companyOfficers":[
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.68885005,
         "shortRatio":4.3,
         "shortPercentOfFloat":0.1468,
+        "impliedSharesOutstanding":689676032,
         "bookValue":34.496,
         "priceToBook":0.34264842,
         "lastFiscalYearEnd":1703980800,
@@ -181,6 +186,10 @@
         "pegRatio":0.38,
         "enterpriseToRevenue":0.753,
         "enterpriseToEbitda":10.202,
+        "52WeekChange":-0.39681774,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.05,
+        "lastDividendDate":1710374400,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"PARA",
@@ -191,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"9ccf6052-d011-3766-b9cd-93d3a96fbafe",
+        "messageBoardId":"finmb_27763231",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":11.82,
         "targetHighPrice":19.0,
@@ -221,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.2511
     }
-]
+

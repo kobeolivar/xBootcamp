@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"530 Herman O. West Drive",
         "city":"Exton",
@@ -148,7 +148,7 @@
         "averageVolume":551756,
         "averageVolume10days":623840,
         "averageDailyVolume10Day":623840,
-        "bid":396.74,
+        "bid":386.21,
         "ask":397.09,
         "bidSize":900,
         "askSize":800,
@@ -234,4 +234,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":9.9245
     }
-]
+

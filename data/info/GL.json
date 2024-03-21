@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3700 South Stonebridge Drive",
         "address2":"P. O. Box 8080",
@@ -9,8 +9,12 @@
         "phone":"972 569 4000",
         "fax":"972 569 3282",
         "website":"https:\/\/www.home.globelifeinsurance.com",
-        "industry":"Insurance—Life",
+        "industry":"Insurance - Life",
+        "industryKey":"insurance-life",
+        "industryDisp":"Insurance - Life",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Globe Life Inc., through its subsidiaries, provides various life and supplemental health insurance products, and annuities to lower middle- and middle-income families in the United States. The company operates in four segments: Life Insurance, Supplemental Health Insurance, Annuities, and Investments. It offers whole, term, and other life insurance products; Medicare supplement and supplemental health insurance products, such as accident, cancer, critical illness, heart, and intensive care plans; and single-premium and flexible-premium deferred annuities. The company sells its products through its direct to consumer division, exclusive agencies, and independent agents. The company was formerly known as Torchmark Corporation and changed its name to Globe Life Inc. in August 2019. Globe Life Inc. was founded in 1900 and is headquartered in McKinney, Texas.",
         "fullTimeEmployees":3636,
         "companyOfficers":[
@@ -171,6 +175,7 @@
         "heldPercentInstitutions":0.83566004,
         "shortRatio":2.21,
         "shortPercentOfFloat":0.0145000005,
+        "impliedSharesOutstanding":93707800,
         "bookValue":47.838,
         "priceToBook":2.4215057,
         "lastFiscalYearEnd":1703980800,
@@ -185,6 +190,10 @@
         "lastSplitDate":1404259200,
         "enterpriseToRevenue":2.408,
         "enterpriseToEbitda":9.948,
+        "52WeekChange":0.10840547,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.225,
+        "lastDividendDate":1704326400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"GL",
@@ -195,6 +204,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"ad709392-37c6-30d6-b8fe-79884d91449b",
+        "messageBoardId":"finmb_308916",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":115.84,
         "targetHighPrice":160.0,
@@ -225,4 +235,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

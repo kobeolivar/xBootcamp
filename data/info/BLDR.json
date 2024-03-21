@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"6031 Connection Drive",
         "address2":"Suite 400",
@@ -9,7 +9,11 @@
         "phone":"214 880 3500",
         "website":"https:\/\/www.bldr.com",
         "industry":"Building Products & Equipment",
+        "industryKey":"building-products-equipment",
+        "industryDisp":"Building Products & Equipment",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Builders FirstSource, Inc., together with its subsidiaries, manufactures and supplies building materials, manufactured components, and construction services to professional homebuilders, sub-contractors, remodelers, and consumers in the United States. It offers lumber and lumber sheet goods comprising dimensional lumber, plywood, and oriented strand board products that are used in on-site house framing; manufactured products, such as wood floor and roof trusses, floor trusses, wall panels, stairs, and engineered wood products; and windows, and interior and exterior door units, as well as interior trims and custom products comprising intricate mouldings, stair parts, and columns under the Synboard brand name. The company also provides specialty building products and services, including vinyl, composite and wood siding, exterior trims, metal studs, cement, roofing, insulation, wallboards, ceilings, cabinets, and hardware products; turn-key framing, shell construction, design assistance, and professional installation services. In addition, it offers software products, such as drafting, estimating, quoting, and virtual home design services, which provide software solutions to retailers, distributors, manufacturers, and homebuilders. The company was formerly known as BSL Holdings, Inc. and changed its name to Builders FirstSource, Inc. in October 1999. Builders FirstSource, Inc. was incorporated in 1998 and is based in Irving, Texas.",
         "fullTimeEmployees":29000,
         "companyOfficers":[
@@ -142,8 +146,8 @@
         "averageVolume":1269170,
         "averageVolume10days":1300660,
         "averageDailyVolume10Day":1300660,
-        "bid":211.26,
-        "ask":211.21,
+        "bid":211.25,
+        "ask":218.0,
         "bidSize":800,
         "askSize":1000,
         "marketCap":25743972352,
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":0.97872,
         "shortRatio":2.63,
         "shortPercentOfFloat":0.0424,
+        "impliedSharesOutstanding":121940000,
         "bookValue":38.835,
         "priceToBook":5.436333,
         "lastFiscalYearEnd":1703980800,
@@ -178,6 +183,8 @@
         "pegRatio":-1.28,
         "enterpriseToRevenue":1.687,
         "enterpriseToEbitda":10.547,
+        "52WeekChange":1.450599,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BLDR",
@@ -188,6 +195,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"e1a5e3bc-ce03-33fb-b9c3-e9aff27ff86c",
+        "messageBoardId":"finmb_34817",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":211.12,
         "targetHighPrice":250.0,
@@ -218,4 +226,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

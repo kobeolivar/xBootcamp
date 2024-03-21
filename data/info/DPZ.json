@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"30 Frank Lloyd Wright Drive",
         "city":"Ann Arbor",
@@ -8,7 +8,11 @@
         "phone":"734 930 3030",
         "website":"https:\/\/www.ir.dominos.com",
         "industry":"Restaurants",
+        "industryKey":"restaurants",
+        "industryDisp":"Restaurants",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Domino's Pizza, Inc., through its subsidiaries, operates as a pizza company in the United States and internationally. The company operates through three segments: U.S. Stores, International Franchise, and Supply Chain. It offers pizzas under the Domino's brand name through company-owned and franchised stores. It also provides oven-baked sandwiches, pastas, boneless chicken and chicken wings, breads and dips, desserts, and soft drink products, as well as loaded tots and pepperoni stuffed cheesy breads. Domino's Pizza, Inc. was founded in 1960 and is headquartered in Ann Arbor, Michigan.",
         "fullTimeEmployees":6500,
         "companyOfficers":[
@@ -172,6 +176,7 @@
         "heldPercentInstitutions":0.96309996,
         "shortRatio":2.66,
         "shortPercentOfFloat":0.0624,
+        "impliedSharesOutstanding":34881000,
         "bookValue":-112.88,
         "lastFiscalYearEnd":1703980800,
         "nextFiscalYearEnd":1735603200,
@@ -183,6 +188,10 @@
         "pegRatio":2.38,
         "enterpriseToRevenue":4.787,
         "enterpriseToEbitda":24.585,
+        "52WeekChange":0.4320768,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.51,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"DPZ",
@@ -193,6 +202,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"c7ed77fd-b37c-3112-8a9e-da2f683bd945",
+        "messageBoardId":"finmb_3132512",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":455.87,
         "targetHighPrice":550.0,
@@ -221,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.7181
     }
-]
+

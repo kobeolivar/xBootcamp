@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"12800 Tuckahoe Creek Parkway",
         "city":"Richmond",
@@ -8,7 +8,11 @@
         "phone":"804-747-0422",
         "website":"https:\/\/www.carmax.com",
         "industry":"Auto & Truck Dealerships",
+        "industryKey":"auto-truck-dealerships",
+        "industryDisp":"Auto & Truck Dealerships",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"CarMax, Inc., together with its subsidiaries, operates as a retailer of used vehicles in the United States. It operates in two segments, CarMax Sales Operations and CarMax Auto Finance. The company offers customers a range of makes and models of used vehicles, including domestic, imported, and luxury vehicles, as well as hybrid and electric vehicles; and extended protection plans to customers at the time of sale, as well as sells vehicles that are approximately 10 years old and has more than 100,000 miles through wholesale auctions. It also provides reconditioning and vehicle repair services; and financing alternatives for retail customers across a range of credit spectrum through its CarMax Auto Finance and arrangements with various financial institutions. The company was founded in 1993 and is based in Richmond, Virginia.",
         "fullTimeEmployees":30000,
         "companyOfficers":[
@@ -158,6 +162,7 @@
         "heldPercentInstitutions":1.09187,
         "shortRatio":11.41,
         "shortPercentOfFloat":0.12109999,
+        "impliedSharesOutstanding":157920992,
         "bookValue":38.25,
         "priceToBook":2.2598693,
         "lastFiscalYearEnd":1677542400,
@@ -172,6 +177,8 @@
         "lastSplitDate":1174953600,
         "enterpriseToRevenue":1.141,
         "enterpriseToEbitda":31.85,
+        "52WeekChange":0.46448088,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"KMX",
@@ -182,6 +189,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"fd69c52a-0f1b-3128-820f-fb03f8ccac66",
+        "messageBoardId":"finmb_356805",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":86.44,
         "targetHighPrice":105.0,
@@ -212,4 +220,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.0273
     }
-]
+

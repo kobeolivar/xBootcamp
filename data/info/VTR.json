@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"353 North Clark Street",
         "address2":"Suite 3300",
@@ -9,8 +9,12 @@
         "phone":"877 483 6827",
         "fax":"312 660 3800",
         "website":"https:\/\/www.ventasreit.com",
-        "industry":"REIT—Healthcare Facilities",
+        "industry":"REIT - Healthcare Facilities",
+        "industryKey":"reit-healthcare-facilities",
+        "industryDisp":"REIT - Healthcare Facilities",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"Ventas Inc. (NYSE: VTR) is a leading S&P 500 real estate investment trust focused on delivering strong, sustainable shareholder returns by enabling exceptional environments that benefit a large and growing aging population. The Company's growth is fueled by its senior housing communities, which provide valuable services to residents and enable them to thrive in supported environments. Ventas leverages its unmatched operational expertise, data-driven insights from its Ventas Operational InsightsTM platform, extensive relationships and strong financial position to achieve its goal of delivering outsized performance across approximately 1,400 properties. The Ventas portfolio is composed of senior housing communities, outpatient medical buildings, research centers and healthcare facilities in North America and the United Kingdom. The Company benefits from a seasoned team of talented professionals who share a commitment to excellence, integrity and a common purpose of helping people live longer, healthier, happier lives.",
         "fullTimeEmployees":486,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":0.96972,
         "shortRatio":2.4,
         "shortPercentOfFloat":0.0225,
+        "impliedSharesOutstanding":402462016,
         "bookValue":23.596,
         "priceToBook":1.8609086,
         "lastFiscalYearEnd":1703980800,
@@ -181,6 +186,10 @@
         "lastSplitDate":1439856000,
         "enterpriseToRevenue":6.914,
         "enterpriseToEbitda":17.547,
+        "52WeekChange":0.047493458,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.45,
+        "lastDividendDate":1703808000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"VTR",
@@ -191,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"b2590703-54d6-3892-bd98-c2800f8ad26c",
+        "messageBoardId":"finmb_398549",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":43.91,
         "targetHighPrice":61.0,
@@ -220,4 +230,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

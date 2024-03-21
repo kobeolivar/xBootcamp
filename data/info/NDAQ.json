@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"151 West 42nd Street",
         "city":"New York",
@@ -8,7 +8,11 @@
         "phone":"212 401 8700",
         "website":"https:\/\/www.nasdaq.com",
         "industry":"Financial Data & Stock Exchanges",
+        "industryKey":"financial-data-stock-exchanges",
+        "industryDisp":"Financial Data & Stock Exchanges",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Nasdaq, Inc. operates as a technology company that serves capital markets and other industries worldwide. It operates in three segments: Capital Access Platforms, Financial Technology, and Market Services. The Capital Access Platforms segment sells and distributes historical and real-time market data; and develops and licenses Nasdaq-branded indices and financial products. This segment also offers investor relations intelligence, governance solutions, and ESG solutions; and insights and workflow solutions, as well as operates listing platforms. The Financial Technology segment offers Verafin, a cloud-based platform to detect, investigate, and report money laundering and financial frauds; surveillance solutions, including a SaaS platform to assist in complying with market rules, regulations, and internal market surveillance policies; AxiomSL, a risk data management and regulatory reporting solution; and Calypso, a front-to-back trading technology solution for the financial market. This segment also handles assets, comprising cash equities, equity derivatives, currencies, various interest-bearing securities, commodities, energy products, and digital currencies; and trade management and colocation services. The Market Platforms segment offers equity derivative trading and clearing, cash equity trading, fixed income and commodities trading and clearing, and currency trading services. This segment operates various exchanges and other marketplace facilities across various asset classes which includes derivatives, commodities, cash equity, debt, structured products, and exchange traded products; and provides clearing, settlement, and central depository services. The company was formerly known as The NASDAQ OMX Group, Inc. and changed its name to Nasdaq, Inc. in September 2015. Nasdaq, Inc. was founded in 1971 and is headquartered in New York, New York.",
         "fullTimeEmployees":8525,
         "companyOfficers":[
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.77595,
         "shortRatio":2.06,
         "shortPercentOfFloat":0.012200001,
+        "impliedSharesOutstanding":575206976,
         "bookValue":18.805,
         "priceToBook":3.288487,
         "lastFiscalYearEnd":1703980800,
@@ -179,8 +184,14 @@
         "trailingEps":2.08,
         "forwardEps":3.1,
         "pegRatio":3.21,
+        "lastSplitFactor":"3:1",
+        "lastSplitDate":1661731200,
         "enterpriseToRevenue":7.502,
         "enterpriseToEbitda":21.031,
+        "52WeekChange":0.15983999,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.22,
+        "lastDividendDate":1710288000,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"NDAQ",
@@ -191,6 +202,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"66622641-4c7d-3ef0-bef7-8e1a16be01ee",
+        "messageBoardId":"finmb_740535",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":61.84,
         "targetHighPrice":82.0,
@@ -221,4 +233,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.9573
     }
-]
+

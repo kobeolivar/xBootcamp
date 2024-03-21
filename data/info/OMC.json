@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"280 Park Avenue",
         "city":"New York",
@@ -9,7 +9,11 @@
         "fax":"212 415 3530",
         "website":"https:\/\/www.omnicomgroup.com",
         "industry":"Advertising Agencies",
+        "industryKey":"advertising-agencies",
+        "industryDisp":"Advertising Agencies",
         "sector":"Communication Services",
+        "sectorKey":"communication-services",
+        "sectorDisp":"Communication Services",
         "longBusinessSummary":"Omnicom Group Inc., together with its subsidiaries, offers advertising, marketing, and corporate communications services. It provides a range of services in the areas of advertising and media, precision marketing, commerce and branding, experiential, execution and support, public relations, and healthcare. The company's services include advertising, branding, content marketing, corporate social responsibility consulting, crisis communications, custom publishing, data analytics, database management, digital\/direct marketing and post-production, digital transformation consulting, entertainment marketing, experiential marketing, field marketing, sales support, financial\/corporate business-to-business advertising, graphic arts\/digital imaging, healthcare marketing and communications, and instore design services. Its services also comprise interactive marketing, investor relations, marketing research, media planning and buying, retail media planning and buying, merchandising and point of sale, mobile marketing, multi-cultural marketing, non-profit marketing, organizational communications, package design, product placement, promotional marketing, public affairs, public relations, retail marketing, retail media and e-commerce, search engine marketing, shopper marketing, social media marketing, and sports and event marketing services. It operates in the North and Latin America, Europe, the Middle East and Africa (EMEA), and the Asia Pacific. The company was incorporated in 1944 and is based in New York, New York.",
         "fullTimeEmployees":75900,
         "companyOfficers":[
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":0.95849997,
         "shortRatio":4.47,
         "shortPercentOfFloat":0.042,
+        "impliedSharesOutstanding":197992992,
         "bookValue":18.264,
         "priceToBook":5.16371,
         "lastFiscalYearEnd":1703980800,
@@ -180,6 +185,10 @@
         "lastSplitDate":1182816000,
         "enterpriseToRevenue":1.505,
         "enterpriseToEbitda":9.531,
+        "52WeekChange":0.06352246,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.7,
+        "lastDividendDate":1709856000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"OMC",
@@ -190,6 +199,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"5dba3e85-8bfe-3a7d-93bb-31e7de3c4774",
+        "messageBoardId":"finmb_96161",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":94.31,
         "targetHighPrice":117.0,
@@ -220,4 +230,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.5049
     }
-]
+

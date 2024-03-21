@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"410 North Scottsdale Road",
         "address2":"Suite 1300",
@@ -9,7 +9,11 @@
         "phone":"602 742 2000",
         "website":"https:\/\/www.aligntech.com",
         "industry":"Medical Devices",
+        "industryKey":"medical-devices",
+        "industryDisp":"Medical Devices",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Align Technology, Inc. designs, manufactures, and markets Invisalign clear aligners, and iTero intraoral scanners and services for orthodontists and general practitioner dentists in the United States, Switzerland, and internationally. The company's Clear Aligner segment offers comprehensive products, including Invisalign comprehensive package that addresses the orthodontic needs of younger patients, such as mandibular advancement, compliance indicators, and compensation for tooth eruption; and Invisalign First Phase I and Invisalign First Comprehensive Phase 2 package for younger patients generally between the ages of six and ten years, which is a mixture of primary\/baby and permanent teeth. The segment also provides Invisalign moderate, lite and express packages, and Invisalign go and Invisalign Go Plus; retention products, Invisalign training, and adjusting tools used by dental professionals during the course of treatment; and Invisalign Palatal Expander, a 3D printed orthodontic device; and 3D printing solutions. Its Imaging Systems and CAD\/CAM Services segment offers iTero intraoral scanning system, a single hardware platform for restorative or orthodontic procedures; restorative software for general practitioner dentists, prosthodontists, periodontists, and oral surgeons; and orthodontists software for digital records storage, orthodontic diagnosis, and fabrication of printed models and retainers. This segment also provides Invisalign outcome simulator, a chair-side and cloud-based application for the iTero scanner; Invisalign progress assessment tool; Align Oral Health Suite, a digital interface designed to enhance dental consultations; and TimeLapse technology, which allows doctors or practitioners to compare a patient's historic 3D scans to the present-day scan, as well as subscription software, disposables, rentals, leases, pay per scan, and CAD\/CAM software solutions. The company was incorporated in 1997 and is headquartered in Tempe, Arizona.",
         "fullTimeEmployees":21610,
         "companyOfficers":[
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.88192004,
         "shortRatio":1.57,
         "shortPercentOfFloat":0.025,
+        "impliedSharesOutstanding":75104096,
         "bookValue":48.358,
         "priceToBook":6.6435747,
         "lastFiscalYearEnd":1703980800,
@@ -181,6 +186,8 @@
         "pegRatio":2.84,
         "enterpriseToRevenue":6.181,
         "enterpriseToEbitda":29.878,
+        "52WeekChange":0.05669701,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"ALGN",
@@ -191,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"9e9b4176-3211-32f0-9c92-47cd8723fc54",
+        "messageBoardId":"finmb_24568",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":321.27,
         "targetHighPrice":355.0,
@@ -221,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.0516
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"5 Hanover Quay",
         "address2":"Grand Canal Dock",
@@ -8,7 +8,11 @@
         "phone":"353 1 259 7013",
         "website":"https:\/\/www.aptiv.com",
         "industry":"Auto Parts",
+        "industryKey":"auto-parts",
+        "industryDisp":"Auto Parts",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Aptiv PLC engages in design, manufacture, and sale of vehicle components in North America, Europe, Middle East, Africa, the Asia Pacific, South America, and internationally. The company provides electrical, electronic, and safety technology solutions to the automotive and commercial vehicle markets. It operates through two segments, Signal and Power Solutions, and Advanced Safety and User Experience. The Signal and Power Solutions segment designs, manufactures, and assembles vehicle's electrical architecture, including engineered component products, connectors, wiring assemblies and harnesses, cable management products, electrical centers, and hybrid high voltage and safety distribution systems. Its Advanced Safety and User Experience segment provides critical technologies and services for vehicle safety, security, comfort, and convenience, such as sensing and perception systems, electronic control units, multi-domain controllers, vehicle connectivity systems, application software, autonomous driving technologies, and end-to-end DevOps tools. The company was formerly known as Delphi Automotive PLC and changed its name to Aptiv PLC in December 2017. Aptiv PLC was incorporated in 2011 and is based in Dublin, Ireland.",
         "fullTimeEmployees":154000,
         "companyOfficers":[
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":1.00919,
         "shortRatio":1.96,
         "shortPercentOfFloat":0.0257,
+        "impliedSharesOutstanding":279036000,
         "bookValue":41.386,
         "priceToBook":1.9465518,
         "lastFiscalYearEnd":1703980800,
@@ -180,6 +185,10 @@
         "lastSplitDate":1512432000,
         "enterpriseToRevenue":1.371,
         "enterpriseToEbitda":10.018,
+        "52WeekChange":-0.26638812,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.22,
+        "lastDividendDate":1580774400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"APTV",
@@ -190,6 +199,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"aed566cb-3b02-3352-9d08-8fed8b11fea9",
+        "messageBoardId":"finmb_59502420",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":80.56,
         "targetHighPrice":148.0,
@@ -220,4 +230,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.7116
     }
-]
+

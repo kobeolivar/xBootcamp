@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1 Francis Crick Avenue",
         "address2":"Cambridge Biomedical Campus",
@@ -7,8 +7,12 @@
         "country":"United Kingdom",
         "phone":"44 20 3749 5000",
         "website":"https:\/\/www.astrazeneca.com",
-        "industry":"Drug Manufacturers—General",
+        "industry":"Drug Manufacturers - General",
+        "industryKey":"drug-manufacturers-general",
+        "industryDisp":"Drug Manufacturers - General",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"AstraZeneca PLC, a biopharmaceutical company, focuses on the discovery, development, manufacture, and commercialization of prescription medicines. The company's marketed products include Tagrisso, Imfinzi, Lynparza, Calquence, Enhertu, Orpathys, Truqap, Zoladex, Faslodex, Farxiga, Brilinta, Lokelma, Roxadustat, Andexxa, Crestor, Seloken, Onglyza, Bydureon, Fasenra, Breztri, Symbicort, Saphnelo, Tezspire, Pulmicort, Bevespi, and Daliresp for cardiovascular, renal, metabolism, and oncology. Its marketed products also comprise Vaxzevria, Beyfortus, Synagis, FluMist, Soliris, Ultomiris, Strensiq, Koselugo, and Kanuma for covid-19 and rare disease. The company serves primary care and specialty care physicians through distributors and local representative offices in the United Kingdom, rest of Europe, the Americas, Asia, Africa, and Australasia. It has a collaboration agreement with Neurimmune AG to develop and commercialize NI006. The company was formerly known as Zeneca Group PLC and changed its name to AstraZeneca PLC in April 1999. AstraZeneca PLC was incorporated in 1992 and is headquartered in Cambridge, the United Kingdom.",
         "fullTimeEmployees":89900,
         "companyOfficers":[
@@ -160,6 +164,7 @@
         "heldPercentInsiders":0.00005,
         "heldPercentInstitutions":0.16795,
         "shortRatio":1.13,
+        "impliedSharesOutstanding":3112900096,
         "bookValue":25.251,
         "priceToBook":2.6212826,
         "lastFiscalYearEnd":1703980800,
@@ -174,6 +179,10 @@
         "lastSplitDate":1437955200,
         "enterpriseToRevenue":2.744,
         "enterpriseToEbitda":8.375,
+        "52WeekChange":-0.022747576,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.985,
+        "lastDividendDate":1708560000,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"AZN",
@@ -184,6 +193,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"978c7520-c514-3a0a-b188-f86e764e90da",
+        "messageBoardId":"finmb_336774",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":66.19,
         "targetHighPrice":88.0,
@@ -214,4 +224,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.8502
     }
-]
+

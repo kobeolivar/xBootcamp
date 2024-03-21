@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1800 Three Lincoln Centre",
         "address2":"5430 LBJ Freeway",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"972 934 9227",
         "website":"https:\/\/www.atmosenergy.com",
-        "industry":"Utilities—Regulated Gas",
+        "industry":"Utilities - Regulated Gas",
+        "industryKey":"utilities-regulated-gas",
+        "industryDisp":"Utilities - Regulated Gas",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"Atmos Energy Corporation, together with its subsidiaries, engages in the regulated natural gas distribution, and pipeline and storage businesses in the United States. It operates through two segments, Distribution, and Pipeline and Storage. The Distribution segment is involved in the regulated natural gas distribution and related sales operations in eight states. This segment distributes natural gas to approximately 3.3 million residential, commercial, public authority, and industrial customers; and owned 73,689 miles of underground distribution and transmission mains. The Pipeline and Storage segment engages in the pipeline and storage operations. This segment transports natural gas for third parties and manages five underground storage facilities in Texas; provides ancillary services customary to the pipeline industry, including parking arrangements, lending, and inventory sales; and owned 5,645 miles of gas transmission lines. Atmos Energy Corporation was founded in 1906 and is headquartered in Dallas, Texas.",
         "fullTimeEmployees":5019,
         "companyOfficers":[
@@ -138,8 +142,8 @@
         "beta":0.656,
         "trailingPE":18.66294,
         "forwardPE":16.57163,
-        "volume":434217,
-        "regularMarketVolume":434217,
+        "volume":473209,
+        "regularMarketVolume":473209,
         "averageVolume":846361,
         "averageVolume10days":1172560,
         "averageDailyVolume10Day":1172560,
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.92686,
         "shortRatio":4.18,
         "shortPercentOfFloat":0.0298,
+        "impliedSharesOutstanding":150840000,
         "bookValue":74.739,
         "priceToBook":1.5631732,
         "lastFiscalYearEnd":1696032000,
@@ -183,6 +188,10 @@
         "lastSplitDate":769132800,
         "enterpriseToRevenue":6.229,
         "enterpriseToEbitda":13.838,
+        "52WeekChange":0.09369135,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.805,
+        "lastDividendDate":1708646400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"ATO",
@@ -193,6 +202,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"9b27761c-46b7-3cd9-8210-3e8a46e61492",
+        "messageBoardId":"finmb_252684",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":116.83,
         "targetHighPrice":133.0,
@@ -223,4 +233,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.8018
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1027 Newport Avenue",
         "city":"Pawtucket",
@@ -8,7 +8,11 @@
         "phone":"401 431 8697",
         "website":"https:\/\/shop.hasbro.com\/en-in",
         "industry":"Leisure",
+        "industryKey":"leisure",
+        "industryDisp":"Leisure",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Hasbro, Inc., together with its subsidiaries, operates as a toy and game company in the United States, Europe, Canada, Mexico, Latin America, Australia, China, and Hong Kong. The company operates through Consumer Products; Wizards of the Coast and Digital Gaming; Entertainment; and Corporate and Other segments. The Consumer Products segment engages in the sourcing, marketing, and sale of toy and game products. This segment also promotes its brands through the out-licensing of trademarks, characters, and other brand and intellectual property rights to third parties through the sale of branded consumer products, such as toys and apparel. Its toys and games include action figures, arts and crafts and creative play products, dolls, play sets, preschool toys, plush products, sports action blasters and accessories, vehicles and toy-related specialty products, games, and other consumer products; and licensed products, such as apparel, publishing products, home goods and electronics, and toy products. The Wizards of the Coast and Digital Gaming segment engages in the promotion of its brands through the development of trading cards, role-playing, and digital game experiences based on Hasbro and Wizards of the Coast games. The Entertainment segment engages in the development, production, and sale of entertainment content, including film, television, children's programming, digital content, and live entertainment. The company sells its products to retailers, distributors, wholesalers, discount stores, specialty hobby stores, drug stores, mail order houses, catalog stores, department stores, and other traditional retailers, as well as e-commerce retailers; and directly to customers through its e-commerce websites under the MAGIC: THE GATHERING, Hasbro Gaming, PLAY-DOH, NERF, TRANSFORMERS, DUNGEONS & DRAGONS, PEPPA PIG, and other brand names. Hasbro, Inc. was founded in 1923 and is headquartered in Pawtucket, Rhode Island.",
         "fullTimeEmployees":5502,
         "companyOfficers":[
@@ -158,6 +162,7 @@
         "heldPercentInstitutions":0.90361,
         "shortRatio":3.8,
         "shortPercentOfFloat":0.0623,
+        "impliedSharesOutstanding":138791008,
         "bookValue":7.651,
         "priceToBook":7.327147,
         "lastFiscalYearEnd":1703980800,
@@ -171,6 +176,10 @@
         "lastSplitDate":921542400,
         "enterpriseToRevenue":2.125,
         "enterpriseToEbitda":18.503,
+        "52WeekChange":0.11595392,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.7,
+        "lastDividendDate":1706659200,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"HAS",
@@ -181,6 +190,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"85fa4f9f-8cea-3895-a266-8d511966de3d",
+        "messageBoardId":"finmb_277746",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":56.06,
         "targetHighPrice":72.0,
@@ -210,4 +220,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.7594
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"38\/39 Fitzwilliam Square",
         "address2":"Dublin 2",
@@ -8,7 +8,11 @@
         "phone":"353 1 234 3136",
         "website":"https:\/\/www.seagate.com",
         "industry":"Computer Hardware",
+        "industryKey":"computer-hardware",
+        "industryDisp":"Computer Hardware",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Seagate Technology Holdings plc provides data storage technology and solutions in Singapore, the United States, the Netherlands, and internationally. It provides mass capacity storage products, including enterprise nearline hard disk drives (HDDs), enterprise nearline solid state drives (SSDs), enterprise nearline systems, video and image HDDs, and network-attached storage drives. The company also offers legacy applications comprising Mission Critical HDDs and SSDs; external storage solutions under the Seagate Ultra Touch, One Touch, and Expansion product lines, as well as under the LaCie brand name; desktop drives; notebook drives, DVR HDDs, and gaming SSDs. In addition, it provides Lyve edge-to-cloud mass capacity platform. The company sells its products primarily to OEMs, distributors, and retailers. Seagate Technology Holdings plc was founded in 1978 and is based in Dublin, Ireland.",
         "fullTimeEmployees":33400,
         "companyOfficers":[
@@ -163,6 +167,7 @@
         "heldPercentInstitutions":0.93507004,
         "shortRatio":4.6,
         "shortPercentOfFloat":0.0579,
+        "impliedSharesOutstanding":209511008,
         "bookValue":-8.659,
         "lastFiscalYearEnd":1688083200,
         "nextFiscalYearEnd":1719705600,
@@ -173,6 +178,10 @@
         "pegRatio":0.56,
         "enterpriseToRevenue":3.585,
         "enterpriseToEbitda":64.253,
+        "52WeekChange":0.41915584,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.7,
+        "lastDividendDate":1710892800,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"STX",
@@ -183,6 +192,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"db8faad9-e67f-3bc2-8b00-0e10d60de875",
+        "messageBoardId":"finmb_3738520",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":88.45,
         "targetHighPrice":115.0,
@@ -210,4 +220,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.1692
     }
-]
+

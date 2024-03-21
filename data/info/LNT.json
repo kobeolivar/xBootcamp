@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"4902 North Biltmore Lane",
         "city":"Madison",
@@ -8,8 +8,12 @@
         "phone":"608 458 3311",
         "fax":"608 458 3321",
         "website":"https:\/\/www.alliantenergy.com",
-        "industry":"Utilities—Regulated Electric",
+        "industry":"Utilities - Regulated Electric",
+        "industryKey":"utilities-regulated-electric",
+        "industryDisp":"Utilities - Regulated Electric",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"Alliant Energy Corporation operates as a utility holding company that provides regulated electricity and natural gas services in the United States. It operates in three segments: Utility Electric Operations, Utility Gas Operations, and Utility Other. The company, through its subsidiary, Interstate Power and Light Company (IPL), primarily generates and distributes electricity, and distributes and transports natural gas to retail customers in Iowa; sells electricity to wholesale customers in Minnesota, Illinois, and Iowa; and generates and distributes steam in Cedar Rapids, Iowa. Alliant Energy Corporation, through its other subsidiary, Wisconsin Power and Light Company (WPL), generates and distributes electricity, and distributes and transports natural gas to retail customers in Wisconsin; and sells electricity to wholesale customers in Wisconsin. It serves retail customers in the farming, agriculture, industrial manufacturing, chemical, packaging, and food industries, as well as wholesale customers comprising municipalities and rural electric cooperatives. In addition, the company owns and operates a short-line rail freight service in Iowa; a Mississippi River barge, rail, and truck freight terminal in Illinois; freight brokerage services; wind turbine blade recycling services; and a rail-served warehouse in Iowa. Further, it holds interests in a natural gas-fired electric generating unit near Sheboygan Falls, Wisconsin; and a wind farm located in Oklahoma. The company was formerly known as Interstate Energy Corp. and changed its name to Alliant Energy Corporation in May 1999. Alliant Energy Corporation was incorporated in 1981 and is headquartered in Madison, Wisconsin.",
         "fullTimeEmployees":3281,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":0.81604,
         "shortRatio":2.4,
         "shortPercentOfFloat":0.024300002,
+        "impliedSharesOutstanding":256100000,
         "bookValue":26.463,
         "priceToBook":1.8478632,
         "lastFiscalYearEnd":1703980800,
@@ -182,6 +187,10 @@
         "lastSplitDate":1463702400,
         "enterpriseToRevenue":5.498,
         "enterpriseToEbitda":13.898,
+        "52WeekChange":-0.024780154,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.48,
+        "lastDividendDate":1706572800,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"LNT",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"56489bcf-a2c2-383d-9b45-66695ab9698e",
+        "messageBoardId":"finmb_312949",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":48.9,
         "targetHighPrice":57.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.5179
     }
-]
+

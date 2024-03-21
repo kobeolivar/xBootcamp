@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"55 Hudson Yards",
         "address2":"15th Floor",
@@ -10,7 +10,11 @@
         "fax":"212 813 6390",
         "website":"https:\/\/www.marketaxess.com",
         "industry":"Capital Markets",
+        "industryKey":"capital-markets",
+        "industryDisp":"Capital Markets",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"MarketAxess Holdings Inc., together with its subsidiaries, operates an electronic trading platform for institutional investor and broker-dealer companies worldwide. The company offers trading technology that provides liquidity access in U.S. high-grade bonds, U.S. high-yield bonds, emerging market debt, eurobonds, municipal bonds, U.S. government bonds, and other fixed-income securities; and executes bond trades between and among institutional investor and broker-dealer clients in an all-to-all anonymous trading environment for corporate bonds through its Open Trading protocols. It also provides trading-related products and services, including composite+ pricing and other market data products to assist clients with trading decisions; auto-execution and other execution services for clients requiring specialized workflow solutions; connectivity solutions that facilitate straight-through processing; and technology services to optimize trading environments. In addition, the company offers various pre-and post-trade services, such as trade matching, trade publication, regulatory transaction reporting, and market and reference data across a range of fixed-income and other products. MarketAxess Holdings Inc. was incorporated in 2000 and is headquartered in New York, New York.",
         "fullTimeEmployees":881,
         "companyOfficers":[
@@ -172,6 +176,7 @@
         "heldPercentInstitutions":1.01729,
         "shortRatio":2.46,
         "shortPercentOfFloat":0.0481,
+        "impliedSharesOutstanding":37867700,
         "bookValue":34.115,
         "priceToBook":6.5604568,
         "lastFiscalYearEnd":1703980800,
@@ -184,6 +189,10 @@
         "pegRatio":3.22,
         "enterpriseToRevenue":10.278,
         "enterpriseToEbitda":20.061,
+        "52WeekChange":-0.43448764,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.74,
+        "lastDividendDate":1707782400,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"MKTX",
@@ -194,6 +203,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"750421d0-e47b-3ae3-bcde-dc586754b5eb",
+        "messageBoardId":"finmb_109450",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":223.81,
         "targetHighPrice":310.0,
@@ -224,4 +234,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.8898
     }
-]
+

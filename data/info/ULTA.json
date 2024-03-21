@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1000 Remington Boulevard",
         "address2":"Suite 120",
@@ -9,7 +9,11 @@
         "phone":"630 410 4800",
         "website":"https:\/\/www.ulta.com",
         "industry":"Specialty Retail",
+        "industryKey":"specialty-retail",
+        "industryDisp":"Specialty Retail",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Ulta Beauty, Inc. operate specialty retail stores selling cosmetics, fragrance, haircare and skincare products, and related accessories and services in the United States. It offers broad assortment of branded and private label beauty products including cosmetics, fragrance, haircare, skincare, bath and body products, professional hair products, and salon styling tools; and salon services, including hair, skin, makeup, and brow services, as well as nail services. The company's private label products comprises Ulta Beauty Collection branded cosmetics, skincare, and bath products, as well as Ulta Beauty branded products; and the Ulta Beauty branded gifts. It also distributes its products through its stores, website, and mobile applications. The company was incorporated in 1990 and is based in Bolingbrook, Illinois.",
         "companyOfficers":[
             {
@@ -158,6 +162,7 @@
         "heldPercentInstitutions":0.93709,
         "shortRatio":2.39,
         "shortPercentOfFloat":0.0336,
+        "impliedSharesOutstanding":48561500,
         "bookValue":46.996,
         "priceToBook":11.14031,
         "lastFiscalYearEnd":1706918400,
@@ -170,6 +175,10 @@
         "pegRatio":2.71,
         "enterpriseToRevenue":2.37,
         "enterpriseToEbitda":13.818,
+        "52WeekChange":0.015938282,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.0,
+        "lastDividendDate":1331856000,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"ULTA",
@@ -180,6 +189,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"bb6011bf-c32c-3377-b48d-d3d3affbbc53",
+        "messageBoardId":"finmb_35929",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":523.55,
         "targetHighPrice":690.0,
@@ -210,4 +220,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.0288
     }
-]
+

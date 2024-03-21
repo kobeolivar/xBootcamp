@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"120 Holger Way",
         "city":"San Jose",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"408 533 0288",
         "website":"https:\/\/www.zscaler.com",
-        "industry":"Software—Infrastructure",
+        "industry":"Software - Infrastructure",
+        "industryKey":"software-infrastructure",
+        "industryDisp":"Software - Infrastructure",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Zscaler, Inc. operates as a cloud security company worldwide. The company offers Zscaler Internet Access solution that provides users, workloads, IoT, and OT devices secure access to externally managed applications, including software-as-a-service (SaaS) applications and internet destinations; and Zscaler Private Access solution, which is designed to provide access to managed applications hosted internally in data centers, and private or public clouds. It also provides Zscaler Digital Experience that measures end-to-end user experience across business applications, as well as provides an easy-to-understand digital experience score for each user, application, and location within an enterprise. In addition, the company offers Posture Control solutions comprising Cloud Security Posture Management that identifies and remediates application misconfigurations in SaaS, infrastructure as a service, and PaaS to reduce risk and ensure compliance with industry and organizational benchmarks; Cloud Infrastructure Entitlement Management that detects and remediates excessive or unused cloud permissions and enforces least privileged access without disrupting productivity; Infrastructure as Code (IaC), which analyzes IaC templates to identify misconfigurations and other security issues prior to deployment to cloud infrastructure; and Vulnerability Scanning and Data Loss Prevention solutions. Its platform modules include Zscaler Central Authority, Zscaler Enforcement Node, and Zscaler Log Servers. The company serves customers in airlines and transportation, conglomerates, consumer goods and retail, financial services, healthcare, manufacturing, media and communications, public sector and education, technology, and telecommunications services industries. The company was formerly known as SafeChannel, Inc., and changed its name to Zscaler, Inc. in August 2008. Zscaler, Inc. was incorporated in 2007 and is headquartered in San Jose, California.",
         "fullTimeEmployees":5962,
         "companyOfficers":[
@@ -155,6 +159,7 @@
         "heldPercentInstitutions":0.49834,
         "shortRatio":1.65,
         "shortPercentOfFloat":0.0464,
+        "impliedSharesOutstanding":149858000,
         "bookValue":6.403,
         "priceToBook":30.933939,
         "lastFiscalYearEnd":1690761600,
@@ -166,6 +171,8 @@
         "pegRatio":1.84,
         "enterpriseToRevenue":14.954,
         "enterpriseToEbitda":-184.723,
+        "52WeekChange":0.7528429,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"ZS",
@@ -176,6 +183,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"8a6b178d-3af0-35a9-b274-4ca31921d5e2",
+        "messageBoardId":"finmb_58838228",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":198.07,
         "targetHighPrice":400.0,
@@ -205,4 +213,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.4174
     }
-]
+

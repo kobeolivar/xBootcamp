@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"One Riverfront Plaza",
         "city":"Corning",
@@ -8,7 +8,11 @@
         "phone":"607-974-9000",
         "website":"https:\/\/www.corning.com",
         "industry":"Electronic Components",
+        "industryKey":"electronic-components",
+        "industryDisp":"Electronic Components",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Corning Incorporated engages in the display technologies, optical communications, environmental technologies, specialty materials, and life sciences businesses in the United States and internationally. The company's Display Technologies segment offers glass substrates for flat panel displays, including liquid crystal displays and organic light-emitting diodes that are used in televisions, notebook computers, desktop monitors, tablets, and handheld devices. Its Optical Communications segment provides optical fibers and cables; and hardware and equipment products, such as cable assemblies, fiber optic hardware and connectors, optical components and couplers, closures, network interface devices, and other accessories for the telecommunications industry, businesses, governments, and individuals. The company's Specialty Materials segment manufactures products that offer material formulations for glass, glass ceramics, crystals, precision metrology instruments, and software, as well as glass wafers and substrates, tinted sunglasses, and radiation shielding products for various markets comprising mobile consumer electronics, semiconductor equipment optics and consumables, aerospace and defense optics, radiation shielding products, sunglasses, and telecommunications components. Its Environmental Technologies segment provides ceramic substrates and filter products for emissions control in mobile, gasoline, and diesel applications. The company's Life Sciences segment offers laboratory products, including consumables, such as plastic vessels, liquid handling plastics, specialty surfaces, cell culture media, and serum, as well as general labware, and glassware and equipment under the Corning, Pyrex, Falcon, and Axygen brands. The company was formerly known as Corning Glass Works and changed its name to Corning Incorporated in April 1989. Corning Incorporated was founded in 1851 and is headquartered in Corning, New York.",
         "fullTimeEmployees":49800,
         "companyOfficers":[
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.71179,
         "shortRatio":2.09,
         "shortPercentOfFloat":0.0121,
+        "impliedSharesOutstanding":853473984,
         "bookValue":14.087,
         "priceToBook":2.3518138,
         "lastFiscalYearEnd":1703980800,
@@ -182,6 +187,10 @@
         "lastSplitDate":970617600,
         "enterpriseToRevenue":2.773,
         "enterpriseToEbitda":12.961,
+        "52WeekChange":0.0003061295,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.28,
+        "lastDividendDate":1709078400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"GLW",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"00ec92fb-b808-359d-ab84-18e395eb0a3b",
+        "messageBoardId":"finmb_173840",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":33.13,
         "targetHighPrice":40.0,
@@ -221,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.1508
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"500 Plaza Drive",
         "city":"Secaucus",
@@ -8,7 +8,11 @@
         "phone":"973 520 2700",
         "website":"https:\/\/www.questdiagnostics.com",
         "industry":"Diagnostics & Research",
+        "industryKey":"diagnostics-research",
+        "industryDisp":"Diagnostics & Research",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Quest Diagnostics Incorporated provides diagnostic testing and services in the United States and internationally. The company develops and delivers diagnostic information services, such as routine, non-routine and advanced clinical testing, anatomic pathology testing, and other diagnostic information services. It offers diagnostic information services primarily under the Quest Diagnostics brand, as well as under the AmeriPath, Dermpath Diagnostics, ExamOne, and Quanum brands to physicians, hospitals, patients and consumers, health plans, government agencies, employers, retailers, pharmaceutical companies and insurers, and accountable care organizations through a network of laboratories, patient service centers, phlebotomists in physician offices, call centers and mobile phlebotomists, nurses, and other health and wellness professionals. The company also provides risk assessment services for the life insurance industry; and healthcare organizations and clinicians information technology solutions. Quest Diagnostics Incorporated was founded in 1967 and is headquartered in Secaucus, New Jersey.",
         "fullTimeEmployees":40000,
         "companyOfficers":[
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":0.92036,
         "shortRatio":2.37,
         "shortPercentOfFloat":0.0327,
+        "impliedSharesOutstanding":110707000,
         "bookValue":56.82,
         "priceToBook":2.2673354,
         "lastFiscalYearEnd":1703980800,
@@ -180,6 +185,10 @@
         "lastSplitDate":1119312000,
         "enterpriseToRevenue":2.06,
         "enterpriseToEbitda":10.752,
+        "52WeekChange":-0.056651175,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.71,
+        "lastDividendDate":1705363200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"DGX",
@@ -190,6 +199,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"566b8ec0-af61-3aa2-ba40-9735eb85bfa2",
+        "messageBoardId":"finmb_361335",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":128.83,
         "targetHighPrice":155.0,
@@ -220,4 +230,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.0049
     }
-]
+

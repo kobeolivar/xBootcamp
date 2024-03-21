@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"100 Nagog Park",
         "city":"Acton",
@@ -8,7 +8,11 @@
         "phone":"978 600 7000",
         "website":"https:\/\/www.insulet.com",
         "industry":"Medical Devices",
+        "industryKey":"medical-devices",
+        "industryDisp":"Medical Devices",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Insulet Corporation develops, manufactures, and sells insulin delivery systems for people with insulin-dependent diabetes. The company's Omnipod platform includes the Omnipod 5 Automated Insulin Delivery System (Omnipod 5) which includes a proprietary AID algorithm embedded in the Pod that integrates with a third-party continuous glucose monitor to obtain glucose values through wireless bluetooth communication; Omnipod DASH that features a bluetooth enabled Pod that is controlled by a smartphone-like Personal Diabetes Manager with a color touch screen user interface; and Omnipod GO, a standalone, wearable, insulin delivery system that provides a fixed rate of continuous rapid-acting insulin for 72 hours. The company sells its products primarily through independent distributors and pharmacy channels, as well as directly in the United States, Canada, Europe, the Middle East, Australia, and internationally. Insulet Corporation was incorporated in 2000 and is headquartered in Acton, Massachusetts.",
         "fullTimeEmployees":3000,
         "companyOfficers":[
@@ -160,6 +164,7 @@
         "heldPercentInstitutions":1.0325,
         "shortRatio":2.66,
         "shortPercentOfFloat":0.0452,
+        "impliedSharesOutstanding":70748304,
         "bookValue":10.481,
         "priceToBook":15.899246,
         "lastFiscalYearEnd":1703980800,
@@ -172,6 +177,8 @@
         "pegRatio":3.09,
         "enterpriseToRevenue":7.328,
         "enterpriseToEbitda":40.299,
+        "52WeekChange":-0.46322513,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"PODD",
@@ -182,6 +189,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"50fe81f7-4975-35c5-9395-91e66a9afb84",
+        "messageBoardId":"finmb_618908",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":166.64,
         "targetHighPrice":270.0,
@@ -212,4 +220,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.0038
     }
-]
+

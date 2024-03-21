@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"40 Waterview Drive",
         "city":"Shelton",
@@ -8,7 +8,11 @@
         "phone":"475 882 4000",
         "website":"https:\/\/www.hubbell.com",
         "industry":"Electrical Equipment & Parts",
+        "industryKey":"electrical-equipment-parts",
+        "industryDisp":"Electrical Equipment & Parts",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Hubbell Incorporated, together with its subsidiaries, designs, manufactures, and sells electrical and utility solutions in the United States and internationally. It operates through two segments, Electrical Solutions and Utility Solutions. The Electrical Solution segment offers standard and special application wiring device products, rough-in electrical products, connector and grounding products, lighting fixtures, and other electrical equipment for use in industrial, commercial, and institutional facilities by electrical contractors, maintenance personnel, electricians, utilities, and telecommunications companies, as well as components and assemblies. It also designs and manufactures various industrial controls, and communication systems for use in the non-residential and industrial markets, as well as in the oil and gas, and mining industries. This segment sells its products through electrical and industrial distributors, home centers, retail and hardware outlets, lighting showrooms, and residential product-oriented internet sites; and special application products primarily through wholesale distributors to contractors, industrial customers, and original equipment manufacturers. The Utility Solution segment designs, manufactures, and sells electrical distribution, transmission, substation, and telecommunications products, such as arresters, insulators, connectors, anchors, bushings, and enclosures cutoffs and switches; and utility infrastructure products, including smart meters, communications systems, and protection and control devices. This segment sells its products to distributors. Its brand portfolio includes Hubbell, Kellems, Bryant, Burndy, CMC, Bell, TayMac, Wiegmann, Killark, Hawke, Aclara, Fargo, Quazite, Hot Box, etc. The company was founded in 1888 and is headquartered in Shelton, Connecticut.",
         "fullTimeEmployees":18317,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":0.90166,
         "shortRatio":1.71,
         "shortPercentOfFloat":0.019199999,
+        "impliedSharesOutstanding":53627000,
         "bookValue":53.545,
         "priceToBook":7.7504907,
         "lastFiscalYearEnd":1703980800,
@@ -182,6 +187,10 @@
         "lastSplitDate":839808000,
         "enterpriseToRevenue":4.422,
         "enterpriseToEbitda":19.979,
+        "52WeekChange":0.7555258,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.22,
+        "lastDividendDate":1709078400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"HUBB",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"4df92483-6447-3171-a076-b8ee68183086",
+        "messageBoardId":"finmb_279750",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":415.0,
         "targetHighPrice":450.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.5117
     }
-]
+

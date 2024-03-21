@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"4747 Bethesda Avenue",
         "address2":"Suite 1300",
@@ -9,8 +9,12 @@
         "phone":"240 744 1000",
         "fax":"240 744 5125",
         "website":"https:\/\/www.hosthotels.com",
-        "industry":"REIT—Hotel & Motel",
+        "industry":"REIT - Hotel & Motel",
+        "industryKey":"reit-hotel-motel",
+        "industryDisp":"REIT - Hotel & Motel",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"Host Hotels & Resorts, Inc. is an S&P 500 company and is the largest lodging real estate investment trust and one of the largest owners of luxury and upper-upscale hotels. The Company currently owns 72 properties in the United States and five properties internationally totaling approximately 42,000 rooms. The Company also holds non-controlling interests in seven domestic and one international joint ventures. Guided by a disciplined approach to capital allocation and aggressive asset management, the Company partners with premium brands such as Marriott, Ritz-Carlton, Westin, Sheraton, W, St. Regis, The Luxury Collection, Hyatt, Fairmont, Hilton, Four Seasons, Swissôtel, ibis and Novotel, as well as independent brands.",
         "fullTimeEmployees":163,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":1.0412899,
         "shortRatio":5.47,
         "shortPercentOfFloat":0.074200004,
+        "impliedSharesOutstanding":713632000,
         "bookValue":9.427,
         "priceToBook":2.2435558,
         "lastFiscalYearEnd":1703980800,
@@ -182,6 +187,10 @@
         "lastSplitDate":1257292800,
         "enterpriseToRevenue":3.469,
         "enterpriseToEbitda":12.623,
+        "52WeekChange":0.39838493,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.45,
+        "lastDividendDate":1703721600,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"HST",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"e9caf392-2759-31bf-b3f4-60147609aafa",
+        "messageBoardId":"finmb_29574",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":21.15,
         "targetHighPrice":25.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.2112
     }
-]
+

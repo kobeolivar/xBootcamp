@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"LyondellBasell Tower",
         "address2":"Suite 300 1221 McKinney Street",
@@ -9,7 +9,11 @@
         "phone":"713 309 7200",
         "website":"https:\/\/www.lyondellbasell.com",
         "industry":"Specialty Chemicals",
+        "industryKey":"specialty-chemicals",
+        "industryDisp":"Specialty Chemicals",
         "sector":"Basic Materials",
+        "sectorKey":"basic-materials",
+        "sectorDisp":"Basic Materials",
         "longBusinessSummary":"LyondellBasell Industries N.V. operates as a chemical company in the United States, Germany, Mexico, Italy, Poland, France, Japan, China, the Netherlands, and internationally. The company operates in six segments: Olefins and PolyolefinsAmericas; Olefins and PolyolefinsEurope, Asia, International; Intermediates and Derivatives; Advanced Polymer Solutions; Refining; and Technology. It produces and markets olefins and co-products, polyethylene, and polypropylene; and propylene oxide and derivatives; oxyfuels and related products; and intermediate chemicals, such as styrene monomer, acetyls, ethylene oxide, and ethylene glycol. In addition, the company produce and markets compounding and solutions including polypropylene compounds, engineered plastics, masterbatches, engineered composites, colors and powders, and advanced polymers including catalloy and polybutene-1; and refines heavy, high-sulfur crude oil and other crude oils, as well as refined products, including gasoline and distillates. Further, it develops and licenses chemical and polyolefin process technologies; manufactures and sells polyolefin catalysts; and serves food packaging, home furnishings, automotive components, and paints and coatings applications. LyondellBasell Industries N.V. was incorporated in 2009 and is headquartered in Houston, Texas.",
         "fullTimeEmployees":20000,
         "companyOfficers":[
@@ -171,6 +175,7 @@
         "heldPercentInstitutions":0.72667,
         "shortRatio":2.78,
         "shortPercentOfFloat":0.0214,
+        "impliedSharesOutstanding":324523008,
         "bookValue":39.848,
         "priceToBook":2.5409055,
         "lastFiscalYearEnd":1703980800,
@@ -183,6 +188,10 @@
         "pegRatio":1.41,
         "enterpriseToRevenue":1.048,
         "enterpriseToEbitda":8.78,
+        "52WeekChange":0.19302547,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.25,
+        "lastDividendDate":1709251200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"LYB",
@@ -193,6 +202,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"c877a52d-ceaf-3727-aa11-137fa979685e",
+        "messageBoardId":"finmb_792424",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":101.25,
         "targetHighPrice":117.0,
@@ -223,4 +233,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.8099
     }
-]
+

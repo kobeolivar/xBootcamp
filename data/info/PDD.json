@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"25 Saint Stephens Green",
         "address2":"First Floor, Dublin 2",
@@ -7,7 +7,11 @@
         "country":"Ireland",
         "website":"https:\/\/www.pddholdings.com",
         "industry":"Internet Retail",
+        "industryKey":"internet-retail",
+        "industryDisp":"Internet Retail",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"PDD Holdings Inc., a multinational commerce group, owns and operates a portfolio of businesses. It operates Pinduoduo, an e-commerce platform that offers products in various categories, including agricultural produce, apparel, shoes, bags, mother and childcare products, food and beverage, electronic appliances, furniture and household goods, cosmetics and other personal care, sports and fitness items and auto accessories; and Temu, an online marketplace. It focuses on bringing businesses and people into the digital economy. The company was formerly known as Pinduoduo Inc. and changed its name to PDD Holdings Inc. in February 2023. PDD Holdings Inc. was incorporated in 2015 and is based in Dublin, Ireland.",
         "companyOfficers":[
             {
@@ -123,6 +127,7 @@
         "heldPercentInstitutions":0.31659,
         "shortRatio":2.97,
         "shortPercentOfFloat":0.0347,
+        "impliedSharesOutstanding":1328589952,
         "bookValue":118.663,
         "priceToBook":1.0306498,
         "lastFiscalYearEnd":1703980800,
@@ -133,6 +138,8 @@
         "trailingEps":4.39,
         "forwardEps":10.48,
         "pegRatio":33.44,
+        "52WeekChange":0.7065203,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"PDD",
@@ -143,6 +150,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"feece1ce-41c4-3db9-b5ba-eb6db2cd7cd7",
+        "messageBoardId":"finmb_572577901",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":122.3,
         "targetHighPrice":225.97,
@@ -170,4 +178,4 @@
         "financialCurrency":"CNY",
         "trailingPegRatio":0.573
     }
-]
+

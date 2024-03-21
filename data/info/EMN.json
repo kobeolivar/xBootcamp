@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"200 South Wilcox Drive",
         "city":"Kingsport",
@@ -9,7 +9,11 @@
         "fax":"423 229 2145",
         "website":"https:\/\/www.eastman.com",
         "industry":"Specialty Chemicals",
+        "industryKey":"specialty-chemicals",
+        "industryDisp":"Specialty Chemicals",
         "sector":"Basic Materials",
+        "sectorKey":"basic-materials",
+        "sectorDisp":"Basic Materials",
         "longBusinessSummary":"Eastman Chemical Company operates as a specialty materials company in the United States, China, and internationally. The company's Additives & Functional Products segment offers amine derivative-based building blocks, intermediates for surfactants, metam-based soil fumigants, and organic acid-based solutions; specialty coalescent and solvents, paint additives, and specialty polymers; and heat transfer and aviation fluids. It serves transportation, personal care, wellness, food, feed, agriculture, building and construction, water treatment, energy, consumables, durables, and electronics markets. Its Advanced Materials segment provides copolyesters, cellulosic biopolymers, cellulose esters, polyvinyl butyral sheets, and window and protective films for value-added end uses in the transportation, durables, electronics, building and construction, medical and pharma, and consumables markets. The company's Chemical Intermediates segment offers olefin and acetyl derivatives, ethylene, and commodity solvents; and primary non-phthalate and phthalate plasticizers, and niche non-phthalate plasticizers for industrial chemicals and processing, building and construction, health and wellness, and food and feed. Its Fibers segment provides cellulose acetate tow, triacetin, cellulose acetate flake, acetic acid, and acetic anhydride for use in filtration media primarily cigarette filters; natural and solution dyed acetate yarns, and staple fiber for use in consumables, and health and wellness markets; and wet-laid nonwoven media, specialty and engineered papers, and cellulose acetate fibers for transportation, industrial, agriculture and mining, and aerospace markets. The company was founded in 1920 and is headquartered in Kingsport, Tennessee.",
         "fullTimeEmployees":14000,
         "companyOfficers":[
@@ -173,6 +177,7 @@
         "heldPercentInstitutions":0.86536,
         "shortRatio":1.25,
         "shortPercentOfFloat":0.0143,
+        "impliedSharesOutstanding":117344000,
         "bookValue":46.533,
         "priceToBook":2.0516622,
         "lastFiscalYearEnd":1703980800,
@@ -187,6 +192,10 @@
         "lastSplitDate":1317686400,
         "enterpriseToRevenue":1.693,
         "enterpriseToEbitda":10.096,
+        "52WeekChange":0.18976247,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.81,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"EMN",
@@ -197,6 +206,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"53160944-e94b-3431-9a58-cabc22d8b8b2",
+        "messageBoardId":"finmb_109103",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":95.47,
         "targetHighPrice":115.0,
@@ -227,4 +237,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.0904
     }
-]
+

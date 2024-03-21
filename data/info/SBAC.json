@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"8051 Congress Avenue",
         "city":"Boca Raton",
@@ -8,8 +8,12 @@
         "phone":"561 995 7670",
         "fax":"561 998 3448",
         "website":"https:\/\/www.sbasite.com",
-        "industry":"REIT—Specialty",
+        "industry":"REIT - Specialty",
+        "industryKey":"reit-specialty",
+        "industryDisp":"REIT - Specialty",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"SBA Communications Corporation is a leading independent owner and operator of wireless communications infrastructure including towers, buildings, rooftops, distributed antenna systems (DAS) and small cells. With a portfolio of more than 39,000 communications sites throughout the Americas, Africa and in Asia, SBA is listed on NASDAQ under the symbol SBAC. Our organization is part of the S&P 500 and is one of the top Real Estate Investment Trusts (REITs) by market capitalization.",
         "fullTimeEmployees":1787,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":0.99751,
         "shortRatio":2.69,
         "shortPercentOfFloat":0.0373,
+        "impliedSharesOutstanding":108109000,
         "bookValue":-47.856,
         "lastFiscalYearEnd":1703980800,
         "nextFiscalYearEnd":1735603200,
@@ -181,6 +186,10 @@
         "pegRatio":3.17,
         "enterpriseToRevenue":13.871,
         "enterpriseToEbitda":20.995,
+        "52WeekChange":-0.12628597,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.98,
+        "lastDividendDate":1710288000,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"SBAC",
@@ -191,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"959197f0-c64d-38bc-ad9b-3132fa795ec3",
+        "messageBoardId":"finmb_34071",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":215.02,
         "targetHighPrice":304.0,
@@ -219,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.4162
     }
-]
+

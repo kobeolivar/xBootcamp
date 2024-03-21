@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"One Baxter Parkway",
         "city":"Deerfield",
@@ -8,7 +8,11 @@
         "phone":"224 948 2000",
         "website":"https:\/\/www.baxter.com",
         "industry":"Medical Instruments & Supplies",
+        "industryKey":"medical-instruments-supplies",
+        "industryDisp":"Medical Instruments & Supplies",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Baxter International Inc., through its subsidiaries, develops and provides a portfolio of healthcare products worldwide. The company operates through four segments: Medical Products and Therapies, Healthcare Systems and Technologies, Pharmaceuticals, and Kidney Care. The company offers sterile intravenous (IV) solutions; infusion systems and devices; parenteral nutrition therapies; generic injectable pharmaceuticals; surgical hemostat and sealant products, advanced surgical equipment; smart bed systems; patient monitoring and diagnostic technologies; and respiratory health devices, as well as advanced equipment for the surgical space, including surgical video technologies, precision positioning devices, and other accessories. It also provides administrative sets; adhesion prevention products; inhaled anesthesia; drug compounding; chronic and acute dialysis therapies and services, including peritoneal dialysis (PD), hemodialysis (HD), continuous renal replacement therapies (CRRT), and other organ support therapies. The company's products are used in hospitals, kidney dialysis centers, nursing homes, rehabilitation centers, ambulatory surgery centers, doctors' offices, and patients at home under physician supervision. The company sells its products through direct sales force, as well as through independent distributors, drug wholesalers, and specialty pharmacy or other alternate site providers in approximately 100 countries. It has an agreement with Celerity Pharmaceutical, LLC to develop acute care generic injectable premix and oncolytic products; and a collaborative research agreement with Miromatrix Medical Inc. aiming to advance care for patients with acute liver failure. Baxter International Inc. was incorporated in 1931 and is headquartered in Deerfield, Illinois.",
         "fullTimeEmployees":60000,
         "companyOfficers":[
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.92752,
         "shortRatio":2.07,
         "shortPercentOfFloat":0.0178,
+        "impliedSharesOutstanding":507827008,
         "bookValue":16.551,
         "priceToBook":2.538215,
         "lastFiscalYearEnd":1703980800,
@@ -179,6 +184,10 @@
         "lastSplitDate":1435708800,
         "enterpriseToRevenue":2.193,
         "enterpriseToEbitda":11.7,
+        "52WeekChange":0.09732425,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.29,
+        "lastDividendDate":1709164800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BAX",
@@ -189,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"6ab3de01-de88-3bf0-be41-5437c59fc509",
+        "messageBoardId":"finmb_254571",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":42.01,
         "targetHighPrice":54.0,
@@ -219,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"One Procter & Gamble Plaza",
         "city":"Cincinnati",
@@ -146,7 +146,7 @@
         "averageVolume":6765025,
         "averageVolume10days":5858300,
         "averageDailyVolume10Day":5858300,
-        "bid":162.28,
+        "bid":161.78,
         "ask":162.07,
         "bidSize":1100,
         "askSize":1200,
@@ -232,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.4253
     }
-]
+

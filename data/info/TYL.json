@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"5101 Tennyson Parkway",
         "city":"Plano",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"972 713 3700",
         "website":"https:\/\/www.tylertech.com",
-        "industry":"Software—Application",
+        "industry":"Software - Application",
+        "industryKey":"software-application",
+        "industryDisp":"Software - Application",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Tyler Technologies, Inc. provides integrated information management solutions and services for the public sector. It operates in two segments, Enterprise Software and Platform Technologies. The company offers platform and transformative technology solutions, including cybersecurity for government agencies; data and insights solutions; digital solutions that helps workers and policymakers to share, communicate, and leverage data; payments solutions, such as billing, presentment, merchant onboarding, collections, reconciliation, and disbursements; platform technologies, an application development platform that enables government workers to build solutions and applications; and outdoor recreation solutions, including campsite reservations, activity registrations, licensing sales and renewals, and real-time data for conservation and park management. It also provides public administration solutions, such as civic services; financial applications with human resources, revenue management, tax billing, utilities, asset management, and payment processing; property and recording service that manages appraisal services, valuation, tax billing and collections, assessment administration, and land and official records; and permitting, licensing, and regulatory management solutions. In addition, the company offers courts and public safety solutions; school ERP and student transportation solutions for K-12 schools; and health and human services solutions. Further, the company offers software as a service arrangements and electronic document filing solutions for courts; software and hardware installation, data conversion, training, product modification, and maintenance and support services; and property appraisal outsourcing services for taxing jurisdictions. Tyler Technologies, Inc. has a strategic collaboration agreement with Amazon Web Services for cloud hosting services. The company was founded in 1966 and is headquartered in Plano, Texas.",
         "fullTimeEmployees":7300,
         "companyOfficers":[
@@ -155,6 +159,7 @@
         "heldPercentInstitutions":0.97082,
         "shortRatio":4.46,
         "shortPercentOfFloat":0.0234,
+        "impliedSharesOutstanding":42276100,
         "bookValue":69.473,
         "priceToBook":6.0610595,
         "lastFiscalYearEnd":1703980800,
@@ -169,6 +174,10 @@
         "lastSplitDate":642729600,
         "enterpriseToRevenue":9.378,
         "enterpriseToEbitda":56.595,
+        "52WeekChange":0.30404592,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.006667,
+        "lastDividendDate":633744000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"TYL",
@@ -179,6 +188,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"927d636a-f467-351f-b094-c2e89e27719d",
+        "messageBoardId":"finmb_309821",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":421.08,
         "targetHighPrice":520.0,
@@ -209,4 +219,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.3619
     }
-]
+

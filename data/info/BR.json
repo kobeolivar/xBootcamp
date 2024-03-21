@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"5 Dakota Drive",
         "address2":"Suite 300",
@@ -9,7 +9,11 @@
         "phone":"516 472 5400",
         "website":"https:\/\/www.broadridge.com",
         "industry":"Information Technology Services",
+        "industryKey":"information-technology-services",
+        "industryDisp":"Information Technology Services",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Broadridge Financial Solutions, Inc. provides investor communications and technology-driven solutions for the financial services industry. The company's Investor Communication Solutions segment processes and distributes proxy materials to investors in equity securities and mutual funds, as well as facilitates related vote processing services; and distributes regulatory reports, class action, and corporate action\/reorganization event information, as well as tax reporting solutions. It also offers ProxyEdge, an electronic proxy delivery and voting solution; data-driven solutions and an end-to-end platform for content management, composition, and omni-channel distribution of regulatory, marketing, and transactional information, as well as mutual fund trade processing services; solutions for public corporations and mutual funds; data and analytics solutions; SEC filing and capital markets transaction services; registrar, stock transfer, and record-keeping services; and omni-channel customer communications solutions, as well as operates Broadridge Communications Cloud platform that creates, delivers, and manages communications and customer engagement activities. Its Global Technology and Operations segment provides solutions that automate the front-to-back transaction lifecycle of equity, mutual fund, fixed income, foreign exchange and exchange-traded derivatives, order capture and execution, trade confirmation, margin, cash management, clearing and settlement, reference data management, reconciliations, securities financing and collateral management, asset servicing, compliance and regulatory reporting, portfolio accounting, and custody-related services. This segment also offers business process outsourcing services; technology solutions, such portfolio management, compliance, fee billing, and operational support solutions; and capital market and wealth and investment management solutions. The company was founded in 1962 and is headquartered in Lake Success, New York.",
         "fullTimeEmployees":14700,
         "companyOfficers":[
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":0.93157995,
         "shortRatio":1.29,
         "shortPercentOfFloat":0.0092,
+        "impliedSharesOutstanding":117772000,
         "bookValue":17.567,
         "priceToBook":11.72938,
         "lastFiscalYearEnd":1688083200,
@@ -179,6 +184,10 @@
         "pegRatio":2.23,
         "enterpriseToRevenue":4.373,
         "enterpriseToEbitda":18.931,
+        "52WeekChange":0.4809227,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.8,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BR",
@@ -189,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"19d3326f-3137-3bad-921c-e901a9bed4a7",
+        "messageBoardId":"finmb_1032802",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":206.05,
         "targetHighPrice":239.0,
@@ -219,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.9069
     }
-]
+

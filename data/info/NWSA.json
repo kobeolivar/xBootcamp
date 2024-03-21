@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1211 Avenue of the Americas",
         "city":"New York",
@@ -8,7 +8,11 @@
         "phone":"212 416 3400",
         "website":"https:\/\/www.newscorp.com",
         "industry":"Entertainment",
+        "industryKey":"entertainment",
+        "industryDisp":"Entertainment",
         "sector":"Communication Services",
+        "sectorKey":"communication-services",
+        "sectorDisp":"Communication Services",
         "longBusinessSummary":"News Corporation, a media and information services company, creates and distributes authoritative and engaging content, and other products and services for consumers and businesses worldwide. It operates in six segments: Digital Real Estate Services, Subscription Video Services, Dow Jones, Book Publishing, News Media, and Other. The company distributes content and data products, including The Wall Street Journal, Barron's, MarketWatch, Investor's Business Daily, Factiva, Dow Jones Risk & Compliance, Dow Jones Newswires, and OPIS through various media channels, such as newspapers, newswires, websites, mobile apps, newsletters, magazines, proprietary databases, live journalism, video, and podcasts. It also owns and operates Monday to Friday, Saturday and Sunday, weekly, and bi-weekly newspapers comprising The Australian, The Weekend Australian, The Daily Telegraph, The Sunday Telegraph, Herald Sun, Sunday Herald Sun, The Courier Mail, The Sunday Mail, The Advertiser, Sunday Mail, The Sun, The Sun on Sunday, The Times, The Sunday Times, and New York Post, as well as digital mastheads and other websites. In addition, the company publishes general fiction, nonfiction, children's, and religious books; provides sports, entertainment, and news services to pay-TV and streaming subscribers, and other commercial licensees through satellite and internet distribution; and broadcasts rights to live sporting events. Further, it offers property and property-related advertising and services on its websites and mobile applications; digital real estate services; and financial services. News Corporation was founded in 2012 and is headquartered in New York, New York.",
         "fullTimeEmployees":25000,
         "companyOfficers":[
@@ -162,6 +166,7 @@
         "heldPercentInstitutions":1.0283899,
         "shortRatio":2.31,
         "shortPercentOfFloat":0.0207,
+        "impliedSharesOutstanding":575230976,
         "bookValue":14.304,
         "priceToBook":1.8323545,
         "lastFiscalYearEnd":1688083200,
@@ -174,6 +179,10 @@
         "pegRatio":-14.71,
         "enterpriseToRevenue":1.821,
         "enterpriseToEbitda":14.404,
+        "52WeekChange":0.6013597,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.1,
+        "lastDividendDate":1710201600,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"NWSA",
@@ -184,6 +193,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"ea15bdb0-9720-3a7f-a6f8-970031ed5705",
+        "messageBoardId":"finmb_212741644",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":26.21,
         "targetHighPrice":37.0,
@@ -214,4 +224,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.1088
     }
-]
+

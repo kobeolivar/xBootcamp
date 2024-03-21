@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"WTC Free Zone",
         "address2":"Dr. Luis Bonavita 1294, Of. 1733 Tower II",
@@ -8,7 +8,11 @@
         "phone":"598 2 927 2770",
         "website":"https:\/\/www.mercadolibre.com",
         "industry":"Internet Retail",
+        "industryKey":"internet-retail",
+        "industryDisp":"Internet Retail",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"MercadoLibre, Inc. operates online commerce platforms in the United States. It operates Mercado Libre Marketplace, an automated online commerce platform that enables businesses, merchants, and individuals to list merchandise and conduct sales and purchases digitally; and Mercado Pago FinTech platform, a financial technology solution platform, which facilitates transactions on and off its marketplaces by providing a mechanism that allows its users to send and receive payments online, as well as allows users to transfer money through their websites or on the apps. The company also offers Mercado Fondo that allows users to invest funds deposited in their Mercado Pago accounts; Mercado Credito, which extends loans to certain merchants and consumers; and Mercado Envios logistics solution that enables sellers on its platform to utilize third-party carriers and other logistics service providers, as well as fulfillment and warehousing services for sellers. In addition, it provides Mercado Libre Classifieds, an online classified listing service, where users can list and purchase motor vehicles, real estate, and services; Mercado Ads, an advertising platform, which enables large retailers and brands to promote their products and services on the web; and Mercado Shops, an online storefronts solution that enables users to set-up, manage, and promote their own digital stores. The company was incorporated in 1999 and is headquartered in Montevideo, Uruguay.",
         "fullTimeEmployees":58313,
         "companyOfficers":[
@@ -156,6 +160,7 @@
         "heldPercentInstitutions":0.85867995,
         "shortRatio":1.42,
         "shortPercentOfFloat":0.0156,
+        "impliedSharesOutstanding":52913500,
         "bookValue":60.575,
         "priceToBook":25.682045,
         "lastFiscalYearEnd":1703980800,
@@ -167,6 +172,10 @@
         "pegRatio":1.17,
         "enterpriseToRevenue":5.308,
         "enterpriseToEbitda":28.474,
+        "52WeekChange":0.2830683,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.15,
+        "lastDividendDate":1514419200,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"MELI",
@@ -177,6 +186,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"1de8296e-9008-3aa8-a0d2-cd4c53ee06bd",
+        "messageBoardId":"finmb_34322384",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":1555.69,
         "targetHighPrice":2006.76,
@@ -207,4 +217,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.5031
     }
-]
+

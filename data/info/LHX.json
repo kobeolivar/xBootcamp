@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1025 West NASA Boulevard",
         "city":"Melbourne",
@@ -146,8 +146,8 @@
         "averageVolume":1104581,
         "averageVolume10days":1248780,
         "averageDailyVolume10Day":1248780,
-        "bid":208.61,
-        "ask":214.05,
+        "bid":212.61,
+        "ask":213.88,
         "bidSize":1800,
         "askSize":800,
         "marketCap":40517681152,
@@ -232,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.9371
     }
-]
+

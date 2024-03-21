@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"6400 Poplar Avenue",
         "city":"Memphis",
@@ -8,7 +8,11 @@
         "phone":"901 419 9000",
         "website":"https:\/\/www.internationalpaper.com",
         "industry":"Packaging & Containers",
+        "industryKey":"packaging-containers",
+        "industryDisp":"Packaging & Containers",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"International Paper Company produces and sells renewable fiber-based packaging and pulp products in North America, Latin America, Europe, and North Africa. It operates through two segments, Industrial Packaging and Global Cellulose Fibers. The company offers linerboard, medium, whitetop, recycled linerboard, recycled medium and saturating kraft; and pulp for a range of applications, such as diapers, towel and tissue products, feminine care, incontinence, and other personal care products, as well as specialty pulps for use in textiles, construction materials, paints, coatings, and others. It sells its products directly to end users and converters, as well as through agents, resellers, and distributors. The company was founded in 1898 and is headquartered in Memphis, Tennessee.",
         "fullTimeEmployees":39000,
         "companyOfficers":[
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.84145,
         "shortRatio":1.64,
         "shortPercentOfFloat":0.0239,
+        "impliedSharesOutstanding":346353984,
         "bookValue":24.145,
         "priceToBook":1.6516877,
         "lastFiscalYearEnd":1703980800,
@@ -178,10 +183,14 @@
         "trailingEps":0.86,
         "forwardEps":2.8,
         "pegRatio":0.93,
-        "lastSplitFactor":"1014:1000",
-        "lastSplitDate":1404259200,
+        "lastSplitFactor":"1056:1000",
+        "lastSplitDate":1633046400,
         "enterpriseToRevenue":0.98,
         "enterpriseToEbitda":8.624,
+        "52WeekChange":0.15010262,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.463,
+        "lastDividendDate":1708473600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"IP",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"a12a3079-e14c-3d46-a69b-a52b8a90b21a",
+        "messageBoardId":"finmb_61036",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":39.88,
         "targetHighPrice":46.0,
@@ -221,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.4292
     }
-]
+

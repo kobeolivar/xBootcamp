@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"8020 Katy Freeway",
         "city":"Houston",
@@ -147,8 +147,8 @@
         "averageVolume":2704316,
         "averageVolume10days":2523270,
         "averageDailyVolume10Day":2523270,
-        "bid":103.94,
-        "ask":103.99,
+        "bid":103.26,
+        "ask":104.19,
         "bidSize":1100,
         "askSize":900,
         "marketCap":45010731008,
@@ -231,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":9.1624
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Midtown Union",
         "address2":"1331 Spring Street, North West",
@@ -10,7 +10,11 @@
         "fax":"404 439 4911",
         "website":"https:\/\/www.invesco.com",
         "industry":"Asset Management",
+        "industryKey":"asset-management",
+        "industryDisp":"Asset Management",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Invesco Ltd. is a publicly owned investment manager. The firm provides its services to retail clients, institutional clients, high-net worth clients, public entities, corporations, unions, non-profit organizations, endowments, foundations, pension funds, financial institutions, and sovereign wealth funds. It manages separate client-focused equity and fixed income portfolios. The firm also launches equity, fixed income, commodity, multi-asset, and balanced mutual funds for its clients. It launches equity, fixed income, multi-asset, and balanced exchange-traded funds. The firm also launches and manages private funds. It invests in the public equity and fixed income markets across the globe. The firm also invests in alternative markets, such as commodities and currencies. For the equity portion of its portfolio, it invests in growth and value stocks of large-cap, mid-cap, and small-cap companies. For the fixed income portion of its portfolio, the firm invests in convertibles, government bonds, municipal bonds, treasury securities, and cash. It also invests in short term and intermediate term bonds, investment grade and high yield bonds, taxable and tax-free bonds, senior secured loans, and structured securities such as asset-backed securities, mortgage-backed securities, and commercial mortgage-backed securities. The firm employs absolute return, global macro, and long\/short strategies. It employs quantitative analysis to make its investments. The firm was formerly known as Invesco Plc, AMVESCAP plc, Amvesco plc, Invesco PLC, Invesco MIM, and H. Lotery & Co. Ltd. Invesco Ltd. was founded in 1935 and is based in Atlanta, Georgia with an additional office in Hamilton, Bermuda.",
         "fullTimeEmployees":8489,
         "companyOfficers":[
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.88208,
         "shortRatio":1.45,
         "shortPercentOfFloat":0.0234,
+        "impliedSharesOutstanding":449204000,
         "bookValue":23.553,
         "priceToBook":0.679319,
         "lastFiscalYearEnd":1703980800,
@@ -178,6 +183,10 @@
         "lastSplitDate":973641600,
         "enterpriseToRevenue":2.256,
         "enterpriseToEbitda":12.66,
+        "52WeekChange":0.052526593,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.2,
+        "lastDividendDate":1707955200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"IVZ",
@@ -188,6 +197,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"1481a787-6114-3700-8c31-771abf6fd77e",
+        "messageBoardId":"finmb_384779",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":16.0,
         "targetHighPrice":21.0,
@@ -217,4 +227,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.5351
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"811 Louisiana Street",
         "address2":"Suite 2100",
@@ -10,7 +10,11 @@
         "fax":"713 584 1100",
         "website":"https:\/\/www.targaresources.com",
         "industry":"Oil & Gas Midstream",
+        "industryKey":"oil-gas-midstream",
+        "industryDisp":"Oil & Gas Midstream",
         "sector":"Energy",
+        "sectorKey":"energy",
+        "sectorDisp":"Energy",
         "longBusinessSummary":"Targa Resources Corp., together with its subsidiary, Targa Resources Partners LP, owns, operates, acquires, and develops a portfolio of complementary domestic midstream infrastructure assets in North America. It operates in two segments, Gathering and Processing, and Logistics and Transportation. The company is involved in gathering, compressing, treating, processing, transporting, and selling natural gas; storing, fractionating, treating, transporting, and selling natural gas liquids (NGL) and NGL products, including services to liquefied petroleum gas exporters; and gathering, storing, terminaling, purchasing, and selling crude oil. It is also involved in the purchase and resale of NGL products; and sale of propane, as well as provision of related logistics services to multi-state retailers, independent retailers, and other end-users. In addition, the company offers NGL balancing services; and transportation services to refineries and petrochemical companies in the Gulf Coast area, as well as purchases, markets, and resells natural gas. As of December 31, 2023, it leased and managed approximately 605 railcars; 137 tractors; and 6 vacuum trucks and 2 pressurized NGL barges. Targa Resources Corp. was incorporated in 2005 and is headquartered in Houston, Texas.",
         "fullTimeEmployees":3182,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":0.93757004,
         "shortRatio":1.96,
         "shortPercentOfFloat":0.020599999,
+        "impliedSharesOutstanding":223155008,
         "bookValue":12.307,
         "priceToBook":9.02007,
         "lastFiscalYearEnd":1703980800,
@@ -182,6 +187,10 @@
         "pegRatio":0.89,
         "enterpriseToRevenue":2.435,
         "enterpriseToEbitda":9.87,
+        "52WeekChange":0.6317128,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.5,
+        "lastDividendDate":1706572800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"TRGP",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"6b22995e-24c8-3077-9de7-67cb061d448b",
+        "messageBoardId":"finmb_39153321",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":111.01,
         "targetHighPrice":134.18,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.2386
     }
-]
+

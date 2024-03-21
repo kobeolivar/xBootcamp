@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"222 West Las Colinas Boulevard",
         "address2":"Suite 900N",
@@ -9,7 +9,11 @@
         "phone":"972 443 4000",
         "website":"https:\/\/www.celanese.com",
         "industry":"Chemicals",
+        "industryKey":"chemicals",
+        "industryDisp":"Chemicals",
         "sector":"Basic Materials",
+        "sectorKey":"basic-materials",
+        "sectorDisp":"Basic Materials",
         "longBusinessSummary":"Celanese Corporation, a chemical and specialty materials company, manufactures and sells high performance engineered polymers in the United States and internationally. It operates through Engineered Materials and Acetyl Chain. The Engineered Materials segment develops, produces, and supplies specialty polymers for automotive and medical applications, as well as for use in industrial products and consumer electronics. The Acetyl Chain segment produces and supplies acetyl products, including acetic acid, vinyl acetate monomers, acetic anhydride, and acetate esters that are used as starting materials for colorants, paints, adhesives, coatings, and pharmaceuticals; and organic solvents and intermediates for pharmaceutical, agricultural, and chemical products. It also offers vinyl acetate-based emulsions for use in paints and coatings, adhesives, construction, glass fiber, textiles, and paper applications; and ethylene vinyl acetate resins and compounds, as well as low-density polyethylene for use in flexible packaging films, lamination film products, hot melt adhesives, automotive parts, and carpeting applications. In addition, it provides redispersible powders (RDP) for use in construction applications, including flooring, plasters, insulation, tiling, and waterproofing. Celanese Corporation was founded in 1918 and is headquartered in Irving, Texas.",
         "fullTimeEmployees":12410,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":1.06741,
         "shortRatio":6.72,
         "shortPercentOfFloat":0.0556,
+        "impliedSharesOutstanding":108906000,
         "bookValue":65.111,
         "priceToBook":2.5854309,
         "lastFiscalYearEnd":1703980800,
@@ -182,6 +187,10 @@
         "pegRatio":0.66,
         "enterpriseToRevenue":2.813,
         "enterpriseToEbitda":16.806,
+        "52WeekChange":0.66197896,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.7,
+        "lastDividendDate":1708041600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"CE",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"7a861313-38bf-355e-8a56-311f264aa6aa",
+        "messageBoardId":"finmb_405277",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":168.34,
         "targetHighPrice":180.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

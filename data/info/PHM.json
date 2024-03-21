@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3350 Peachtree Road NE",
         "address2":"Suite 1500",
@@ -9,7 +9,11 @@
         "phone":"404 978 6400",
         "website":"https:\/\/www.pultegroup.com",
         "industry":"Residential Construction",
+        "industryKey":"residential-construction",
+        "industryDisp":"Residential Construction",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"PulteGroup, Inc., through its subsidiaries, primarily engages in the homebuilding business in the United States. It acquires and develops land primarily for residential purposes; and constructs housing on such land. The company also offers various home designs, including single-family detached, townhomes, condominiums, and duplexes under the Centex, Pulte Homes, Del Webb, DiVosta Homes, John Wieland Homes and Neighborhoods, and American West brand names. In addition, the company arranges financing through the origination of mortgage loans primarily for homebuyers; sells the servicing rights for the originated loans; and provides title insurance policies, and examination and closing services to homebuyers. PulteGroup, Inc. was founded in 1950 and is headquartered in Atlanta, Georgia.",
         "fullTimeEmployees":6382,
         "companyOfficers":[
@@ -141,8 +145,8 @@
         "averageVolume":1810611,
         "averageVolume10days":2016880,
         "averageDailyVolume10Day":2016880,
-        "bid":115.71,
-        "ask":116.68,
+        "bid":115.56,
+        "ask":116.82,
         "bidSize":900,
         "askSize":800,
         "marketCap":24617717760,
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":0.92749,
         "shortRatio":3.06,
         "shortPercentOfFloat":0.0297,
+        "impliedSharesOutstanding":212112000,
         "bookValue":48.849,
         "priceToBook":2.375893,
         "lastFiscalYearEnd":1703980800,
@@ -181,6 +186,10 @@
         "lastSplitDate":1125619200,
         "enterpriseToRevenue":1.559,
         "enterpriseToEbitda":7.14,
+        "52WeekChange":1.0214577,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.2,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"PHM",
@@ -191,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"9624adff-51b6-3616-bf4f-260872454b5a",
+        "messageBoardId":"finmb_294550",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":116.06,
         "targetHighPrice":172.0,
@@ -221,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.3172
     }
-]
+

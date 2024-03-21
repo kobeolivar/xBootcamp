@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Humana Building",
         "address2":"500 West Main Street P.O. Box 1438",
@@ -153,7 +153,7 @@
         "averageVolume10days":1361190,
         "averageDailyVolume10Day":1361190,
         "bid":348.7,
-        "ask":348.89,
+        "ask":348.99,
         "bidSize":1200,
         "askSize":800,
         "marketCap":41877520384,
@@ -236,4 +236,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.4439
     }
-]
+

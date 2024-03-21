@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"614 McKinley Place N.E.",
         "city":"Minneapolis",
@@ -9,7 +9,11 @@
         "fax":"612 656 4400",
         "website":"https:\/\/www.bio-techne.com",
         "industry":"Biotechnology",
+        "industryKey":"biotechnology",
+        "industryDisp":"Biotechnology",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Bio-Techne Corporation, together with its subsidiaries, develops, manufactures, and sells life science reagents, instruments, and services for the research and clinical diagnostic markets in the United States, the United Kingdom, rest of Europe, Middle East, and Africa, Greater China, rest of Asia-Pacific, and internationally. The company operates through two segments, Protein Sciences, and Diagnostics and Genomics. The Protein Sciences segment develops and manufactures biological reagents used in various aspects of life science research, diagnostics, and cell and gene therapy, such as cytokines and growth factors, antibodies, small molecules, tissue culture sera, and cell selection technologies. This segment also offers proteomic analytical tools for automated western blot and multiplexed ELISA workflow consists of manual and automated protein analysis instruments and immunoassays for use in quantifying proteins in various biological fluids. The Diagnostics and Genomics segment develops and manufactures diagnostic products, including controls, calibrators, and diagnostic assays for regulated diagnostics market, exosome-based molecular diagnostic assays, advanced tissue-based in-situ hybridization assays for spatial genomic and tissue biopsy analysis, and genetic and oncology kits for research and clinical applications; and sells products for genetic carrier screening, oncology diagnostics, molecular controls, and research, as well as instruments and process control products for hematology, blood chemistry and gases, and coagulation controls and reagents used in various diagnostic applications. The company was formerly known as Techne Corporation and changed its name to Bio-Techne Corporation in November 2014. Bio-Techne Corporation was incorporated in 1976 and is headquartered in Minneapolis, Minnesota.",
         "fullTimeEmployees":3200,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":1.00537,
         "shortRatio":3.95,
         "shortPercentOfFloat":0.0379,
+        "impliedSharesOutstanding":157192000,
         "bookValue":12.495,
         "priceToBook":5.788716,
         "lastFiscalYearEnd":1688083200,
@@ -178,10 +183,14 @@
         "trailingEps":1.39,
         "forwardEps":2.02,
         "pegRatio":5.33,
-        "lastSplitFactor":"2:1",
-        "lastSplitDate":975888000,
+        "lastSplitFactor":"4:1",
+        "lastSplitDate":1669766400,
         "enterpriseToRevenue":10.235,
         "enterpriseToEbitda":36.241,
+        "52WeekChange":-0.0005561709,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.08,
+        "lastDividendDate":1707436800,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"TECH",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"0b57ad1b-1e0c-399e-a299-48cc57d56404",
+        "messageBoardId":"finmb_189488",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":72.33,
         "targetHighPrice":95.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

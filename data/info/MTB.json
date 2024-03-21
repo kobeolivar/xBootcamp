@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"One M&T Plaza",
         "city":"Buffalo",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"716 635 4000",
         "website":"https:\/\/www3.mtb.com",
-        "industry":"Banks—Regional",
+        "industry":"Banks - Regional",
+        "industryKey":"banks-regional",
+        "industryDisp":"Banks - Regional",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"M&T Bank Corporation operates as a bank holding company for Manufacturers and Traders Trust Company and Wilmington Trust, National Association that engages in the provision of retail and commercial banking products and services in the United States. The company operates through three segments: Commercial Bank, Retail Bank, and Institutional Services and Wealth Management. It offers a range of credit products and banking services, such as commercial lending and leasing, letters of credits, commercial real estate loans, and credit facilities secured by various commercial real estate to middle-market and large commercial customers. The company also provides customers deposit products, including demand, savings and time accounts, and other services; automobile and recreational finance loans, home equity loans and lines of credit, credit cards, and other loan products, as well as residential mortgage and real estate loans; business loans, cash management, payroll, and direct deposit services to consumers and small businesses through branch network, telephone banking, internet banking, and automated teller machines. In addition, it offers trustee, agency, investment management, security brokerage, and administrative services; personal trust, planning, fiduciary, asset management, family office, and other services; and investment products, including mutual funds and annuities, and other services for corporations and institutions, investment bankers, corporate tax, finance and legal executives, and other institutional clients. The company was founded in 1856 and is headquartered in Buffalo, New York.",
         "fullTimeEmployees":21736,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":0.86403,
         "shortRatio":2.55,
         "shortPercentOfFloat":0.0217,
+        "impliedSharesOutstanding":166624000,
         "bookValue":150.154,
         "priceToBook":0.97133607,
         "lastFiscalYearEnd":1703980800,
@@ -180,6 +185,10 @@
         "lastSplitFactor":"10:1",
         "lastSplitDate":970790400,
         "enterpriseToRevenue":1.205,
+        "52WeekChange":0.27427244,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.3,
+        "lastDividendDate":1709251200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"MTB",
@@ -190,6 +199,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"842d2b8b-d74e-3927-b4ed-510ba13c1515",
+        "messageBoardId":"finmb_272285",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":145.85,
         "recommendationMean":2.0,
@@ -208,4 +218,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.4549
     }
-]
+

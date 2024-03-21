@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1000 Abernathy Road NE",
         "city":"Atlanta",
@@ -8,7 +8,11 @@
         "phone":"770 448 2193",
         "website":"https:\/\/www.westrock.com",
         "industry":"Packaging & Containers",
+        "industryKey":"packaging-containers",
+        "industryDisp":"Packaging & Containers",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"WestRock Company, together with its subsidiaries, provides fiber-based paper and packaging solutions in North America, South America, Europe, Asia, and Australia. It operates through four segments: Corrugated Packaging, Consumer Packaging, Global Paper, and Distribution. The Corrugated Packaging segment produces containerboards, corrugated sheets, corrugated packaging, and preprinted linerboards to consumer and industrial products manufacturers, and corrugated box manufacturers. It also provides structural and graphic design, engineering services and custom, and proprietary and standard automated packaging machines; turn-key installation, automation, line integration, and packaging solutions; machinery solution that creates pouches; and pack temporary displays, as well as lithographic laminated packaging products. The Consumer Packaging segment manufactures and sells folding cartons that are used to package food, paper, beverages, dairy products, confectionery, health and beauty, and other household consumer products, as well as express mail packages for the overnight courier industry. It also offers inserts and labels, as well as rigid packaging and other printed packaging products, such as transaction cards, brochures, product literature, marketing materials, and grower tags, and plant stakes; and paperboard packaging for over-the-counter and prescription drugs. In addition, this segment manufactures and sells solid fiber and corrugated partitions, and die-cut paperboard components. The Global Paper segment manufactures containerboard, paperboard, and specialty grades primarily to corrugated packaging, folding carton, food service, liquid packaging, tobacco, and commercial print markets. The Distribution segment distributes corrugated packaging materials and other specialty packaging products, including stretch films, void fills, carton sealing tapes, and other specialty tapes; and provides contract packing services. The company is based in Atlanta, Georgia.",
         "fullTimeEmployees":56100,
         "companyOfficers":[
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.87099,
         "shortRatio":5.28,
         "shortPercentOfFloat":0.059899997,
+        "impliedSharesOutstanding":256967008,
         "bookValue":39.486,
         "priceToBook":1.2366409,
         "lastFiscalYearEnd":1696032000,
@@ -182,6 +187,10 @@
         "lastSplitDate":1463356800,
         "enterpriseToRevenue":1.08,
         "enterpriseToEbitda":7.972,
+        "52WeekChange":0.74023235,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.303,
+        "lastDividendDate":1707350400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"WRK",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"bee2eb22-856c-345d-8380-3e0784b8b003",
+        "messageBoardId":"finmb_33897",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":48.83,
         "targetHighPrice":49.9,
@@ -221,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.4774
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Two North Ninth Street",
         "city":"Allentown",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"610 774 5151",
         "website":"https:\/\/www.pplweb.com",
-        "industry":"Utilities—Regulated Electric",
+        "industry":"Utilities - Regulated Electric",
+        "industryKey":"utilities-regulated-electric",
+        "industryDisp":"Utilities - Regulated Electric",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"PPL Corporation, an energy company, focuses on providing electricity and natural gas to approximately 3.6 million customers in the United States. It operates through three segments: Kentucky Regulated, Pennsylvania Regulated, and Rhode Island Regulated. The company delivers electricity to customers in Pennsylvania, Kentucky, Virginia, and Rhode Island; delivers natural gas to customers in Kentucky and Rhode Island; and generates electricity from power plants in Kentucky. PPL Corporation was founded in 1920 and is headquartered in Allentown, Pennsylvania.",
         "fullTimeEmployees":6629,
         "companyOfficers":[
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.78271,
         "shortRatio":3.11,
         "shortPercentOfFloat":0.026700001,
+        "impliedSharesOutstanding":737603008,
         "bookValue":18.902,
         "priceToBook":1.4284202,
         "lastFiscalYearEnd":1703980800,
@@ -179,6 +184,10 @@
         "lastSplitDate":1433203200,
         "enterpriseToRevenue":4.257,
         "enterpriseToEbitda":11.282,
+        "52WeekChange":0.04399848,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.258,
+        "lastDividendDate":1709769600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"PPL",
@@ -189,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"050761d8-d320-3128-b499-0287d187f09a",
+        "messageBoardId":"finmb_185508",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":27.0,
         "targetHighPrice":31.0,
@@ -219,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.4207
     }
-]
+

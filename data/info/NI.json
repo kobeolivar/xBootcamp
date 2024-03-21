@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"801 East 86th Avenue",
         "city":"Merrillville",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"877 647 5990",
         "website":"https:\/\/www.nisource.com",
-        "industry":"Utilities—Regulated Gas",
+        "industry":"Utilities - Regulated Gas",
+        "industryKey":"utilities-regulated-gas",
+        "industryDisp":"Utilities - Regulated Gas",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"NiSource Inc., an energy holding company, operates as a regulated natural gas and electric utility company in the United States. It operates in two segments, Gas Distribution Operations and Electric Operations. The company distributes natural gas to approximately 3.3 million customers through approximately 55,000 miles of distribution main pipeline and the associated individual customer service lines; and 1,000 miles of transmission main pipeline in northern Indiana, Ohio, Pennsylvania, Virginia, Kentucky, and Maryland. It also generates, transmits, and distributes electricity to approximately 0.5 million customers in various counties in the northern part of Indiana, as well as engages in wholesale electric and transmission transactions. It owns and operates coal-fired electric generating stations in Wheatfield and Michigan City; combined cycle gas turbine in West Terre Haute; natural gas generating units in Wheatfield; hydro generating plants in Carroll County and White County; wind generating units in White County, Indiana; and solar generating units in Jasper County and White County. The company was formerly known as NIPSCO Industries, Inc. and changed its name to NiSource Inc. in April 1999. NiSource Inc. was founded in 1847 and is headquartered in Merrillville, Indiana.",
         "fullTimeEmployees":7364,
         "companyOfficers":[
@@ -172,6 +176,7 @@
         "heldPercentInstitutions":0.92623,
         "shortRatio":1.18,
         "shortPercentOfFloat":0.0161,
+        "impliedSharesOutstanding":447524992,
         "bookValue":17.398,
         "priceToBook":1.5576502,
         "lastFiscalYearEnd":1703980800,
@@ -186,6 +191,10 @@
         "lastSplitDate":1435795200,
         "enterpriseToRevenue":4.775,
         "enterpriseToEbitda":12.564,
+        "52WeekChange":0.033872247,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.265,
+        "lastDividendDate":1706832000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"NI",
@@ -196,6 +205,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"fff6fa4f-e7dd-3c3a-931c-a45d9e626ae7",
+        "messageBoardId":"finmb_53839770",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":27.1,
         "targetHighPrice":32.0,
@@ -226,4 +236,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.3226
     }
-]
+

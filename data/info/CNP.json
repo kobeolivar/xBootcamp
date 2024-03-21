@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1111 Louisiana Street",
         "city":"Houston",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"713 207 1111",
         "website":"https:\/\/www.centerpointenergy.com",
-        "industry":"Utilities—Regulated Electric",
+        "industry":"Utilities - Regulated Electric",
+        "industryKey":"utilities-regulated-electric",
+        "industryDisp":"Utilities - Regulated Electric",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"CenterPoint Energy, Inc. operates as a public utility holding company in the United States. The company operates through two segments, Electric and Natural Gas. The Electric segment includes electric transmission and distribution services to electric customers and electric generation assets, as well as optimizes assets in the wholesale power market. The Natural Gas segment engages in the intrastate natural gas sales, and natural gas transportation and distribution for residential, commercial, industrial and institutional customers in Indiana, Louisiana, Minnesota, Mississippi, Ohio, and Texas; permanent pipeline connections through interconnects with various interstate and intrastate pipeline companies; and provides maintenance and repair services of home appliances to customers in Minnesota and home repair protection plans to natural gas customers in Indiana, Mississippi, Ohio, and Texas through a third party. It serves approximately 2,534,730 metered customers; owned 348 substations with transformer capacity of 79,719 megavolt amperes; and owned and operated 217 miles of intrastate pipeline in Louisiana and Texas. The company was founded in 1866 and is headquartered in Houston, Texas.",
         "fullTimeEmployees":8827,
         "companyOfficers":[
@@ -130,6 +134,7 @@
         "heldPercentInstitutions":0.92994004,
         "shortRatio":3.24,
         "shortPercentOfFloat":0.0254,
+        "impliedSharesOutstanding":633097024,
         "bookValue":15.315,
         "priceToBook":1.82762,
         "lastFiscalYearEnd":1703980800,
@@ -144,6 +149,10 @@
         "lastSplitDate":1033430400,
         "enterpriseToRevenue":4.107,
         "enterpriseToEbitda":12.018,
+        "52WeekChange":0.028550506,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.2,
+        "lastDividendDate":1707868800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"CNP",
@@ -154,6 +163,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"9fda3b6c-f463-31c9-893e-d94684a719fa",
+        "messageBoardId":"finmb_279513",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":27.99,
         "targetHighPrice":34.0,
@@ -184,4 +194,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.1362
     }
-]
+

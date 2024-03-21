@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"412 North Wells Street",
         "city":"Chicago",
@@ -8,7 +8,11 @@
         "phone":"269 961 2000",
         "website":"https:\/\/www.kellanova.com",
         "industry":"Packaged Foods",
+        "industryKey":"packaged-foods",
+        "industryDisp":"Packaged Foods",
         "sector":"Consumer Defensive",
+        "sectorKey":"consumer-defensive",
+        "sectorDisp":"Consumer Defensive",
         "longBusinessSummary":"Kellanova, together with its subsidiaries, manufactures and markets snacks and convenience foods in North America, Europe, Latin America, the Asia Pacific, the Middle East, Australia, and Africa. Its principal products include crackers, crisps, savory snacks, toaster pastries, cereal bars, granola bars and bites, ready-to-eat cereals, frozen waffles, veggie foods, and noodles. The company offers its products under the Kellogg's, Cheez-It, Pringles, Austin, Parati, RXBAR, Eggo, Morningstar Farms, Bisco, Club, Luxe, Minueto, Special K, Toasteds, Town House, Zesta, Zoo Cartoon, Choco Krispis, Crunchy Nut, Kashi, Nutri-Grain, Squares, Zucaritas, Rice Krispies Treats, Sucrilhos, Pop-Tarts, K-Time, Sunibrite, Split Stix, LCMs, Coco Pops, Krave, Frosties, Rice Krispies Squares, Incogmeato, Veggitizers, Gardenburger, Trink, Carr's, Kellogg's Extra, Müsli, Fruit n Fibre, Kellogg's Crunchy Nut, Country Store, Smacks, Honey Bsss, Zimmy's, Toppas, Tresor, Froot Ring, Chocos, Chex, Guardian, Just Right, Sultana Bran, Rice Bubbles, Sustain, and Choco Krispies brand names. It sells its products to retailers through direct sales forces, as well as brokers and distributors. The company was formerly known as Kellogg Company and changed its name to Kellanova in October 2023. Kellanova was founded in 1906 and is headquartered in Chicago, Illinois.",
         "fullTimeEmployees":23000,
         "companyOfficers":[
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":0.87625,
         "shortRatio":4.44,
         "shortPercentOfFloat":0.0476,
+        "impliedSharesOutstanding":341759008,
         "bookValue":9.322,
         "priceToBook":6.019095,
         "lastFiscalYearEnd":1703894400,
@@ -176,10 +181,14 @@
         "trailingEps":2.25,
         "forwardEps":3.81,
         "pegRatio":1.94,
-        "lastSplitFactor":"2:1",
-        "lastSplitDate":872467200,
+        "lastSplitFactor":"1065:1000",
+        "lastSplitDate":1696204800,
         "enterpriseToRevenue":1.922,
         "enterpriseToEbitda":13.858,
+        "52WeekChange":-0.09095818,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.56,
+        "lastDividendDate":1709164800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"K",
@@ -190,6 +199,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"a5f3c6a1-1b03-339d-86af-9fb43c97c188",
+        "messageBoardId":"finmb_283356",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":56.11,
         "targetHighPrice":67.0,
@@ -219,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":4.7158
     }
-]
+

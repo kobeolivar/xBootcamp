@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"500 North Broadway",
         "address2":"Suite 201",
@@ -9,8 +9,12 @@
         "phone":"516 869 9000",
         "fax":"516 869 9001",
         "website":"https:\/\/www.kimcorealty.com",
-        "industry":"REIT—Retail",
+        "industry":"REIT - Retail",
+        "industryKey":"reit-retail",
+        "industryDisp":"REIT - Retail",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"Kimco Realty (NYSE:KIM) is a real estate investment trust (REIT) headquartered in Jericho, N.Y. that is North America's largest publicly traded owner and operator of open-air, grocery-anchored shopping centers and a growing portfolio of mixed-use assets. The company's portfolio is primarily concentrated in the first-ring suburbs of the top major metropolitan markets, including those in high-barrier-to-entry coastal markets and rapidly expanding Sun Belt cities, with a tenant mix focused on essential, necessity-based goods and services that drive multiple shopping trips per week. Kimco Realty is also committed to leadership in environmental, social and governance (ESG) issues and is a recognized industry leader in these areas. Publicly traded on the NYSE since 1991, and included in the S&P 500 Index, the company has specialized in shopping center ownership, management, acquisitions, and value enhancing redevelopment activities for more than 60 years. As of December 31, 2023, the company owned interests in 523 U.S. shopping centers and mixed-use assets comprising 90 million square feet of gross leasable space.",
         "companyOfficers":[
             {
@@ -141,7 +145,7 @@
         "averageVolume":5981278,
         "averageVolume10days":4379370,
         "averageDailyVolume10Day":4379370,
-        "bid":19.72,
+        "bid":19.5,
         "ask":19.71,
         "bidSize":1800,
         "askSize":1200,
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":0.90746003,
         "shortRatio":2.62,
         "shortPercentOfFloat":0.0274,
+        "impliedSharesOutstanding":672905024,
         "bookValue":15.367,
         "priceToBook":1.28392,
         "lastFiscalYearEnd":1703980800,
@@ -180,6 +185,10 @@
         "lastSplitDate":1124841600,
         "enterpriseToRevenue":10.762,
         "enterpriseToEbitda":17.861,
+        "52WeekChange":0.1102227,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.24,
+        "lastDividendDate":1709683200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"KIM",
@@ -190,6 +199,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"b43f3e15-9c9b-39f3-a639-60763c01483e",
+        "messageBoardId":"finmb_320371",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":19.73,
         "targetHighPrice":26.0,
@@ -217,4 +227,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.7771
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"S45 W29290 Highway 59",
         "city":"Waukesha",
@@ -8,7 +8,11 @@
         "phone":"262 544 4811",
         "website":"https:\/\/www.generac.com",
         "industry":"Specialty Industrial Machinery",
+        "industryKey":"specialty-industrial-machinery",
+        "industryDisp":"Specialty Industrial Machinery",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Generac Holdings Inc. designs, manufactures, and distributes various energy technology products and solution worldwide. The company offers residential automatic standby generators, automatic transfer switch, air-cooled engine residential standby generators, and liquid-cooled engine generators; Mobile Link, a remote monitoring system for home standby generators; residential storage solution, which consists of a system of batteries, an inverter, photovoltaic optimizers, power electronic controls, and other components; smart home solutions, such as smart thermostats and a suite of home monitoring products. It also provides smart home energy management devices and sensors for heating and cooling system; smart doorbell cameras; and portable and inverter generators; multiple portable battery solutions; manual transfer switches; outdoor power equipment, including trimmers, field and brush mowers, log splitters, stump grinders, chipper shredders, lawn and leaf vacuums, and pressure washers and water pumps; and battery-powered turf care products. In addition, the company offers commercial and industrial products comprising cleaner-burning natural gas fueled generators; light-commercial standby generators and related transfer switches; stationary generators; single-engine industrial generators; industrial standby generators; industrial transfer switches; light towers, mobile generators, commercial mobile pumps, heaters, dust-suppression equipment, and mobile energy storage systems; stationary energy storage system and related inverter products; and aftermarket service parts and product accessories. The company distributes its products through independent residential dealers, industrial distributors and dealers, national and regional retailers, e-commerce partners, electrical\/HVAC\/solar wholesalers, solar installers, catalogs, equipment rental companies, and other equipment distributors; and directly to end users. The company was founded in 1959 and is headquartered in Waukesha, Wisconsin.",
         "fullTimeEmployees":8315,
         "companyOfficers":[
@@ -118,6 +122,7 @@
         "heldPercentInstitutions":0.85852,
         "shortRatio":2.81,
         "shortPercentOfFloat":0.0691,
+        "impliedSharesOutstanding":60269300,
         "bookValue":38.915,
         "priceToBook":3.081845,
         "lastFiscalYearEnd":1703980800,
@@ -128,10 +133,12 @@
         "trailingEps":3.27,
         "forwardEps":7.99,
         "pegRatio":-13.04,
-        "lastSplitFactor":"1:3",
-        "lastSplitDate":1265760000,
         "enterpriseToRevenue":2.135,
         "enterpriseToEbitda":15.524,
+        "52WeekChange":0.10465872,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":5.0,
+        "lastDividendDate":1370822400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"GNRC",
@@ -142,6 +149,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"bd5db152-41b9-366d-973b-2483101849d1",
+        "messageBoardId":"finmb_78749412",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":119.93,
         "targetHighPrice":175.0,
@@ -172,4 +180,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.1702
     }
-]
+

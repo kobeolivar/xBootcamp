@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"400 North Fifth Street",
         "address2":"PO Box 53999",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"602 250 1000",
         "website":"https:\/\/www.pinnaclewest.com",
-        "industry":"Utilities—Regulated Electric",
+        "industry":"Utilities - Regulated Electric",
+        "industryKey":"utilities-regulated-electric",
+        "industryDisp":"Utilities - Regulated Electric",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"Pinnacle West Capital Corporation, through its subsidiary, provides retail and wholesale electric services primarily in the state of Arizona. The company engages in the generation, transmission, and distribution of electricity using coal, nuclear, gas, oil, and solar generating facilities. Its transmission facilities include overhead lines and underground lines; and distribution facilities consist of overhead lines and underground primary cables. The company also owns and maintains transmission and distribution substations; and owns energy storage facilities. Pinnacle West Capital Corporation was incorporated in 1985 and is headquartered in Phoenix, Arizona.",
         "fullTimeEmployees":6133,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":0.85580003,
         "shortRatio":1.99,
         "shortPercentOfFloat":0.0337,
+        "impliedSharesOutstanding":113427000,
         "bookValue":54.465,
         "priceToBook":1.338107,
         "lastFiscalYearEnd":1703980800,
@@ -179,10 +184,12 @@
         "trailingEps":4.41,
         "forwardEps":4.93,
         "pegRatio":2.22,
-        "lastSplitFactor":"10:1",
-        "lastSplitDate":1303948800,
         "enterpriseToRevenue":3.974,
         "enterpriseToEbitda":10.853,
+        "52WeekChange":-0.017813742,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.88,
+        "lastDividendDate":1706659200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"PNW",
@@ -193,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"5577a000-de80-3cab-9a4a-c5471734a065",
+        "messageBoardId":"finmb_296957",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":72.88,
         "targetHighPrice":95.0,
@@ -222,4 +230,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.6642
     }
-]
+

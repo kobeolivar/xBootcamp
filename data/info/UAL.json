@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"233 South Wacker Drive",
         "city":"Chicago",
@@ -8,7 +8,11 @@
         "phone":"872 825 4000",
         "website":"https:\/\/www.united.com",
         "industry":"Airlines",
+        "industryKey":"airlines",
+        "industryDisp":"Airlines",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"United Airlines Holdings, Inc., through its subsidiaries, provides air transportation services in North America, Asia, Europe, Africa, the Pacific, the Middle East, and Latin America. The company transports people and cargo through its mainline and regional fleets. It also offers catering, ground handling, flight academy, and maintenance services for third parties. The company was formerly known as United Continental Holdings, Inc. and changed its name to United Airlines Holdings, Inc. in June 2019. United Airlines Holdings, Inc. was incorporated in 1968 and is headquartered in Chicago, Illinois.",
         "fullTimeEmployees":103300,
         "companyOfficers":[
@@ -163,6 +167,7 @@
         "heldPercentInstitutions":0.70295,
         "shortRatio":2.39,
         "shortPercentOfFloat":0.062800005,
+        "impliedSharesOutstanding":328025984,
         "bookValue":28.425,
         "priceToBook":1.6404574,
         "lastFiscalYearEnd":1703980800,
@@ -173,10 +178,12 @@
         "trailingEps":7.98,
         "forwardEps":11.58,
         "pegRatio":0.11,
-        "lastSplitFactor":"4:1",
-        "lastSplitDate":832636800,
         "enterpriseToRevenue":0.697,
         "enterpriseToEbitda":4.803,
+        "52WeekChange":0.103696585,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":2.15,
+        "lastDividendDate":1199664000,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"UAL",
@@ -187,6 +194,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"4a481841-643c-3bcc-9402-e0d8a11d2bcb",
+        "messageBoardId":"finmb_309845",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":46.63,
         "targetHighPrice":98.0,
@@ -217,4 +225,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.5984
     }
-]
+

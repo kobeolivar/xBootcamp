@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"909 Third Avenue",
         "city":"New York",
@@ -8,7 +8,11 @@
         "phone":"212 704 1200",
         "website":"https:\/\/www.interpublic.com",
         "industry":"Advertising Agencies",
+        "industryKey":"advertising-agencies",
+        "industryDisp":"Advertising Agencies",
         "sector":"Communication Services",
+        "sectorKey":"communication-services",
+        "sectorDisp":"Communication Services",
         "longBusinessSummary":"The Interpublic Group of Companies, Inc. provides advertising and marketing services worldwide. It operates in three segments: Media, Data & Engagement Solutions, Integrated Advertising & Creativity Led Solutions, and Specialized Communications & Experiential Solutions. The Media, Data & Engagement Solutions segment provides media and communications services, digital services and products, advertising and marketing technology, e-commerce services, data management and analytics, strategic consulting, and digital brand experience under the IPG Mediabrands, UM, Initiative, Kinesso, Acxiom, Huge, MRM, and R\/GA brand names. The Integrated Advertising & Creativity Led Solutions segment offers advertising, corporate, and brand identity services; and strategic consulting under FCB, IPG Health, McCann Worldgroup, and MullenLowe Group brands. Specialized Communications & Experiential Solutions segment provides public relations and other specialized communications services, live events, sports and entertainment marketing, and strategic consulting under IPG DXTRA Health, The Weber Shandwick Collective, Golin, Jack Morton, Momentum, and Octagon brand names. The company was formerly known as McCann-Erickson Incorporated and changed its name to The Interpublic Group of Companies, Inc. in January 1961. The Interpublic Group of Companies, Inc. was founded in 1902 and is headquartered in New York, New York.",
         "fullTimeEmployees":57400,
         "companyOfficers":[
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":1.02989,
         "shortRatio":3.71,
         "shortPercentOfFloat":0.052699998,
+        "impliedSharesOutstanding":378724992,
         "bookValue":10.411,
         "priceToBook":3.178369,
         "lastFiscalYearEnd":1703980800,
@@ -180,6 +185,10 @@
         "lastSplitDate":932083200,
         "enterpriseToRevenue":1.36,
         "enterpriseToEbitda":8.496,
+        "52WeekChange":-0.06337422,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.33,
+        "lastDividendDate":1709164800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"IPG",
@@ -190,6 +199,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"48ce3d69-a598-3851-9c67-25caa4693bb1",
+        "messageBoardId":"finmb_108616",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":33.09,
         "targetHighPrice":40.0,
@@ -220,4 +230,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":12.8316
     }
-]
+

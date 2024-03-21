@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"888 Brannan Street",
         "city":"San Francisco",
@@ -222,4 +222,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":10.0675
     }
-]
+

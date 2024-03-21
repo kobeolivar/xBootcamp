@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"17800 North 85th Street",
         "city":"Scottsdale",
@@ -8,7 +8,11 @@
         "phone":"480 991 0797",
         "website":"https:\/\/www.axon.com",
         "industry":"Aerospace & Defense",
+        "industryKey":"aerospace-defense",
+        "industryDisp":"Aerospace & Defense",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Axon Enterprise, Inc. develops, manufactures, and sells conducted energy devices (CEDs) under the TASER brand in the United States and internationally. It operates through two segments, Software and Sensors, and TASER. The company also offers hardware and cloud-based software solutions that enable law enforcement to capture, securely store, manage, share, and analyze video and other digital evidence. Its products include axon officer safety plan; taser 10, taser7, taser X26P, taser X2, taser 7 CQ, and civilian series; cameras, such as axon body, axon flex, axon fleet, axon air, axon signal sidearm, axon signal vehicle, axon interview, and axon interview portable kit; software, including axon records, evidence, standards, commander, performance, auto-transcribe, justice, investigate, respond, and justice, my90, and redaction assistant; mobile applications, and training services, as well as hardware extended warranties; and Axon docks, cartridges, and batteries. The company sells its products through its direct sales, distribution partners, online store, and third-party resellers. Axon Enterprise, Inc. has a strategic partnership with Fusus, Inc. to expand bility to aggregate live video, data, and sensor feeds. It serves law enforcement, federal, correction, fire, EMS, campus, justice healthcare, retail, private security, and personal safety industries. The company was formerly known as TASER International, Inc. and changed its name to Axon Enterprise, Inc. in April 2017. Axon Enterprise, Inc. was incorporated in 1993 and is headquartered in Scottsdale, Arizona.",
         "fullTimeEmployees":3330,
         "companyOfficers":[
@@ -154,6 +158,7 @@
         "heldPercentInstitutions":0.80544,
         "shortRatio":3.59,
         "shortPercentOfFloat":0.0294,
+        "impliedSharesOutstanding":75302800,
         "bookValue":21.408,
         "priceToBook":14.76504,
         "lastFiscalYearEnd":1703980800,
@@ -164,8 +169,12 @@
         "trailingEps":2.33,
         "forwardEps":5.7,
         "pegRatio":4.03,
+        "lastSplitFactor":"2:1",
+        "lastSplitDate":1101772800,
         "enterpriseToRevenue":14.754,
         "enterpriseToEbitda":121.575,
+        "52WeekChange":0.45688856,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"AXON",
@@ -176,6 +185,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"08d31f08-2f48-3479-94f0-b0bf4b823c26",
+        "messageBoardId":"finmb_885779",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":316.09,
         "targetHighPrice":339.0,
@@ -206,4 +216,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

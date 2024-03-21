@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3 Overlook Point",
         "city":"Lincolnshire",
@@ -8,7 +8,11 @@
         "phone":"847 634 6700",
         "website":"https:\/\/www.zebra.com",
         "industry":"Communication Equipment",
+        "industryKey":"communication-equipment",
+        "industryDisp":"Communication Equipment",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Zebra Technologies Corporation, together with its subsidiaries, provides enterprise asset intelligence solutions in the automatic identification and data capture solutions industry worldwide. It operates in two segments, Asset Intelligence & Tracking, and Enterprise Visibility & Mobility. The company designs, manufactures, and sells printers that produce labels, wristbands, tickets, receipts, and plastic cards; dye-sublimination thermal card printers that produce images, which are used for personal identification, access control, and financial transactions; radio frequency identification device (RFID) printers that encode data into passive RFID transponders; accessories and options for printers, including carrying cases, vehicle mounts, and battery chargers; stock and customized thermal labels, receipts, ribbons, plastic cards, and RFID tags for printers; and temperature-monitoring labels primarily used in vaccine distribution. It also provides various maintenance, technical support, repair, and managed and professional services; fixed readers, RFID enabled mobile computers, and RFID sleds; tags, sensors, exciters, middleware software, and application software; and physical inventory management solutions, and rugged and enterprise-grade mobile computing products and accessories, as well as real-time location systems and services. In addition, the company offers barcode scanners and imagers, RFID readers, industrial machine vision cameras, and fixed industrial scanners; workforce management, workflow execution and task management, and prescriptive analytics, as well as communications and collaboration solutions; and cloud-based software subscriptions, retail, and robotics automation solutions. The company serves retail and e-commerce, manufacturing, transportation and logistics, healthcare, public sector, and other industries through direct sales force, and network of channel partners. The company was founded in 1969 and is headquartered in Lincolnshire, Illinois.",
         "fullTimeEmployees":9750,
         "companyOfficers":[
@@ -162,6 +166,7 @@
         "heldPercentInstitutions":0.94733,
         "shortRatio":2.81,
         "shortPercentOfFloat":0.0278,
+        "impliedSharesOutstanding":51381400,
         "bookValue":59.09,
         "priceToBook":4.9933996,
         "lastFiscalYearEnd":1703980800,
@@ -176,6 +181,8 @@
         "lastSplitDate":1093478400,
         "enterpriseToRevenue":3.699,
         "enterpriseToEbitda":22.282,
+        "52WeekChange":-0.010181844,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"ZBRA",
@@ -186,6 +193,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"53165cfc-fc73-3828-9c77-43899ee16f76",
+        "messageBoardId":"finmb_393488",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":295.06,
         "targetHighPrice":340.0,
@@ -216,4 +224,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.8805
     }
-]
+

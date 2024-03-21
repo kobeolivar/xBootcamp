@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"2500 Lake Cook Road",
         "city":"Riverwoods",
@@ -86,7 +86,7 @@
         "averageVolume":2485753,
         "averageVolume10days":1593550,
         "averageDailyVolume10Day":1593550,
-        "bid":125.27,
+        "bid":125.3,
         "ask":127.62,
         "bidSize":1400,
         "askSize":800,
@@ -166,4 +166,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.0793
     }
-]
+

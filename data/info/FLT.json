@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3280 Peachtree Road",
         "address2":"Suite 2400",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"770 449 0479",
         "website":"https:\/\/www.fleetcor.com",
-        "industry":"Software—Infrastructure",
+        "industry":"Software - Infrastructure",
+        "industryKey":"software-infrastructure",
+        "industryDisp":"Software - Infrastructure",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"FLEETCOR Technologies, Inc. operates as a payments company that helps businesses and consumers manage vehicle-related expenses, lodging expenses, and corporate payments in the United States, Brazil, the United Kingdom, and internationally. It operates through Vehicle Payments, Corporate Payments, Lodging Payments, and Other segments. The company offers vehicle payment solutions, which include fuel, tolls, parking, fleet maintenance, and long-haul transportation services; as well as prepaid food and transportation vouchers and cards. It also provides corporate payment solutions consisting of accounts payable automation; virtual cards, cross-border solutions; and purchasing and travel and entertainment card products, as well as lodging payments solutions for employees who travel overnight for work purposes; traveling crews and stranded passengers from airlines and cruise lines; and insurance policyholders displaced from their homes due to damage or catastrophe. In addition, the company offers gifts and payroll cards. It serves business, merchant, consumer, and payment network customers. FLEETCOR Technologies, Inc. was founded in 1986 and is headquartered in Atlanta, Georgia.",
         "fullTimeEmployees":10500,
         "companyOfficers":[
@@ -164,6 +168,7 @@
         "heldPercentInstitutions":0.94774,
         "shortRatio":2.21,
         "shortPercentOfFloat":0.0183,
+        "impliedSharesOutstanding":71853600,
         "bookValue":45.769,
         "priceToBook":6.681378,
         "lastFiscalYearEnd":1703980800,
@@ -176,6 +181,8 @@
         "pegRatio":1.15,
         "enterpriseToRevenue":7.314,
         "enterpriseToEbitda":13.787,
+        "52WeekChange":0.53308976,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"FLT",
@@ -186,6 +193,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"1cc288bb-3360-3602-913d-8ffe37a874f9",
+        "messageBoardId":"finmb_28756",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":305.8,
         "targetHighPrice":343.0,
@@ -216,4 +224,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

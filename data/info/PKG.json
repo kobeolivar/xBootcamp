@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1 North Field Court",
         "city":"Lake Forest",
@@ -9,7 +9,11 @@
         "fax":"847 482 4545",
         "website":"https:\/\/www.packagingcorp.com",
         "industry":"Packaging & Containers",
+        "industryKey":"packaging-containers",
+        "industryDisp":"Packaging & Containers",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Packaging Corporation of America manufactures and sells containerboard and corrugated packaging products in the United States. The company operates through three segments: Packaging, Paper, and Corporate and Other. The Packaging segment offers various containerboard and corrugated packaging products, such as conventional shipping containers used to protect and transport manufactured goods; multi-color boxes and displays that help to merchandise the packaged product in retail locations; and honeycomb protective packaging products, as well as packaging for meat, fresh fruit and vegetables, processed food, beverages, and other industrial and consumer products. This segment sells its corrugated products through a direct sales and marketing organization, independent brokers, and distribution partners. The Paper segment manufactures and sells commodity and specialty papers, as well as communication papers, including cut-size office papers, and printing and converting papers. This segment sells white papers through its sales and marketing organization. The Corporate and Other segment includes corporate support staff services and related assets and liabilities; and transportation assets, such as rail cars and trucks for transportation. Packaging Corporation of America was founded in 1867 and is headquartered in Lake Forest, Illinois.",
         "fullTimeEmployees":14900,
         "companyOfficers":[
@@ -174,6 +178,7 @@
         "heldPercentInstitutions":0.92191005,
         "shortRatio":2.49,
         "shortPercentOfFloat":0.0235,
+        "impliedSharesOutstanding":89624096,
         "bookValue":44.937,
         "priceToBook":4.117097,
         "lastFiscalYearEnd":1703980800,
@@ -186,6 +191,10 @@
         "pegRatio":-1.44,
         "enterpriseToRevenue":2.361,
         "enterpriseToEbitda":11.347,
+        "52WeekChange":0.40540123,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.25,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"PKG",
@@ -196,6 +205,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"ff339d2d-42e7-33ae-bf90-e7b697e98cb8",
+        "messageBoardId":"finmb_98885",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":185.01,
         "targetHighPrice":202.0,
@@ -226,4 +236,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":4.0815
     }
-]
+

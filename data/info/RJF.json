@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"880 Carillon Parkway",
         "city":"Saint Petersburg",
@@ -8,7 +8,11 @@
         "phone":"727 567 1000",
         "website":"https:\/\/www.raymondjames.com",
         "industry":"Capital Markets",
+        "industryKey":"capital-markets",
+        "industryDisp":"Capital Markets",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Raymond James Financial, Inc., a diversified financial services company, provides private client group, capital markets, asset management, banking, and other services to individuals, corporations, and municipalities in the United States, Canada, and Europe. The Private Client Group segment offers investment services, portfolio management services, insurance and annuity products, and mutual funds; support to third-party product partners, including sales and marketing support, as well as distribution and accounting, and administrative services; margin loans; securities borrowing and lending services; diversification strategies and alternative investment products; and custodial, trade execution, research, and other support and services. The Capital Markets segment provides investment banking services, such as equity and debt underwriting, and merger and acquisition advisory services; and fixed income and equity brokerage services. This segment also offers institutional sales, securities trading, equity research, and the syndication and management of investments in low-income housing funds and funds of a similar nature. The Asset Management segment provides asset management, portfolio management, and related administrative services to retail and institutional clients; and administrative support services, such as record-keeping. The Bank segment offers various types of loans, including securities-based, commercial and industrial, commercial real estate and construction, real estate investment trust, residential mortgage, and tax-exempt loans; insured deposit accounts; retail and corporate deposit; and liquidity management products and services. The Other segment is involved in the private equity investments comprising invests in third-party funds. Raymond James Financial, Inc. was founded in 1962 and is headquartered in Saint Petersburg, Florida.",
         "fullTimeEmployees":18000,
         "companyOfficers":[
@@ -113,6 +117,7 @@
         "heldPercentInstitutions":0.75555,
         "shortRatio":3.95,
         "shortPercentOfFloat":0.024300002,
+        "impliedSharesOutstanding":209028000,
         "bookValue":51.331,
         "priceToBook":2.4566052,
         "lastFiscalYearEnd":1696032000,
@@ -126,6 +131,10 @@
         "lastSplitFactor":"3:2",
         "lastSplitDate":1632268800,
         "enterpriseToRevenue":1.239,
+        "52WeekChange":0.34377396,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.45,
+        "lastDividendDate":1703808000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"RJF",
@@ -136,6 +145,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"9960edcc-461e-33e0-b2f4-d1fb2f7be964",
+        "messageBoardId":"finmb_22623",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":126.1,
         "targetHighPrice":135.0,
@@ -163,4 +173,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.3582
     }
-]
+

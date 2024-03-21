@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1901 Chouteau Avenue",
         "city":"Saint Louis",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"314 621 3222",
         "website":"https:\/\/www.amereninvestors.com",
-        "industry":"Utilities—Regulated Electric",
+        "industry":"Utilities - Regulated Electric",
+        "industryKey":"utilities-regulated-electric",
+        "industryDisp":"Utilities - Regulated Electric",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"Ameren Corporation, together with its subsidiaries, operates as a public utility holding company in the United States. The company operates through four segments: Ameren Missouri, Ameren Illinois Electric Distribution, Ameren Illinois Natural Gas, and Ameren Transmission. It engages in the rate-regulated electric generation, transmission, and distribution activities; and rate-regulated natural gas distribution business. In addition, the company generates electricity through coal, nuclear, and natural gas, as well as renewable sources, such as hydroelectric, wind, methane gas, and solar. It serves residential, commercial, and industrial customers. The company was founded in 1881 and is headquartered in Saint Louis, Missouri.",
         "fullTimeEmployees":9372,
         "companyOfficers":[
@@ -141,13 +145,13 @@
         "beta":0.443,
         "trailingPE":16.392694,
         "forwardPE":14.623219,
-        "volume":1357703,
-        "regularMarketVolume":1357703,
+        "volume":1401440,
+        "regularMarketVolume":1401440,
         "averageVolume":1907341,
         "averageVolume10days":1681130,
         "averageDailyVolume10Day":1681130,
         "bid":70.43,
-        "ask":73.33,
+        "ask":73.38,
         "bidSize":800,
         "askSize":900,
         "marketCap":19119550464,
@@ -172,6 +176,7 @@
         "heldPercentInstitutions":0.79982,
         "shortRatio":2.21,
         "shortPercentOfFloat":0.0197,
+        "impliedSharesOutstanding":266288992,
         "bookValue":42.617,
         "priceToBook":1.6847737,
         "lastFiscalYearEnd":1703980800,
@@ -184,6 +189,10 @@
         "pegRatio":3.24,
         "enterpriseToRevenue":4.927,
         "enterpriseToEbitda":11.396,
+        "52WeekChange":-0.106190324,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.67,
+        "lastDividendDate":1710201600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"AEE",
@@ -194,6 +203,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"cddf641c-bbf4-38c5-85fd-deeb9482fea8",
+        "messageBoardId":"finmb_373264",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":71.8,
         "targetHighPrice":82.0,
@@ -224,4 +234,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.754
     }
-]
+

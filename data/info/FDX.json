@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"942 South Shady Grove Road",
         "city":"Memphis",
@@ -147,7 +147,7 @@
         "averageVolume":2052610,
         "averageVolume10days":1705350,
         "averageDailyVolume10Day":1705350,
-        "bid":264.76,
+        "bid":298.65,
         "ask":264.27,
         "bidSize":800,
         "askSize":1000,
@@ -226,4 +226,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.9049
     }
-]
+

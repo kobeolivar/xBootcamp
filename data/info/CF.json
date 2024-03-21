@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"2375 Waterview Drive",
         "city":"Northbrook",
@@ -8,7 +8,11 @@
         "phone":"847 405 2400",
         "website":"https:\/\/www.cfindustries.com",
         "industry":"Agricultural Inputs",
+        "industryKey":"agricultural-inputs",
+        "industryDisp":"Agricultural Inputs",
         "sector":"Basic Materials",
+        "sectorKey":"basic-materials",
+        "sectorDisp":"Basic Materials",
         "longBusinessSummary":"CF Industries Holdings, Inc., together with its subsidiaries, engages in the manufacture and sale of hydrogen and nitrogen products for energy, fertilizer, emissions abatement, and other industrial activities in North America, Europe, and internationally. It operates through Ammonia, Granular Urea, UAN, AN, and Other segments. The company's principal products include anhydrous ammonia, granular urea, urea ammonium nitrate, and ammonium nitrate products. It also offers diesel exhaust fluid, urea liquor, nitric acid, and aqua ammonia products. The company primarily serves cooperatives, independent fertilizer distributors, traders, wholesalers, and industrial users. CF Industries Holdings, Inc. was founded in 1946 and is headquartered in Northbrook, Illinois.",
         "fullTimeEmployees":2700,
         "companyOfficers":[
@@ -172,6 +176,7 @@
         "heldPercentInstitutions":0.95967,
         "shortRatio":2.05,
         "shortPercentOfFloat":0.031400003,
+        "impliedSharesOutstanding":188739008,
         "bookValue":30.379,
         "priceToBook":2.819382,
         "lastFiscalYearEnd":1703980800,
@@ -186,6 +191,10 @@
         "lastSplitDate":1434585600,
         "enterpriseToRevenue":3.028,
         "enterpriseToEbitda":6.411,
+        "52WeekChange":0.23057139,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.5,
+        "lastDividendDate":1707868800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"CF",
@@ -196,6 +205,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"758951ca-c5e6-3129-a654-698c8ca0333b",
+        "messageBoardId":"finmb_22357184",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":85.65,
         "targetHighPrice":100.0,
@@ -226,4 +236,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

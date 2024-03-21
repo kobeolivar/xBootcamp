@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"127 Public Square",
         "city":"Cleveland",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"216 689 3000",
         "website":"https:\/\/www.key.com",
-        "industry":"Banks—Regional",
+        "industry":"Banks - Regional",
+        "industryKey":"banks-regional",
+        "industryDisp":"Banks - Regional",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"KeyCorp operates as the holding company for KeyBank National Association that provides various retail and commercial banking products and services in the United States. It operates in two segments, Consumer Bank and Commercial Bank. The company offers various deposits, investment products and services; commercial leasing, investment management, consumer finance; and personal finance and financial wellness, student loan refinancing, mortgage and home equity, lending, credit card, treasury, business advisory, wealth management, asset management, cash management, portfolio management, and trust and related services to individuals and small and medium-sized businesses. It also provides a suite of banking and capital market products, such as syndicated finance, debt and equity capital market products, commercial payments, equipment finance, commercial mortgage banking, derivatives, foreign exchange, financial advisory, and public finance, as well as commercial mortgage loans to consumer, energy, healthcare, industrial, public sector, real estate, and technology sectors for middle market clients. In addition, the company offers community development financing, securities underwriting, brokerage, and investment banking services. The company was founded in 1849 and is headquartered in Cleveland, Ohio.",
         "fullTimeEmployees":17333,
         "companyOfficers":[
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":0.81641996,
         "shortRatio":1.31,
         "shortPercentOfFloat":0.028900001,
+        "impliedSharesOutstanding":933841984,
         "bookValue":12.959,
         "priceToBook":1.1852766,
         "lastFiscalYearEnd":1703980800,
@@ -180,6 +185,10 @@
         "lastSplitFactor":"2:1",
         "lastSplitDate":889401600,
         "enterpriseToRevenue":6.578,
+        "52WeekChange":0.3345164,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.205,
+        "lastDividendDate":1708905600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"KEY",
@@ -190,6 +199,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"3b5949e0-c26b-3776-ba47-52a276de9570",
+        "messageBoardId":"finmb_329376",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":15.36,
         "targetHighPrice":18.0,
@@ -213,4 +223,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":9.7631
     }
-]
+

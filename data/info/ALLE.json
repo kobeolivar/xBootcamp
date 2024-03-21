@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Iveagh Court",
         "address2":"Block D Harcourt Road",
@@ -8,7 +8,11 @@
         "phone":"353 1 254 6200",
         "website":"https:\/\/www.allegion.com",
         "industry":"Security & Protection Services",
+        "industryKey":"security-protection-services",
+        "industryDisp":"Security & Protection Services",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Allegion plc manufactures and sells mechanical and electronic security products and solutions worldwide. The company offers door controls and systems and exit devices; locks, locksets, portable locks, and key systems and services; electronic security products and access control systems; time, attendance, and workforce productivity systems; doors, accessories, and other. It also provides services and software, which includes inspection, maintenance, and repair services for its automatic entrance solutions; and software as a service, including access control, IoT integration, and workforce management solutions, as well as aftermarket services, design and installation offerings, and locksmith services. The company sells its products and solutions to end-users in commercial, institutional, and residential facilities, including education, healthcare, government, hospitality, retail, commercial office, and single and multi-family residential markets under the CISA, Interflex, LCN, Schlage, SimonsVoss, and Von Duprin brands. It sells its products and solutions through distribution and retail channels, such as specialty distribution, e-commerce, and wholesalers, as well as through various retail channels comprising do-it-yourself home improvement centers, online and e-commerce platforms, and small specialty showroom outlets. Allegion plc was incorporated in 2013 and is headquartered in Dublin, Ireland.",
         "fullTimeEmployees":12200,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":1.00807,
         "shortRatio":2.33,
         "shortPercentOfFloat":0.0255,
+        "impliedSharesOutstanding":87554400,
         "bookValue":15.065,
         "priceToBook":8.980418,
         "lastFiscalYearEnd":1703980800,
@@ -182,6 +187,10 @@
         "pegRatio":2.93,
         "enterpriseToRevenue":3.709,
         "enterpriseToEbitda":16.226,
+        "52WeekChange":0.3227731,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.48,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"ALLE",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"651202e1-5361-33dd-843b-6f94718a33c3",
+        "messageBoardId":"finmb_241782379",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":135.29,
         "targetHighPrice":152.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.3302
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"341 George Street",
         "address2":"Level 6",
@@ -8,8 +8,12 @@
         "country":"Australia",
         "phone":"61 2 9262 1443",
         "website":"https:\/\/www.atlassian.com",
-        "industry":"Software—Application",
+        "industry":"Software - Application",
+        "industryKey":"software-application",
+        "industryDisp":"Software - Application",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Atlassian Corporation, through its subsidiaries, designs, develops, licenses, and maintains various software products worldwide. Its product portfolio includes Jira Software and Jira Work Management, a project management system that connects technical and business teams so they can better plan, organize, track and manage their work and projects; Confluence, a connected workspace that organizes knowledge across all teams to move work forward; and Trello, a collaboration and organization product that captures and adds structure to fluid and fast-forming work for teams. The company also offers Jira Service Management, an intuitive and flexible service desk product for creating and managing service experiences for various service team providers, such as IT, legal, and HR teams; and Jira Align, an Atlassian's enterprise agility solution designed to help businesses to adapt and respond dynamic business conditions with a focus on value-creation. In addition, it provides Bitbucket, an enterprise-ready Git solution that enables professional dev teams to manage, collaborate, and deploy quality code; Atlassian Access, an enterprise-wide product for enhanced security and centralized administration that works across every Atlassian cloud product; and Jira Product, a prioritization and road mapping tool. Further, the company's portfolio includes Atlas, a teamwork directory; Bamboo, a continuous delivery pipeline; Crowd, a single sign-on; Crucible, a collaborative code review; Fisheye, a search, track, and visualize code change software; and Compass, a developer experience platform. Additionally, it offers Opsgenie, an on-call and alert management software; Sourcetree, a free git client for windows and mac; Statuspage that communicates real-time status to users; Beacon, an intelligent threat detection software; and Atlassian Access that enhance data security and governance for Atlassian Cloud products. The company was founded in 2002 and is headquartered in Sydney, Australia.",
         "fullTimeEmployees":10726,
         "companyOfficers":[
@@ -153,6 +157,7 @@
         "heldPercentInstitutions":0.9188,
         "shortRatio":1.84,
         "shortPercentOfFloat":0.0234,
+        "impliedSharesOutstanding":270440992,
         "bookValue":3.488,
         "priceToBook":56.553898,
         "lastFiscalYearEnd":1688083200,
@@ -164,6 +169,8 @@
         "pegRatio":3.22,
         "enterpriseToRevenue":12.983,
         "enterpriseToEbitda":-420.873,
+        "52WeekChange":0.28005743,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"TEAM",
@@ -174,6 +181,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"732798a2-92cc-3223-94a1-3db3a2ab3480",
+        "messageBoardId":"finmb_253891410",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":197.26,
         "targetHighPrice":420.0,
@@ -203,4 +211,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.5402
     }
-]
+

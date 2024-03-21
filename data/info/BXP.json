@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Prudential Center, 800 Boylston Street",
         "address2":"Suite 1900",
@@ -9,8 +9,12 @@
         "phone":"617 236 3300",
         "fax":"617 236 3311",
         "website":"https:\/\/www.bxp.com",
-        "industry":"REIT—Office",
+        "industry":"REIT - Office",
+        "industryKey":"reit-office",
+        "industryDisp":"REIT - Office",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"Boston Properties, Inc. (NYSE: BXP) (BXP or the Company) is the largest publicly traded developer, owner, and manager of premier workplaces in the United States, concentrated in six dynamic gateway markets - Boston, Los Angeles, New York, San Francisco, Seattle, and Washington, DC. BXP has delivered places that power progress for our clients and communities for more than 50 years. BXP is a fully integrated real estate company, organized as a real estate investment trust (REIT). Including properties owned by joint ventures, BXP's portfolio totals 53.3 million square feet and 188 properties, including 10 properties under construction\/redevelopment. BXP's properties include 167 office properties, 14 retail properties (including two retail properties under construction\/redevelopment), six residential properties (including one residential property under construction) and one hotel. BXP is well-known for its inhouse building management expertise and responsiveness to clients' needs. BXP holds a superior track record of developing premium Central Business District (CBD) office buildings, successful mixed-use complexes, suburban office centers and build-to-suit projects for a diverse array of creditworthy clients. BXP actively works to promote its growth and operations in a sustainable and responsible manner. BXP has earned a twelfth consecutive GRESB Green Star recognition and the highest GRESB 5-star Rating. BXP, an S&P 500 company, was founded in 1970 by Mortimer B. Zuckerman and Edward H. Linde and became a public company in 1997.",
         "fullTimeEmployees":836,
         "companyOfficers":[
@@ -173,6 +177,7 @@
         "heldPercentInstitutions":1.01561,
         "shortRatio":4.64,
         "shortPercentOfFloat":0.0661,
+        "impliedSharesOutstanding":157011008,
         "bookValue":37.445,
         "priceToBook":1.7655228,
         "lastFiscalYearEnd":1703980800,
@@ -185,6 +190,10 @@
         "pegRatio":-0.56,
         "enterpriseToRevenue":8.504,
         "enterpriseToEbitda":14.911,
+        "52WeekChange":0.36056578,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.98,
+        "lastDividendDate":1703721600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BXP",
@@ -195,6 +204,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"1b3dbbdc-aa87-3969-b6e5-577f90d54a15",
+        "messageBoardId":"finmb_368278",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":66.11,
         "targetHighPrice":83.0,
@@ -225,4 +235,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.2381
     }
-]
+

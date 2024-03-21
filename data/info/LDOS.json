@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1750 Presidents Street",
         "city":"Reston",
@@ -8,7 +8,11 @@
         "phone":"571 526 6000",
         "website":"https:\/\/www.leidos.com",
         "industry":"Information Technology Services",
+        "industryKey":"information-technology-services",
+        "industryDisp":"Information Technology Services",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Leidos Holdings, Inc., together with its subsidiaries, provides services and solutions in the defense, intelligence, civil, and health markets in the United States and internationally. The company operates through Defense Solutions, Civil, and Health segments. The Defense Solutions segment offers national security solutions and systems for air, land, sea, space, and cyberspace for the U.S. Intelligence Community, the Department of Defense, the space development agency, the National Aeronautics and Space Administration, defense information systems agency, military services, and government agencies of U.S. allies abroad, as well as other federal and commercial customers in the national security industry. The solutions include technology, large-scale systems, command and control platforms, data analytics, logistics, and cybersecurity solutions, as well as intelligence analysis and operations support services to critical missions. The Civil segment provides systems integration services to air navigation service providers, including the federal aviation administration, the En route automation modernization, advanced technology oceanic procedure, time based flow management, terminal flight data management, geo-7, and future flight services, as well as enterprise-information display systems; and security detection services. It also offers information technology (IT) solutions in cloud computing, mobility, application modernization, DevOps, data center, network modernization, asset management, help desk operations, and digital workplace enablement; and environment, energy, and infrastructure services. The Health segment offers solutions to federal and commercial customers responsible for health and well-being of people, include health information management, managed health, digital modernization, and life sciences research and development services. Leidos Holdings, Inc. was founded in 1969 and is headquartered in Reston, Virginia.",
         "fullTimeEmployees":47000,
         "companyOfficers":[
@@ -147,8 +151,8 @@
         "averageVolume":825095,
         "averageVolume10days":933770,
         "averageDailyVolume10Day":933770,
-        "bid":129.21,
-        "ask":131.34,
+        "bid":128.69,
+        "ask":129.73,
         "bidSize":900,
         "askSize":800,
         "marketCap":17438607360,
@@ -173,6 +177,7 @@
         "heldPercentInstitutions":0.78097,
         "shortRatio":1.03,
         "shortPercentOfFloat":0.01,
+        "impliedSharesOutstanding":135790000,
         "bookValue":30.943,
         "priceToBook":4.1738033,
         "lastFiscalYearEnd":1703808000,
@@ -187,6 +192,10 @@
         "lastSplitDate":1380499200,
         "enterpriseToRevenue":1.424,
         "enterpriseToEbitda":13.458,
+        "52WeekChange":0.4164821,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.38,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"LDOS",
@@ -197,6 +206,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"e000b702-39a9-371a-ad83-aefdc778f735",
+        "messageBoardId":"finmb_110741",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":129.15,
         "targetHighPrice":148.0,
@@ -227,4 +237,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

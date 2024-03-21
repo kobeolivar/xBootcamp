@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"250 Coromar Drive",
         "city":"Goleta",
@@ -8,7 +8,11 @@
         "phone":"805 967 7611",
         "website":"https:\/\/www.deckers.com",
         "industry":"Footwear & Accessories",
+        "industryKey":"footwear-accessories",
+        "industryDisp":"Footwear & Accessories",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Deckers Outdoor Corporation, together with its subsidiaries, designs, markets, and distributes footwear, apparel, and accessories for casual lifestyle use and high-performance activities in the United States and internationally. The company offers premium footwear, apparel, and accessories under the UGG brand name; footwear and apparel for ultra-runners and athletes under the Hoka brand; and sandals, shoes, and boots under the Teva brand name. It also provides relaxed casual shoes and sandals under the Sanuk brand name; and casual footwear fashion line under the Koolaburra brand. The company sells its products through domestic and international retailers; international distributors; and directly to its consumers through its direct-to-consumer business, which includes e-commerce websites and retail stores. Deckers Outdoor Corporation was founded in 1973 and is headquartered in Goleta, California.",
         "fullTimeEmployees":4200,
         "companyOfficers":[
@@ -137,7 +141,7 @@
         "averageVolume":435690,
         "averageVolume10days":924640,
         "averageDailyVolume10Day":924640,
-        "bid":953.0,
+        "bid":913.37,
         "ask":993.12,
         "bidSize":1000,
         "askSize":1100,
@@ -161,6 +165,7 @@
         "heldPercentInstitutions":1.00156,
         "shortRatio":2.73,
         "shortPercentOfFloat":0.0547,
+        "impliedSharesOutstanding":25668200,
         "bookValue":82.035,
         "priceToBook":11.616261,
         "lastFiscalYearEnd":1680220800,
@@ -171,10 +176,12 @@
         "trailingEps":27.64,
         "forwardEps":30.24,
         "pegRatio":1.78,
-        "lastSplitFactor":"1:1",
-        "lastSplitDate":1280793600,
+        "lastSplitFactor":"3:1",
+        "lastSplitDate":1278374400,
         "enterpriseToRevenue":5.368,
         "enterpriseToEbitda":23.423,
+        "52WeekChange":1.0694194,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"DECK",
@@ -185,6 +192,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"2c365afe-8616-3a0a-bf61-a0d7f1b92796",
+        "messageBoardId":"finmb_327333",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":952.94,
         "targetHighPrice":1150.0,
@@ -215,4 +223,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

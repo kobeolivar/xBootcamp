@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1 Campbell Place",
         "city":"Camden",
@@ -8,7 +8,11 @@
         "phone":"856 342 4800",
         "website":"https:\/\/www.campbellsoupcompany.com",
         "industry":"Packaged Foods",
+        "industryKey":"packaged-foods",
+        "industryDisp":"Packaged Foods",
         "sector":"Consumer Defensive",
+        "sectorKey":"consumer-defensive",
+        "sectorDisp":"Consumer Defensive",
         "longBusinessSummary":"Campbell Soup Company, together with its subsidiaries, manufactures and markets food and beverage products in the United States and internationally. The company operates through Meals & Beverages and Snacks segments. The Meals & Beverages segment engages in the retail and foodservice businesses in the United States and Canada. This segment provides Campbell's condensed and ready-to-serve soups; Swanson broth and stocks; Pacific Foods broth, soups, and non-dairy beverages; Prego pasta sauces; Pace Mexican sauces; Campbell's gravies, pasta, beans, and dinner sauces; Swanson canned poultry; V8 juices and beverages; Campbell's tomato juice; and snacking products in foodservice in Canada. The Snacks segment retails Pepperidge Farm cookies, crackers, fresh bakery, and frozen products, that includes Goldfish crackers, Snyder's of Hanover pretzels, Lance sandwich crackers, Cape Cod and Kettle Brand potato chips, Late July snacks, Snack Factory pretzel crisps, Pop Secret popcorn, and other snacking products. This segment is also involved in the retail business in Latin America. It sells its products through retail food chains, mass discounters and merchandisers, club stores, convenience stores, drug stores, and dollar stores, as well as e-commerce and other retail, commercial, and non-commercial establishments, and independent contractor distributors. The company was founded in 1869 and is headquartered in Camden, New Jersey.",
         "fullTimeEmployees":14500,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":0.54793,
         "shortRatio":4.95,
         "shortPercentOfFloat":0.0725,
+        "impliedSharesOutstanding":298103008,
         "bookValue":12.916,
         "priceToBook":3.3485599,
         "lastFiscalYearEnd":1690675200,
@@ -182,6 +187,10 @@
         "lastSplitDate":858643200,
         "enterpriseToRevenue":1.896,
         "enterpriseToEbitda":10.088,
+        "52WeekChange":-0.18971962,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.37,
+        "lastDividendDate":1704240000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"CPB",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"dde97851-ef7f-3fd5-a96b-3d764eb7b5f2",
+        "messageBoardId":"finmb_258458",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":43.25,
         "targetHighPrice":50.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.6102
     }
-]
+

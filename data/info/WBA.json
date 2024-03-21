@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"108 Wilmot Road",
         "city":"Deerfield",
@@ -8,7 +8,11 @@
         "phone":"847 315 3700",
         "website":"https:\/\/www.walgreensbootsalliance.com",
         "industry":"Pharmaceutical Retailers",
+        "industryKey":"pharmaceutical-retailers",
+        "industryDisp":"Pharmaceutical Retailers",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Walgreens Boots Alliance, Inc. operates as a healthcare, pharmacy, and retail company in the United States, the United Kingdom, Germany, and internationally. It operates through three segments: U.S. Retail Pharmacy, International, and U.S. Healthcare. The U.S. Retail Pharmacy segment engages in operation of the retail drugstores, health and wellness services, specialty, and home delivery pharmacy services, which offers health and wellness, beauty, personal care and consumables, and general merchandise. The International segment offers sale of prescription drugs and health and wellness, beauty, personal care, and other consumer products outside the United States; and operates pharmacy-led health and beauty retail businesses under the Boots brand stores in the United Kingdom, the Republic of Ireland, and Thailand, as well as the Benavides brand in Mexico and the Ahumada brand in Chile. The U.S. Healthcare segment provides VillageMD, a national provider of value-based care with primary, multi-specialty, and urgent care providers serving patients in traditional clinic settings, in patients' homes and online appointments; Shields, a specialty pharmacy integrator and accelerator for hospitals; and CareCentrix, a participant in the post-acute and home care management sectors. Walgreens Boots Alliance, Inc. was founded in 1909 and is headquartered in Deerfield, Illinois.",
         "fullTimeEmployees":330000,
         "companyOfficers":[
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":0.62114,
         "shortRatio":2.22,
         "shortPercentOfFloat":0.0496,
+        "impliedSharesOutstanding":862376000,
         "bookValue":22.595,
         "priceToBook":0.9205576,
         "lastFiscalYearEnd":1693440000,
@@ -179,6 +184,10 @@
         "lastSplitDate":919123200,
         "enterpriseToRevenue":0.424,
         "enterpriseToEbitda":15.033,
+        "52WeekChange":-0.3476647,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.25,
+        "lastDividendDate":1708041600,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"WBA",
@@ -189,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"888fa4a2-1f3d-3718-83dd-229207680ca9",
+        "messageBoardId":"finmb_93624",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":20.8,
         "targetHighPrice":41.42,
@@ -218,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.3397
     }
-]
+

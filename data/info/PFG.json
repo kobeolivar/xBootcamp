@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"711 High Street",
         "city":"Des Moines",
@@ -8,7 +8,11 @@
         "phone":"515 247 5111",
         "website":"https:\/\/www.principal.com",
         "industry":"Asset Management",
+        "industryKey":"asset-management",
+        "industryDisp":"Asset Management",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Principal Financial Group, Inc. provides retirement, asset management, and insurance products and services to businesses, individuals, and institutional clients worldwide. The company operates through Retirement and Income Solutions, Principal Asset Management, and Benefits and Protection segments. The Retirement and Income Solutions segment provides retirement, and related financial products and services. It offers products and services for defined contribution plans, including 401(k) and 403(b) plans, defined benefit plans, nonqualified executive benefit plans, employee stock ownership plans, equity compensation, and pension risk transfer services; individual retirement accounts; investment only products; and mutual funds, individual variable annuities, registered index-linked annuities, and bank products, as well as trust and custody services. The Principal Asset Management segment provides equity, fixed income, real estate, and other alternative investments, as well as asset allocation, stable value management, and other structured investment strategies. It also offers pension accumulation products and services, mutual funds, asset management, income annuities, and life insurance accumulation products, as well as voluntary savings plans in Brazil, Chile, Mexico, Asia, China, Hong Kong Special Administrative Region, and Southeast Asia. The Benefits and Protection segment provides specialty benefits, such as group dental and vision insurance, group life insurance, and group and individual disability insurance, as well as administers group dental, disability, and vision benefits; and individual life insurance products comprising universal, variable universal, indexed universal, and term life insurance products. It also offers insurance solutions for small and medium-sized businesses and their owners, as well as employees. Principal Financial Group, Inc. was founded in 1879 and is based in Des Moines, Iowa.",
         "fullTimeEmployees":19800,
         "companyOfficers":[
@@ -174,6 +178,7 @@
         "heldPercentInstitutions":0.72476995,
         "shortRatio":2.72,
         "shortPercentOfFloat":0.0150999995,
+        "impliedSharesOutstanding":235868000,
         "bookValue":46.168,
         "priceToBook":1.8300555,
         "lastFiscalYearEnd":1703980800,
@@ -185,6 +190,10 @@
         "pegRatio":1.0,
         "enterpriseToRevenue":1.397,
         "enterpriseToEbitda":18.341,
+        "52WeekChange":0.1789223,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.69,
+        "lastDividendDate":1710115200,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"PFG",
@@ -195,6 +204,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"070c5788-dc34-3cbc-b653-cb6187401064",
+        "messageBoardId":"finmb_201105",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":84.49,
         "targetHighPrice":86.0,
@@ -224,4 +234,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

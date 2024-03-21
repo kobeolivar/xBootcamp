@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"11 Greenway Plaza",
         "address2":"Suite 2400",
@@ -9,8 +9,12 @@
         "phone":"713 354 2500",
         "fax":"713 354 2700",
         "website":"https:\/\/www.camdenliving.com",
-        "industry":"REIT—Residential",
+        "industry":"REIT - Residential",
+        "industryKey":"reit-residential",
+        "industryDisp":"REIT - Residential",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"Camden Property Trust, an S&P 500 Company, is a real estate company primarily engaged in the ownership, management, development, redevelopment, acquisition, and construction of multifamily apartment communities. Camden owns and operates 172 properties containing 58,634 apartment homes across the United States. Upon completion of 4 properties currently under development, the Company's portfolio will increase to 59,800 apartment homes in 176 properties. Camden has been recognized as one of the 100 Best Companies to Work For by FORTUNE magazine for 16 consecutive years, most recently ranking #33.",
         "fullTimeEmployees":1640,
         "companyOfficers":[
@@ -172,6 +176,7 @@
         "heldPercentInstitutions":0.98093003,
         "shortRatio":2.17,
         "shortPercentOfFloat":0.0363,
+        "impliedSharesOutstanding":106969000,
         "bookValue":45.746,
         "priceToBook":2.1794255,
         "lastFiscalYearEnd":1703980800,
@@ -184,6 +189,10 @@
         "pegRatio":-1.54,
         "enterpriseToRevenue":9.089,
         "enterpriseToEbitda":15.624,
+        "52WeekChange":-0.002939701,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.0,
+        "lastDividendDate":1702512000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"CPT",
@@ -194,6 +203,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"48663d48-af58-39b8-b3bd-ed8ca9b60200",
+        "messageBoardId":"finmb_329202",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":99.7,
         "targetHighPrice":141.0,
@@ -224,4 +234,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

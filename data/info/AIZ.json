@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"260 Interstate North Circle SE",
         "city":"Atlanta",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"770 763 1000",
         "website":"https:\/\/www.assurant.com",
-        "industry":"Insurance—Specialty",
+        "industry":"Insurance - Specialty",
+        "industryKey":"insurance-specialty",
+        "industryDisp":"Insurance - Specialty",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Assurant, Inc., together with its subsidiaries, provides business services that supports, protects, and connects consumer purchases in North America, Latin America, Europe, and the Asia Pacific. The company operates through two segments: Global Lifestyle and Global Housing. The Global Lifestyle segment offers mobile device solutions, and extended service contracts and related services for consumer electronics and appliances, and credit and other insurance products; and vehicle protection, commercial equipment, and other related services. The Global Housing segment provides lender-placed homeowners, manufactured housing, and flood insurance; renters insurance and related products; and voluntary manufactured housing, and condominium and homeowners insurance products. The company was formerly known as Fortis, Inc. and changed its name to Assurant, Inc. in February 2004. Assurant, Inc. was founded in 1892 and is headquartered in Atlanta, Georgia.",
         "fullTimeEmployees":13600,
         "companyOfficers":[
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.96055,
         "shortRatio":1.63,
         "shortPercentOfFloat":0.020599999,
+        "impliedSharesOutstanding":51977600,
         "bookValue":92.569,
         "priceToBook":1.9395261,
         "lastFiscalYearEnd":1703980800,
@@ -177,6 +182,10 @@
         "pegRatio":2.27,
         "enterpriseToRevenue":0.864,
         "enterpriseToEbitda":8.397,
+        "52WeekChange":0.6082814,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.72,
+        "lastDividendDate":1706832000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"AIZ",
@@ -187,6 +196,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"89b06828-ecb1-357b-8859-57b659e60b4b",
+        "messageBoardId":"finmb_4026111",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":179.54,
         "targetHighPrice":215.0,
@@ -217,4 +227,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"990 Town and Country Boulevard",
         "city":"Houston",
@@ -8,7 +8,11 @@
         "phone":"713 629 6600",
         "website":"https:\/\/www.marathonoil.com",
         "industry":"Oil & Gas E&P",
+        "industryKey":"oil-gas-e-p",
+        "industryDisp":"Oil & Gas E&P",
         "sector":"Energy",
+        "sectorKey":"energy",
+        "sectorDisp":"Energy",
         "longBusinessSummary":"Marathon Oil Corporation, an independent exploration and production company, engages in exploration, production, and marketing of crude oil and condensate, natural gas liquids, and natural gas in the United States and internationally. The company also produces and markets products manufactured from natural gas, such as liquefied natural gas and methanol. In addition, it owns and operates Sugarloaf gathering system, a natural gas pipeline. The company was formerly known as USX Corporation and changed its name to Marathon Oil Corporation in December 2001. Marathon Oil Corporation was founded in 1887 and is headquartered in Houston, Texas.",
         "fullTimeEmployees":1681,
         "companyOfficers":[
@@ -158,6 +162,7 @@
         "heldPercentInstitutions":0.79134005,
         "shortRatio":1.2,
         "shortPercentOfFloat":0.0249,
+        "impliedSharesOutstanding":585246976,
         "bookValue":19.425,
         "priceToBook":1.4002575,
         "lastFiscalYearEnd":1703980800,
@@ -172,6 +177,10 @@
         "lastSplitDate":1309478400,
         "enterpriseToRevenue":3.278,
         "enterpriseToEbitda":4.905,
+        "52WeekChange":0.2318182,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.11,
+        "lastDividendDate":1708387200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"MRO",
@@ -182,6 +191,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"ac586aa5-d45b-3ae8-9473-98f63ee14b4e",
+        "messageBoardId":"finmb_314842",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":27.2,
         "targetHighPrice":39.0,
@@ -212,4 +222,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.3067
     }
-]
+

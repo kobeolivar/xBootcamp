@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1701 East Mossy Oaks Road",
         "city":"Spring",
@@ -8,7 +8,11 @@
         "phone":"678 259 9860",
         "website":"https:\/\/www.hpe.com",
         "industry":"Communication Equipment",
+        "industryKey":"communication-equipment",
+        "industryDisp":"Communication Equipment",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Hewlett Packard Enterprise Company provides solutions that allow customers to capture, analyze, and act upon data seamlessly in the Americas, Europe, the Middle East, Africa, the Asia Pacific, and Japan. It operates in six segments: Compute, HPC & AI, Storage, Intelligent Edge, Financial Services, and Corporate Investments and Other. The company offers general purpose servers for multi-workload computing and workload-optimized servers; HPE ProLiant rack and tower servers; HPE Synergy; HPE Alletra, HPE GreenLake, Zerto, HPE InfoSight, and HPE CloudPhysics storage products; HPE Cray EX, HPE Cray XD, and converged edge systems; and HPE Superdome Flex, HPE Nonstop, and HPE Integrity products. It also provides HPE Aruba products that includes hardware products, such as Wi-Fi access points, switches, and gateways; HPE Aruba Networking software and services comprising cloud-based management, network management and access control, analytics and assurance, software-defined wide-area networking, network security, analytics and assurance, and location services software; and professional and support services, as well as as-a-service and consumption models. In addition, the company offers leasing, financing, IT consumption, and utility programs and asset management services for customers to facilitate technology deployment models and the acquisition of various IT solutions, including hardware, software, and services from Hewlett Packard Enterprise and others; consultative-led services; HPE Ezmeral Container Platform; HPE Ezmeral Software Container Platform and HPE Ezmeral Software Data Fabric; OpsRamp; and Hewlett Packard Labs. It serves commercial and large enterprise groups, such as business and public sector enterprises; and through various partners comprising resellers, distribution partners, original equipment manufacturers, independent software vendors, systems integrators, and advisory firms. The company was founded in 1939 and is headquartered in Spring, Texas.",
         "fullTimeEmployees":62000,
         "companyOfficers":[
@@ -171,6 +175,7 @@
         "heldPercentInstitutions":0.83509004,
         "shortRatio":3.27,
         "shortPercentOfFloat":0.028800001,
+        "impliedSharesOutstanding":1361980032,
         "bookValue":16.477,
         "priceToBook":1.0444863,
         "lastFiscalYearEnd":1698710400,
@@ -185,6 +190,10 @@
         "lastSplitDate":1504224000,
         "enterpriseToRevenue":1.139,
         "enterpriseToEbitda":6.398,
+        "52WeekChange":0.18640506,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.13,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"HPE",
@@ -195,6 +204,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"3cd9b23e-d311-30b2-abcb-cc8c9a1dc8c0",
+        "messageBoardId":"finmb_273983758",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":17.21,
         "targetHighPrice":21.0,
@@ -225,4 +235,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.0212
     }
-]
+

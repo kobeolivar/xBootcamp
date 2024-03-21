@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1 Grand Canal Square",
         "address2":"Grand Canal Harbour",
@@ -149,7 +149,7 @@
         "averageVolume10days":2152990,
         "averageDailyVolume10Day":2152990,
         "bid":345.5,
-        "ask":345.99,
+        "ask":347.0,
         "bidSize":1100,
         "askSize":1000,
         "marketCap":216331042816,
@@ -232,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.5668
     }
-]
+

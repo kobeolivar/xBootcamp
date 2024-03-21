@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1501 Page Mill Road",
         "city":"Palo Alto",
@@ -8,7 +8,11 @@
         "phone":"(650)-857-1501",
         "website":"https:\/\/www.hp.com",
         "industry":"Computer Hardware",
+        "industryKey":"computer-hardware",
+        "industryDisp":"Computer Hardware",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"HP Inc. provides personal computing and other digital access devices, imaging and printing products, and related technologies, solutions, and services worldwide. The company operates through three segments: Personal Systems, Printing, and Corporate Investments. The Personal Systems segment offers commercial and consumer desktops and notebooks, workstations, commercial mobility devices, thin clients, retail point-of-sale systems, displays, software, support, and services, as well as hybrid systems, such as video conferencing solutions, cameras, headsets, voice, and related software products. The Printing segment provides consumer and commercial printer hardware, supplies, solutions, and services, as well as focuses on graphics and 3D printing and personalization solutions in the commercial and industrial markets. The Corporate Investments segment is involved in the business incubation and investment projects. It serves individual consumers, small- and medium-sized businesses, and large enterprises, including customers in the government, health, and education sectors. The company was formerly known as Hewlett-Packard Company and changed its name to HP Inc. in October 2015. HP Inc. was founded in 1939 and is headquartered in Palo Alto, California.",
         "fullTimeEmployees":58000,
         "companyOfficers":[
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":0.77185994,
         "shortRatio":1.84,
         "shortPercentOfFloat":0.0173,
+        "impliedSharesOutstanding":984593024,
         "bookValue":-1.672,
         "lastFiscalYearEnd":1698710400,
         "nextFiscalYearEnd":1730332800,
@@ -180,6 +185,10 @@
         "lastSplitDate":1446422400,
         "enterpriseToRevenue":0.709,
         "enterpriseToEbitda":7.234,
+        "52WeekChange":0.07070708,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.276,
+        "lastDividendDate":1710201600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"HPQ",
@@ -190,6 +199,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"d8f9ec9a-295b-3d8c-b370-8c1f8ecaa47c",
+        "messageBoardId":"finmb_108856",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":30.08,
         "targetHighPrice":36.82,
@@ -218,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

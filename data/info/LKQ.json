@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"500 West Madison Street",
         "address2":"Suite 2800",
@@ -10,7 +10,11 @@
         "fax":"312 621 1969",
         "website":"https:\/\/www.lkqcorp.com",
         "industry":"Auto Parts",
+        "industryKey":"auto-parts",
+        "industryDisp":"Auto Parts",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"LKQ Corporation engages in the distribution of replacement parts, components, and systems used in the repair and maintenance of vehicles and specialty vehicle aftermarket products and accessories. It operates through four segments: Wholesale-North America, Europe, Specialty, and Self Service. The company distributes bumper covers, automotive body panels, and lights, as well as mechanical automotive parts and accessories; salvage products, including mechanical and collision parts comprising engines; transmissions; door assemblies; sheet metal products, such as trunk lids, fenders, and hoods; lights and bumper assemblies; scrap metal and other materials to metals recyclers; and brake pads, discs and sensors, clutches, steering and suspension products, filters, and oil and automotive fluids, as well as electrical products, including spark plugs and batteries. In addition, the company distributes recreational vehicle appliances and air conditioners, towing hitches, truck bed covers, vehicle protection products, marine electronics, cargo management products, wheels, tires, and suspension products. It serves collision and mechanical repair shops, and new and used car dealerships, as well as retail customers. The company operates in the United States, Canada, the United Kingdom, Germany, Belgium, the Netherlands, Luxembourg, Italy, the Czech Republic, Austria, Poland, Slovakia, Taiwan, and other European countries. LKQ Corporation was incorporated in 1998 and is headquartered in Chicago, Illinois.",
         "fullTimeEmployees":49000,
         "companyOfficers":[
@@ -171,6 +175,7 @@
         "heldPercentInstitutions":1.01658,
         "shortRatio":2.28,
         "shortPercentOfFloat":0.019199999,
+        "impliedSharesOutstanding":266607008,
         "bookValue":23.08,
         "priceToBook":2.2937608,
         "lastFiscalYearEnd":1703980800,
@@ -185,6 +190,10 @@
         "lastSplitDate":1348012800,
         "enterpriseToRevenue":1.392,
         "enterpriseToEbitda":11.065,
+        "52WeekChange":-0.02370727,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.3,
+        "lastDividendDate":1710288000,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"LKQ",
@@ -195,6 +204,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"6f81a6d8-87b5-3803-bfe7-42ad76e80556",
+        "messageBoardId":"finmb_4303924",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":52.94,
         "targetHighPrice":68.0,
@@ -225,4 +235,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.7683
     }
-]
+

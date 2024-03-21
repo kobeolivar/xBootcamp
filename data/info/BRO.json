@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"300 North Beach Street",
         "city":"Daytona Beach",
@@ -8,7 +8,11 @@
         "phone":"386 252 9601",
         "website":"https:\/\/www.bbinsurance.com",
         "industry":"Insurance Brokers",
+        "industryKey":"insurance-brokers",
+        "industryDisp":"Insurance Brokers",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Brown & Brown, Inc. markets and sells insurance products and services in the United States, Canada, Ireland, the United Kingdom, and internationally. It operates through four segments: Retail, National Programs, Wholesale Brokerage, and Services. The Retail segment provides property and casualty, employee benefits insurance products, personal insurance products, specialties insurance products, risk management strategies, loss control survey and analysis, consultancy, and claims processing services. It serves commercial, public and quasi-public entities, professional, and individual customers. The National Programs segment offers professional liability and related package insurance products for dentistry, legal, eyecare, insurance, financial, physicians, real estate title professionals, as well as supplementary insurance products related to weddings, events, medical facilities, and cyber liabilities. This segment also provides public entity-related and specialty programs through a network of independent agents; and program management services for insurance carrier partners. The Wholesale Brokerage segment markets and sells excess and surplus commercial and personal lines insurance through independent agents and brokers. The Services segment offers third-party claims administration and medical utilization management services in the workers' compensation and all-lines liability arenas, Medicare Set-aside, Social Security disability, Medicare benefits advocacy, and claims adjusting services. Brown & Brown, Inc. was founded in 1939 and is headquartered in Daytona Beach, Florida.",
         "fullTimeEmployees":16152,
         "companyOfficers":[
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.7377,
         "shortRatio":1.71,
         "shortPercentOfFloat":0.0091,
+        "impliedSharesOutstanding":285801984,
         "bookValue":19.602,
         "priceToBook":4.389348,
         "lastFiscalYearEnd":1703980800,
@@ -179,6 +184,10 @@
         "lastSplitDate":1522281600,
         "enterpriseToRevenue":6.68,
         "enterpriseToEbitda":20.334,
+        "52WeekChange":0.5746459,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.13,
+        "lastDividendDate":1706745600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BRO",
@@ -189,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"27f95964-1950-3381-869d-746d7d0e7d4e",
+        "messageBoardId":"finmb_297244",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":86.04,
         "targetHighPrice":95.0,
@@ -219,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

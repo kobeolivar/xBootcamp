@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Universal Corporate Center",
         "address2":"367 South Gulph Road PO Box 61558",
@@ -9,7 +9,11 @@
         "phone":"610 768 3300",
         "website":"https:\/\/www.uhs.com",
         "industry":"Medical Care Facilities",
+        "industryKey":"medical-care-facilities",
+        "industryDisp":"Medical Care Facilities",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Universal Health Services, Inc., through its subsidiaries, owns and operates acute care hospitals, and outpatient and behavioral health care facilities. It operates through Acute Care Hospital Services and Behavioral Health Care Services segments. The company's hospitals offer general and specialty surgery, internal medicine, obstetrics, emergency room care, radiology, oncology, diagnostic and coronary care, pediatric services, pharmacy services, and\/or behavioral health services. It also provides commercial health insurance services; and various management services, which include central purchasing, information, finance and control systems, facilities planning, physician recruitment, administrative personnel management, marketing, and public relations services. Universal Health Services, Inc. founded in 1978 and is headquartered in King of Prussia, Pennsylvania.",
         "fullTimeEmployees":73350,
         "companyOfficers":[
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.98846,
         "shortRatio":2.65,
         "shortPercentOfFloat":0.0324,
+        "impliedSharesOutstanding":68935000,
         "bookValue":91.528,
         "priceToBook":1.9750241,
         "lastFiscalYearEnd":1703980800,
@@ -179,6 +184,10 @@
         "lastSplitDate":1260921600,
         "enterpriseToRevenue":1.218,
         "enterpriseToEbitda":9.976,
+        "52WeekChange":0.47692943,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.2,
+        "lastDividendDate":1709164800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"UHS",
@@ -189,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"d5972957-7c1e-3aeb-9b12-57692d0e143b",
+        "messageBoardId":"finmb_36040",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":180.77,
         "targetHighPrice":208.0,
@@ -219,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

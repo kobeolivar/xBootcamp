@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"4040 Wilson Boulevard, Suite 1000",
         "city":"Arlington",
@@ -8,8 +8,12 @@
         "phone":"703 329 6300",
         "fax":"703 329 9130",
         "website":"https:\/\/www.avalonbay.com",
-        "industry":"REIT—Residential",
+        "industry":"REIT - Residential",
+        "industryKey":"reit-residential",
+        "industryDisp":"REIT - Residential",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"As of December 31, 2023, the Company owned or held a direct or indirect ownership interest in 299 apartment communities containing 90,669 apartment homes in 12 states and the District of Columbia, of which 18 communities were under development. The Company is an equity REIT in the business of developing, redeveloping, acquiring and managing apartment communities in leading metropolitan areas in New England, the New York\/New Jersey Metro area, the Mid-Atlantic, the Pacific Northwest, and Northern and Southern California, as well as in the Company's expansion regions of Raleigh-Durham and Charlotte, North Carolina, Southeast Florida, Dallas and Austin, Texas, and Denver, Colorado.",
         "fullTimeEmployees":2978,
         "companyOfficers":[
@@ -140,8 +144,8 @@
         "beta":0.927,
         "trailingPE":28.169207,
         "forwardPE":34.604866,
-        "volume":551128,
-        "regularMarketVolume":551128,
+        "volume":570211,
+        "regularMarketVolume":570211,
         "averageVolume":839916,
         "averageVolume10days":722060,
         "averageDailyVolume10Day":722060,
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.96219003,
         "shortRatio":1.89,
         "shortPercentOfFloat":0.0164,
+        "impliedSharesOutstanding":142024992,
         "bookValue":83.067,
         "priceToBook":2.2245896,
         "lastFiscalYearEnd":1703980800,
@@ -179,10 +184,12 @@
         "trailingEps":6.56,
         "forwardEps":5.34,
         "pegRatio":-3.3,
-        "lastSplitFactor":"8:9",
-        "lastSplitDate":1357516800,
         "enterpriseToRevenue":12.148,
         "enterpriseToEbitda":19.683,
+        "52WeekChange":0.1921854,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.65,
+        "lastDividendDate":1703721600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"AVB",
@@ -193,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"bce3759a-7c70-390c-8510-d287ae091718",
+        "messageBoardId":"finmb_329141",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":184.79,
         "targetHighPrice":207.0,
@@ -223,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":5.0316
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"7665 Corporate Center Drive",
         "city":"Miami",
@@ -9,7 +9,11 @@
         "fax":"305 436 4140",
         "website":"https:\/\/www.nclhltd.com",
         "industry":"Travel Services",
+        "industryKey":"travel-services",
+        "industryDisp":"Travel Services",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Norwegian Cruise Line Holdings Ltd., together with its subsidiaries, operates as a cruise company in North America, Europe, the Asia-Pacific, and internationally. The company operates through the Norwegian Cruise Line, Oceania Cruises, and Regent Seven Seas Cruises brands. It offers itineraries ranging from three days to a 180-days calling on various ports, including Scandinavia, Northern Europe, the Mediterranean, the Greek Isles, Alaska, Canada and New England, Hawaii, Asia, Tahiti and the South Pacific, Australia and New Zealand, Africa, India, South America, the Panama Canal, and the Caribbean. It distributes its products through retail\/travel advisor and onboard cruise sales channels, as well as meetings, incentives, and charters. Norwegian Cruise Line Holdings Ltd. was founded in 1966 and is based in Miami, Florida.",
         "fullTimeEmployees":41000,
         "companyOfficers":[
@@ -159,6 +163,7 @@
         "heldPercentInstitutions":0.70579004,
         "shortRatio":2.84,
         "shortPercentOfFloat":0.106000006,
+        "impliedSharesOutstanding":425656992,
         "bookValue":0.707,
         "priceToBook":29.052334,
         "lastFiscalYearEnd":1703980800,
@@ -170,6 +175,8 @@
         "pegRatio":0.32,
         "enterpriseToRevenue":2.68,
         "enterpriseToEbitda":12.633,
+        "52WeekChange":0.60540974,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"NCLH",
@@ -180,6 +187,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"330137cb-a0bf-399d-bab9-d43e5b2fb4f3",
+        "messageBoardId":"finmb_4180463",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":20.54,
         "targetHighPrice":25.0,
@@ -209,4 +217,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.4367
     }
-]
+

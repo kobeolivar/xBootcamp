@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"2244 Walnut Grove Avenue",
         "address2":"PO Box 976",
@@ -9,8 +9,12 @@
         "phone":"626 302 2222",
         "fax":"651 450 4033",
         "website":"https:\/\/www.edison.com",
-        "industry":"Utilities—Regulated Electric",
+        "industry":"Utilities - Regulated Electric",
+        "industryKey":"utilities-regulated-electric",
+        "industryDisp":"Utilities - Regulated Electric",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"Edison International, through its subsidiaries, engages in the generation and distribution of electric power. The company supplies and delivers electricity to approximately 50,000 square mile area of southern California to residential, commercial, industrial, public authorities, agricultural, and other sectors. Its transmission facilities consist of lines ranging from 55 kV to 500 kV and approximately 80 transmission substations; distribution system consists of approximately 38,000 circuit-miles of overhead lines; approximately 31,000 circuit-miles of underground lines; and 730 distribution substations. The company was founded in 1886 and is based in Rosemead, California.",
         "fullTimeEmployees":13003,
         "companyOfficers":[
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":0.91665,
         "shortRatio":2.08,
         "shortPercentOfFloat":0.0231,
+        "impliedSharesOutstanding":384680000,
         "bookValue":36.017,
         "priceToBook":1.9482467,
         "lastFiscalYearEnd":1703980800,
@@ -181,6 +186,10 @@
         "lastSplitDate":740707200,
         "enterpriseToRevenue":4.028,
         "enterpriseToEbitda":11.027,
+        "52WeekChange":0.052392483,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.78,
+        "lastDividendDate":1703721600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"EIX",
@@ -191,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"37bf455b-98ec-3083-a6aa-3e0a83daa0ef",
+        "messageBoardId":"finmb_301891",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":70.17,
         "targetHighPrice":86.0,
@@ -221,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.7413
     }
-]
+

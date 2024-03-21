@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"850 Dixie Highway",
         "city":"Louisville",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"502 585 1100",
         "website":"https:\/\/www.brown-forman.com",
-        "industry":"Beverages—Wineries & Distilleries",
+        "industry":"Beverages - Wineries & Distilleries",
+        "industryKey":"beverages-wineries-distilleries",
+        "industryDisp":"Beverages - Wineries & Distilleries",
         "sector":"Consumer Defensive",
+        "sectorKey":"consumer-defensive",
+        "sectorDisp":"Consumer Defensive",
         "longBusinessSummary":"Brown-Forman Corporation, together with its subsidiaries, manufactures, distills, bottles, imports, exports, markets, and sells various alcoholic beverages. It provides wines, whiskey spirits, whiskey-based flavored liqueurs, ready-to-drink and ready-to-pour products, vodkas, tequilas, gin, brandy, rum, bourbons, and liqueurs. The company offers its products primarily under the Jack Daniel's, Woodford Reserve, Old Forester, Coopers' Craft, Gentleman Jack, Herradura, el Jimador, New Mix, Korbel, Sonoma-Cutrer, Finlandia, Chambord, Gin Mare, Diplomático, Fords Gin, GlenDronach, Benriach, Glenglassaugh, Slane, and brands. It is also involved in the sale of used barrels, bulk whiskey, and wine; and provision of contract bottling services. The company serves retail customers and consumers through distributors or state governments; and retailers, wholesalers, and provincial governments directly. It has operations in the United States, Germany, Australia, the United Kingdom, Mexico, and internationally. The company was founded in 1870 and is headquartered in Louisville, Kentucky.",
         "fullTimeEmployees":5600,
         "companyOfficers":[
@@ -173,6 +177,7 @@
         "heldPercentInstitutions":0.54319,
         "shortRatio":6.18,
         "shortPercentOfFloat":0.03,
+        "impliedSharesOutstanding":476958016,
         "bookValue":6.868,
         "priceToBook":7.518928,
         "lastFiscalYearEnd":1682812800,
@@ -187,6 +192,10 @@
         "lastSplitDate":1519862400,
         "enterpriseToRevenue":6.457,
         "enterpriseToEbitda":21.323,
+        "52WeekChange":-0.15439391,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.218,
+        "lastDividendDate":1709769600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BF-B",
@@ -197,6 +206,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"9bd349ba-abbd-39fe-923b-cf1769ac8dd4",
+        "messageBoardId":"finmb_256839",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":51.64,
         "targetHighPrice":80.0,
@@ -227,4 +237,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.5285
     }
-]
+

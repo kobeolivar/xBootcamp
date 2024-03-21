@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"One Park Plaza",
         "city":"Nashville",
@@ -141,7 +141,7 @@
         "averageVolume10days":960150,
         "averageDailyVolume10Day":960150,
         "bid":321.53,
-        "ask":332.06,
+        "ask":335.55,
         "bidSize":800,
         "askSize":1000,
         "marketCap":86975889408,
@@ -223,4 +223,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.4689
     }
-]
+

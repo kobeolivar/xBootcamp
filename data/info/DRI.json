@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1000 Darden Center Drive",
         "city":"Orlando",
@@ -8,7 +8,11 @@
         "phone":"407 245 4000",
         "website":"https:\/\/www.darden.com",
         "industry":"Restaurants",
+        "industryKey":"restaurants",
+        "industryDisp":"Restaurants",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Darden Restaurants, Inc., together with its subsidiaries, owns and operates full-service restaurants in the United States and Canada. It operates under Olive Garden, LongHorn Steakhouse, Cheddar's Scratch Kitchen, Yard House, The Capital Grille, Seasons 52, Bahama Breeze, Eddie V's Prime Seafood, and Capital Burger brand names. Darden Restaurants, Inc. was incorporated in 1995 and is based in Orlando, Florida.",
         "fullTimeEmployees":187384,
         "companyOfficers":[
@@ -164,6 +168,7 @@
         "heldPercentInstitutions":0.95265996,
         "shortRatio":5.48,
         "shortPercentOfFloat":0.0717,
+        "impliedSharesOutstanding":119411000,
         "bookValue":17.069,
         "priceToBook":9.563537,
         "lastFiscalYearEnd":1685232000,
@@ -178,6 +183,10 @@
         "lastSplitDate":1447113600,
         "enterpriseToRevenue":2.516,
         "enterpriseToEbitda":16.239,
+        "52WeekChange":0.15984583,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.31,
+        "lastDividendDate":1704758400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"DRI",
@@ -188,6 +197,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"19cb3c7b-5f7b-3bfc-b2af-6a8d397bf76d",
+        "messageBoardId":"finmb_336160",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":163.24,
         "targetHighPrice":200.0,
@@ -218,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.087
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"300 Cadwell Drive",
         "city":"Springfield",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"800 286 5000",
         "website":"https:\/\/www.eversource.com",
-        "industry":"Utilities—Regulated Electric",
+        "industry":"Utilities - Regulated Electric",
+        "industryKey":"utilities-regulated-electric",
+        "industryDisp":"Utilities - Regulated Electric",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"Eversource Energy, a public utility holding company, engages in the energy delivery business. The company operates through Electric Distribution, Electric Transmission, Natural Gas Distribution, and Water Distribution segments. It is involved in the transmission and distribution of electricity; solar power facilities; and distribution of natural gas. The company operates regulated water utilities that provide water services to approximately 241,000 customers. It serves residential, commercial, industrial, municipal and fire protection, and other customers in Connecticut, Massachusetts, and New Hampshire. The company was formerly known as Northeast Utilities and changed its name to Eversource Energy in April 2015. Eversource Energy was incorporated in 1927 and is headquartered in Springfield, Massachusetts.",
         "fullTimeEmployees":10171,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":0.83652,
         "shortRatio":1.68,
         "shortPercentOfFloat":0.016900001,
+        "impliedSharesOutstanding":349687008,
         "bookValue":40.55,
         "priceToBook":1.4276203,
         "lastFiscalYearEnd":1703980800,
@@ -177,10 +182,12 @@
         "trailingEps":-1.27,
         "forwardEps":4.77,
         "pegRatio":3.98,
-        "lastSplitFactor":"2:1",
-        "lastSplitDate":1367280000,
         "enterpriseToRevenue":4.004,
         "enterpriseToEbitda":12.425,
+        "52WeekChange":-0.19167238,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.715,
+        "lastDividendDate":1709510400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"ES",
@@ -191,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"04c19fa1-e772-3b66-b0aa-d2efe61f25cd",
+        "messageBoardId":"finmb_292525",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":57.89,
         "targetHighPrice":94.0,
@@ -220,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.0205
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"11270 West Park Place",
         "address2":"Suite 170 PO Box 245008",
@@ -9,7 +9,11 @@
         "phone":"414 359 4000",
         "website":"https:\/\/www.aosmith.com",
         "industry":"Specialty Industrial Machinery",
+        "industryKey":"specialty-industrial-machinery",
+        "industryDisp":"Specialty Industrial Machinery",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"A. O. Smith Corporation manufactures and markets residential and commercial gas and electric water heaters, boilers, heat pumps, tanks, and water treatment products in North America, China, Europe, and India. The company offers water heaters for residences, restaurants, hotels, office buildings, laundries, car washes, and small businesses; boilers for hospitals, schools, hotels, and other large commercial buildings, as well as homes, apartments, and condominiums; and water treatment products comprising point-of-entry water softeners, well water solutions, and whole-home water filtration products, and point-of-use carbon and reverse osmosis products for residences, restaurants, hotels, and offices. It also provides commercial water treatment and filtration product; expansion tanks, commercial solar water heating systems, swimming pool and spa heaters, and related products and parts; and electric wall-hung, gas tankless, combi-boiler, and heat pump and solar water heaters. The company offers its products under the A. O. Smith, State, Lochinvar, Hague, Water-Right, Master Water, Atlantic Filter, and Water Tec brands. It distributes its products through independent wholesale plumbing distributors, as well as to retail channels consisting of hardware and home center chains, and manufacturer representative firms; and offers Aquasana branded products directly to consumers through e-commerce channels. A. O. Smith Corporation was founded in 1874 and is headquartered in Milwaukee, Wisconsin.",
         "fullTimeEmployees":12000,
         "companyOfficers":[
@@ -175,6 +179,7 @@
         "heldPercentInstitutions":0.97598,
         "shortRatio":2.77,
         "shortPercentOfFloat":0.024400001,
+        "impliedSharesOutstanding":147942000,
         "bookValue":12.502,
         "priceToBook":7.1892495,
         "lastFiscalYearEnd":1703980800,
@@ -188,6 +193,10 @@
         "lastSplitDate":1475712000,
         "enterpriseToRevenue":3.297,
         "enterpriseToEbitda":15.507,
+        "52WeekChange":0.32206964,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.32,
+        "lastDividendDate":1706572800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"AOS",
@@ -198,6 +207,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"4cc854cc-0565-35cc-abef-bc91f30d07b0",
+        "messageBoardId":"finmb_997111",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":89.88,
         "targetHighPrice":92.0,
@@ -227,4 +237,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.164
     }
-]
+

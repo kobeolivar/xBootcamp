@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"345 East Main Street",
         "city":"Warsaw",
@@ -8,7 +8,11 @@
         "phone":"574 373 3333",
         "website":"https:\/\/www.zimmerbiomet.com",
         "industry":"Medical Devices",
+        "industryKey":"medical-devices",
+        "industryDisp":"Medical Devices",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Zimmer Biomet Holdings, Inc., together with its subsidiaries, operates as a medical technology company worldwide. The company designs, manufactures, and markets orthopedic reconstructive products, such as knee and hip products; S.E.T. products, including sports medicine, biologics, foot and ankle, extremities, and trauma products; craniomaxillofacial and thoracic products comprising face and skull reconstruction products, as well as products that fixate and stabilize the bones of the chest to facilitate healing or reconstruction after open heart surgery, trauma, or for deformities of the chest. It also offers robotic, surgical, and bone cement products. The company's products and solutions are used to treat patients suffering from disorders of, or injuries to, bones, joints, or supporting soft tissues. It serves orthopedic surgeons, neurosurgeons, hospitals, stocking distributors, healthcare dealers, and other specialists, as well as agents, healthcare purchasing organizations, or buying groups. The company was formerly known as Zimmer Holdings, Inc. and changed its name to Zimmer Biomet Holdings, Inc. in June 2015. Zimmer Biomet Holdings, Inc. was founded in 1927 and is headquartered in Warsaw, Indiana.",
         "fullTimeEmployees":18000,
         "companyOfficers":[
@@ -163,6 +167,7 @@
         "heldPercentInstitutions":0.91103995,
         "shortRatio":2.77,
         "shortPercentOfFloat":0.0308,
+        "impliedSharesOutstanding":205084000,
         "bookValue":60.703,
         "priceToBook":2.0933068,
         "lastFiscalYearEnd":1703980800,
@@ -172,8 +177,14 @@
         "trailingEps":4.88,
         "forwardEps":8.68,
         "pegRatio":2.27,
+        "lastSplitFactor":"103:100",
+        "lastSplitDate":1646092800,
         "enterpriseToRevenue":4.294,
         "enterpriseToEbitda":12.965,
+        "52WeekChange":0.012564063,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.24,
+        "lastDividendDate":1703548800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"ZBH",
@@ -184,6 +195,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"2f40c775-c890-3bae-80b9-c66c639207f6",
+        "messageBoardId":"finmb_264048",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":127.07,
         "targetHighPrice":160.0,
@@ -213,4 +225,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.4471
     }
-]
+

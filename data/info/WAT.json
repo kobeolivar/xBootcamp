@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"34 Maple Street",
         "city":"Milford",
@@ -9,7 +9,11 @@
         "fax":"508 872 1990",
         "website":"https:\/\/www.waters.com",
         "industry":"Diagnostics & Research",
+        "industryKey":"diagnostics-research",
+        "industryDisp":"Diagnostics & Research",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Waters Corporation provides analytical workflow solutions in Asia, the Americas, and Europe. It operates through two segments: Waters and TA. The company designs, manufactures, sells, and services high and ultra-performance liquid chromatography, as well as mass spectrometry (MS) technology systems and support products, including chromatography columns, other consumable products, and post-warranty service plans. It also designs, manufactures, sells, and services thermal analysis, rheometry, and calorimetry instruments; and develops and supplies software-based products that interface with its instruments, as well as other manufacturers' instruments. In addition, the company offers MS technology instruments are used in drug discovery and development comprising clinical trial testing, the analysis of proteins in disease processes, nutritional safety analysis, and environmental testing. Further, the company provides thermal analysis, rheometry, and calorimetry instruments for use in predicting the suitability and stability of fine chemicals, pharmaceuticals, water, polymers, metals, and viscous liquids for various industrial, consumer good, and healthcare products, as well as for life science research. Its products are used by clinical, pharmaceutical, biochemical, industrial, nutritional safety, environmental, academic, and governmental customers working in research and development, quality assurance, and other laboratory applications. The company was founded in 1958 and is headquartered in Milford, Massachusetts.",
         "fullTimeEmployees":7900,
         "companyOfficers":[
@@ -156,6 +160,7 @@
         "heldPercentInstitutions":1.0217199,
         "shortRatio":8.5,
         "shortPercentOfFloat":0.082399994,
+        "impliedSharesOutstanding":59202600,
         "bookValue":19.439,
         "priceToBook":18.131079,
         "lastFiscalYearEnd":1703980800,
@@ -170,6 +175,8 @@
         "lastSplitDate":967420800,
         "enterpriseToRevenue":7.673,
         "enterpriseToEbitda":22.19,
+        "52WeekChange":0.16832674,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"WAT",
@@ -180,6 +187,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"f07fa492-f47b-3f5b-8db7-ecdbf8995cfb",
+        "messageBoardId":"finmb_36475",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":352.45,
         "targetHighPrice":350.0,
@@ -210,4 +218,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.379
     }
-]
+

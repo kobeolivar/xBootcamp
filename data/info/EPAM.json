@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"41 University Drive",
         "address2":"Suite 202",
@@ -10,7 +10,11 @@
         "fax":"267 759 8989",
         "website":"https:\/\/www.epam.com",
         "industry":"Information Technology Services",
+        "industryKey":"information-technology-services",
+        "industryDisp":"Information Technology Services",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"EPAM Systems, Inc. provides digital platform engineering and software development services worldwide. The company offers engineering services, including requirements analysis and platform selection, customization, cross-platform migration, implementation, and integration; infrastructure management services, such as software development, testing, performance tuning, deployment, maintenance, and support services. It also provides operation solutions comprising integrated engineering practices and smart automation services. In addition, the company offers business, experience, technology, data, and technical advisory consulting services; and digital and service design solutions, which comprise strategy, design, creative, and program management services, as well as physical product development, such as artificial intelligence, robotics, and virtual reality. The company serves the financial services, travel and consumer, software and hi-tech, business information and media, life sciences and healthcare, and other industries EPAM Systems, Inc. was founded in 1993 and is headquartered in Newtown, Pennsylvania.",
         "fullTimeEmployees":53150,
         "companyOfficers":[
@@ -163,6 +167,7 @@
         "heldPercentInstitutions":0.94928,
         "shortRatio":1.37,
         "shortPercentOfFloat":0.018,
+        "impliedSharesOutstanding":57827500,
         "bookValue":60.064,
         "priceToBook":4.7234616,
         "lastFiscalYearEnd":1703980800,
@@ -175,6 +180,8 @@
         "pegRatio":4.03,
         "enterpriseToRevenue":3.196,
         "enterpriseToEbitda":22.197,
+        "52WeekChange":0.028476,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"EPAM",
@@ -185,6 +192,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"c494882a-2c40-3dfb-ba2d-3df7085d9923",
+        "messageBoardId":"finmb_4773318",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":283.71,
         "targetHighPrice":369.0,
@@ -215,4 +223,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

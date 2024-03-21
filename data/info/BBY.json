@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"7601 Penn Avenue South",
         "city":"Richfield",
@@ -8,7 +8,11 @@
         "phone":"(612) 291-1000",
         "website":"https:\/\/corporate.bestbuy.com",
         "industry":"Specialty Retail",
+        "industryKey":"specialty-retail",
+        "industryDisp":"Specialty Retail",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Best Buy Co., Inc. engages in the retail of technology products in the United States, Canada, and international. Its stores provide computing and mobile phone products, such as desktops, notebooks, and peripherals; mobile phones comprising related mobile network carrier commissions; networking products; tablets covering e-readers; smartwatches; and consumer electronics consisting of digital imaging, health and fitness products, portable audio comprising headphones and portable speakers, and smart home products, as well as home theaters, which includes home theater accessories, soundbars, and televisions. The company's stores also offer appliances, such as dishwashers, laundry, ovens, refrigerators, blenders, coffee makers, vacuums, and personal care; entertainment products consisting of drones, peripherals, movies, and toys, as well as hardware and software, and virtual reality and other software products; and other products, such as baby, food and beverage, luggage, outdoor living, and sporting goods. In addition, it provides delivery, installation, memberships, repair, set-up, technical support, health-related, and warranty-related services. The company offers its products through stores and websites under the Best Buy, Best Buy Ads, Best Buy Business, Best Buy Health, Buy Mobile, CST, Current Health, Geek Squad, Lively, Magnolia, Pacific Kitchen, Home, TechLiquidators, and Yardbird brands, as well as domain names comprising bestbuy.com, currenthealth.com, lively.com, techliquidators.com, yardbird.com, and bestbuy.ca. The company was formerly known as Sound of Music, Inc. Best Buy Co., Inc. was incorporated in 1966 and is headquartered in Richfield, Minnesota.",
         "fullTimeEmployees":85000,
         "companyOfficers":[
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":0.84138,
         "shortRatio":5.49,
         "shortPercentOfFloat":0.1,
+        "impliedSharesOutstanding":215380992,
         "bookValue":14.174,
         "priceToBook":5.67518,
         "lastFiscalYearEnd":1706918400,
@@ -180,6 +185,10 @@
         "lastSplitDate":1123113600,
         "enterpriseToRevenue":0.448,
         "enterpriseToEbitda":7.344,
+        "52WeekChange":0.053626537,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.94,
+        "lastDividendDate":1710892800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BBY",
@@ -190,6 +199,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"f47a191f-8bd7-3696-b14b-73c750c77213",
+        "messageBoardId":"finmb_255397",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":80.44,
         "targetHighPrice":96.0,
@@ -220,4 +230,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.4502
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"201 Isabella Street",
         "address2":"Suite 200",
@@ -9,7 +9,11 @@
         "phone":"412 553 1950",
         "website":"https:\/\/www.howmet.com",
         "industry":"Aerospace & Defense",
+        "industryKey":"aerospace-defense",
+        "industryDisp":"Aerospace & Defense",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Howmet Aerospace Inc. provides advanced engineered solutions for the aerospace and transportation industries in the United States, Japan, France, Germany, the United Kingdom, Mexico, Italy, Canada, Poland, China, and internationally. It operates through four segments: Engine Products, Fastening Systems, Engineered Structures, and Forged Wheels. The Engine Products segment offers airfoils and seamless rolled rings primarily for aircraft engines and industrial gas turbines; and rotating and structural parts. The Fastening Systems segment produces aerospace fastening systems, as well as commercial transportation, industrial, and other fasteners; and latches, bearings, fluid fittings, and installation tools. The Engineered Structures segment provides titanium ingots and mill products, aluminum and nickel forgings, and machined components and assemblies for aerospace and defense applications; and titanium forgings, extrusions, and forming and machining services for airframe, wing, aero-engine, and landing gear components. The Forged Wheels segment offers forged aluminum wheels and related products for heavy-duty trucks and commercial transportation markets. The company was formerly known as Arconic Inc. Howmet Aerospace Inc. was founded in 1888 and is based in Pittsburgh, Pennsylvania.",
         "fullTimeEmployees":23200,
         "companyOfficers":[
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":0.92894995,
         "shortRatio":1.55,
         "shortPercentOfFloat":0.0154,
+        "impliedSharesOutstanding":410304000,
         "bookValue":9.714,
         "priceToBook":6.967264,
         "lastFiscalYearEnd":1703980800,
@@ -178,6 +183,10 @@
         "pegRatio":1.56,
         "enterpriseToRevenue":4.667,
         "enterpriseToEbitda":21.268,
+        "52WeekChange":0.68026876,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.05,
+        "lastDividendDate":1707350400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"HWM",
@@ -188,6 +197,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"749fa682-b1d3-3d99-89af-2f881239678e",
+        "messageBoardId":"finmb_416264458",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":67.68,
         "targetHighPrice":75.0,
@@ -218,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

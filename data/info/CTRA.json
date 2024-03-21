@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Three Memorial City Plaza",
         "address2":"Suite 1400 840 Gessner Road",
@@ -9,7 +9,11 @@
         "phone":"281 589 4600",
         "website":"https:\/\/www.coterra.com",
         "industry":"Oil & Gas E&P",
+        "industryKey":"oil-gas-e-p",
+        "industryDisp":"Oil & Gas E&P",
         "sector":"Energy",
+        "sectorKey":"energy",
+        "sectorDisp":"Energy",
         "longBusinessSummary":"Coterra Energy Inc., an independent oil and gas company, engages in the development, exploration, and production of oil, natural gas, and natural gas liquids in the United States. The company's properties include the Marcellus Shale with approximately 186,000 net acres in the dry gas window of the play located in Susquehanna County, Pennsylvania; Permian Basin properties with approximately 296,000 net acres located in west Texas and southeast New Mexico; and Anadarko Basin properties with approximately 182,000 net acres located in Oklahoma. It also operates natural gas and saltwater gathering and disposal systems in Texas. The company sells its natural gas to industrial customers, local distribution companies, oil and gas marketers, major energy companies, pipeline companies, and power generation facilities. Coterra Energy Inc. was incorporated in 1989 and is headquartered in Houston, Texas.",
         "fullTimeEmployees":894,
         "companyOfficers":[
@@ -174,6 +178,7 @@
         "heldPercentInstitutions":0.89871,
         "shortRatio":2.6,
         "shortPercentOfFloat":0.0324,
+        "impliedSharesOutstanding":751846976,
         "bookValue":17.362,
         "priceToBook":1.5781592,
         "lastFiscalYearEnd":1703980800,
@@ -184,8 +189,14 @@
         "trailingEps":2.13,
         "forwardEps":2.99,
         "pegRatio":1.1,
+        "lastSplitFactor":"2:1",
+        "lastSplitDate":1376524800,
         "enterpriseToRevenue":3.866,
         "enterpriseToEbitda":5.791,
+        "52WeekChange":0.17445886,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.21,
+        "lastDividendDate":1710288000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"CTRA",
@@ -196,6 +207,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"c4decc67-2d6f-374a-8909-cb881d5deb5f",
+        "messageBoardId":"finmb_258181",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":27.4,
         "targetHighPrice":39.0,
@@ -226,4 +238,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

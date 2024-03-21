@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"8750 North Central Expressway",
         "address2":"Suite 1400",
@@ -9,7 +9,11 @@
         "phone":"214 576 9352",
         "website":"https:\/\/www.mtch.com",
         "industry":"Internet Content & Information",
+        "industryKey":"internet-content-information",
+        "industryDisp":"Internet Content & Information",
         "sector":"Communication Services",
+        "sectorKey":"communication-services",
+        "sectorDisp":"Communication Services",
         "longBusinessSummary":"Match Group, Inc. engages in the provision of dating products. Its portfolio of brands includes Tinder, Hinge, Match, Meetic, OkCupid, Pairs, Plenty Of Fish, Azar, BLK, and Hakuna, as well as a various other brands, each built to increase users' likelihood of connecting with others. Its services are available in over 40 languages to users worldwide. The company was incorporated in 1986 and is based in Dallas, Texas.",
         "fullTimeEmployees":2600,
         "companyOfficers":[
@@ -156,6 +160,7 @@
         "heldPercentInstitutions":0.96994,
         "shortRatio":2.08,
         "shortPercentOfFloat":0.052800003,
+        "impliedSharesOutstanding":268012000,
         "bookValue":-0.073,
         "lastFiscalYearEnd":1703980800,
         "nextFiscalYearEnd":1735603200,
@@ -165,10 +170,14 @@
         "trailingEps":2.26,
         "forwardEps":2.53,
         "pegRatio":0.63,
-        "lastSplitFactor":"1:1",
-        "lastSplitDate":1593648000,
+        "lastSplitFactor":"3502:1000",
+        "lastSplitDate":1593561600,
         "enterpriseToRevenue":3.787,
         "enterpriseToEbitda":12.412,
+        "52WeekChange":-0.093403816,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":2.0,
+        "lastDividendDate":1543881600,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"MTCH",
@@ -179,6 +188,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"56a49b8c-f09e-39e1-b588-9e45cb7f00eb",
+        "messageBoardId":"finmb_355279",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":35.69,
         "targetHighPrice":55.0,
@@ -207,4 +217,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.4562
     }
-]
+

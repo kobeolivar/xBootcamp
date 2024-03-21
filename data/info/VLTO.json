@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"225 Wyman Street",
         "address2":"Suite 250",
@@ -9,7 +9,11 @@
         "phone":"781-755-3655",
         "website":"https:\/\/www.veralto.com",
         "industry":"Pollution & Treatment Controls",
+        "industryKey":"pollution-treatment-controls",
+        "industryDisp":"Pollution & Treatment Controls",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Veralto Corporation provides water analytics, water treatment, marking and coding, and packaging and color services worldwide. It operates through two segments, Water Quality (WQ) and Product Quality & Innovation (PQI). The WQ segment offers precision instrumentation and water treatment technologies to measure, analyze, and treat water in residential, commercial, municipal, industrial, research, and natural resource applications through the Hach, Trojan Technologies, and ChemTreat brands. This segment provides water solutions, including chemical reagents, services, and digital solutions. The PQI segment offers inline printing solutions for products and packaging with marking and coding systems; marking and coding for packaged goods and related consumables; design software and imaging systems for the creation of new packaging designs; color management solutions for printed packages and consumer and industrial products; color standard services for the design industry; and a software solution that provides digital asset management, marketing resource management, and product information management. This segment sells its products and services through the Videojet, Linx, Esko, X-Rite, and Pantone brands to regulated industries, including municipal utilities, food and beverage, pharmaceutical, and industrials. The company was formerly known as DH EAS Holding Corp. and changed its name to Veralto Corporation in February 2023. Veralto Corporation was incorporated in 2022 and is headquartered in Waltham, Massachusetts.",
         "fullTimeEmployees":15500,
         "companyOfficers":[
@@ -107,7 +111,7 @@
         "averageVolume":1433963,
         "averageVolume10days":1760830,
         "averageDailyVolume10Day":1760830,
-        "bid":89.47,
+        "bid":88.82,
         "ask":90.28,
         "bidSize":800,
         "askSize":800,
@@ -132,6 +136,7 @@
         "heldPercentInsiders":0.04009,
         "heldPercentInstitutions":0.91735,
         "shortRatio":1.31,
+        "impliedSharesOutstanding":246542000,
         "lastFiscalYearEnd":1703980800,
         "nextFiscalYearEnd":1735603200,
         "mostRecentQuarter":1703980800,
@@ -141,6 +146,10 @@
         "forwardEps":3.57,
         "enterpriseToRevenue":4.729,
         "enterpriseToEbitda":19.15,
+        "52WeekChange":0.13264787,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.09,
+        "lastDividendDate":1703721600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"VLTO",
@@ -151,6 +160,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"afdb2ce9-f7fd-3fad-b977-fc7578f048bc",
+        "messageBoardId":"finmb_1849334916",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":89.9,
         "targetHighPrice":103.0,
@@ -181,4 +191,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

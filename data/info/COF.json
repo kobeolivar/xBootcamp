@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1680 Capital One Drive",
         "city":"McLean",
@@ -149,7 +149,7 @@
         "averageVolume10days":2372470,
         "averageDailyVolume10Day":2372470,
         "bid":143.5,
-        "ask":145.0,
+        "ask":143.18,
         "bidSize":900,
         "askSize":1000,
         "marketCap":54461800448,
@@ -226,4 +226,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.9241
     }
-]
+

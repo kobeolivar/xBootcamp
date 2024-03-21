@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"5301 Stevens Creek Boulevard",
         "city":"Santa Clara",
@@ -144,7 +144,7 @@
         "averageVolume10days":2001030,
         "averageDailyVolume10Day":2001030,
         "bid":148.91,
-        "ask":149.06,
+        "ask":150.92,
         "bidSize":900,
         "askSize":800,
         "marketCap":43589005312,
@@ -229,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.8265
     }
-]
+

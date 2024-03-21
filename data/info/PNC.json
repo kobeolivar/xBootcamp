@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"The Tower at PNC Plaza",
         "address2":"300 Fifth Avenue",
@@ -148,7 +148,7 @@
         "averageVolume":2211741,
         "averageVolume10days":1988530,
         "averageDailyVolume10Day":1988530,
-        "bid":157.84,
+        "bid":156.0,
         "ask":159.0,
         "bidSize":800,
         "askSize":1100,
@@ -226,4 +226,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.9772
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"PO Box 8999",
         "city":"San Francisco",
@@ -149,8 +149,8 @@
         "averageVolume":5348533,
         "averageVolume10days":6010870,
         "averageDailyVolume10Day":6010870,
-        "bid":290.25,
-        "ask":290.8,
+        "bid":290.1,
+        "ask":290.37,
         "bidSize":1100,
         "askSize":900,
         "marketCap":596440317952,
@@ -235,4 +235,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.7907
     }
-]
+

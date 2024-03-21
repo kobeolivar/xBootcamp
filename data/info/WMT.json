@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"702 South West 8th Street",
         "city":"Bentonville",
@@ -142,7 +142,7 @@
         "averageVolume10days":18367610,
         "averageDailyVolume10Day":18367610,
         "bid":61.52,
-        "ask":61.46,
+        "ask":61.5,
         "bidSize":1000,
         "askSize":1200,
         "marketCap":495167176704,
@@ -227,4 +227,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.5272
     }
-]
+

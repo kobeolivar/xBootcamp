@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"200 Oceangate",
         "address2":"Suite 100",
@@ -9,7 +9,11 @@
         "phone":"562 435 3666",
         "website":"https:\/\/www.molinahealthcare.com",
         "industry":"Healthcare Plans",
+        "industryKey":"healthcare-plans",
+        "industryDisp":"Healthcare Plans",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Molina Healthcare, Inc. provides managed healthcare services to low-income families and individuals under the Medicaid and Medicare programs and through the state insurance marketplaces. It operates in four segments: Medicaid, Medicare, Marketplace, and Other. The company served in across 19 states. The company was founded in 1980 and is headquartered in Long Beach, California.",
         "fullTimeEmployees":18000,
         "companyOfficers":[
@@ -159,6 +163,7 @@
         "heldPercentInstitutions":1.00688,
         "shortRatio":3.27,
         "shortPercentOfFloat":0.0252,
+        "impliedSharesOutstanding":58400000,
         "bookValue":72.672,
         "priceToBook":5.7484317,
         "lastFiscalYearEnd":1703980800,
@@ -173,6 +178,8 @@
         "lastSplitDate":1306108800,
         "enterpriseToRevenue":0.536,
         "enterpriseToEbitda":10.228,
+        "52WeekChange":0.5780492,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"MOH",
@@ -183,6 +190,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"ad253301-9204-3ff9-bc7b-63207e5d5b0a",
+        "messageBoardId":"finmb_4107517",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":417.75,
         "targetHighPrice":474.0,
@@ -213,4 +221,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"5401 Virginia Way",
         "city":"Brentwood",
@@ -8,7 +8,11 @@
         "phone":"615 440 4000",
         "website":"https:\/\/www.tractorsupply.com",
         "industry":"Specialty Retail",
+        "industryKey":"specialty-retail",
+        "industryDisp":"Specialty Retail",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Tractor Supply Company operates as a rural lifestyle retailer in the United States. The company offers various merchandise, including livestock and equine feed and equipment, poultry, fencing, and sprayers and chemicals; food, treats, and equipment for dogs, cats, and other small animals, as well as dog wellness products; seasonal and recreation products comprising tractors and riders, lawn and garden, bird feeding, power equipment, and other recreational products; truck, tool, and hardware products, such as truck accessories, trailers, generators, lubricants, batteries, and hardware and tools; and clothing, gift, and décor products consist of clothing, footwear, toys, snacks, and decorative merchandise. It provides its products under the 4health, Paws & Claws, American Farmworks, Producer's Pride, Bit & Bridle, Red Shed, Blue Mountain, Redstone, C.E. Schmidt, Retriever, Country Lane, Ridgecut, Countyline, Royal Wing, Country Tuff, Strive, Dumor, Traveller, Farm Table, Treeline, Groundwork, TSC Tractor Supply Co, Huskee, Untamed, and JobSmart brand names. The company operates its retail stores under the Tractor Supply Company, Petsense by Tractor Supply, and Orscheln Farm and Home names; and operates websites under the TractorSupply.com and Petsense.com names. It sells its products to recreational farmers, ranchers, and others. Tractor Supply Company was founded in 1938 and is based in Brentwood, Tennessee.",
         "fullTimeEmployees":25000,
         "companyOfficers":[
@@ -172,6 +176,7 @@
         "heldPercentInstitutions":1.00839,
         "shortRatio":8.51,
         "shortPercentOfFloat":0.1146,
+        "impliedSharesOutstanding":107917000,
         "bookValue":19.91,
         "priceToBook":13.36866,
         "lastFiscalYearEnd":1703894400,
@@ -186,6 +191,10 @@
         "lastSplitDate":1380240000,
         "enterpriseToRevenue":2.224,
         "enterpriseToEbitda":17.295,
+        "52WeekChange":0.13419533,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.1,
+        "lastDividendDate":1708646400,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"TSCO",
@@ -196,6 +205,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"5a3b225a-5bf8-3f65-b781-3a36388095e9",
+        "messageBoardId":"finmb_329501",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":266.17,
         "targetHighPrice":270.0,
@@ -226,4 +236,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.6985
     }
-]
+

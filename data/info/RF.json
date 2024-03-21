@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1900 Fifth Avenue North",
         "city":"Birmingham",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"800 734 4667",
         "website":"https:\/\/www.regions.com",
-        "industry":"Banks—Regional",
+        "industry":"Banks - Regional",
+        "industryKey":"banks-regional",
+        "industryDisp":"Banks - Regional",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Regions Financial Corporation, a financial holding company, provides banking and bank-related services to individual and corporate customers. It operates through three segments: Corporate Bank, Consumer Bank, and Wealth Management. The Corporate Bank segment offers commercial banking services, such as commercial and industrial, commercial real estate, and investor real estate lending; equipment lease financing; deposit products; and securities underwriting and placement, loan syndication and placement, foreign exchange, derivatives, merger and acquisition, and other advisory services. It serves corporate, middle market, and commercial real estate developers and investors. The Consumer Bank segment provides consumer banking products and services related to residential first mortgages, home equity lines and loans, consumer credit cards, and other consumer loans, as well as deposits. The Wealth Management segment offers credit related products, and retirement and savings solutions; and trust and investment management, asset management, and estate planning services to individuals, businesses, governmental institutions, and non-profit entities. It also provides investment and insurance products; low-income housing tax credit corporate fund syndication services; and other specialty financing services. The company was founded in 1971 and is headquartered in Birmingham, Alabama.",
         "fullTimeEmployees":20101,
         "companyOfficers":[
@@ -139,7 +143,7 @@
         "averageVolume":8962080,
         "averageVolume10days":10628390,
         "averageDailyVolume10Day":10628390,
-        "bid":19.48,
+        "bid":20.15,
         "ask":20.17,
         "bidSize":4000,
         "askSize":1400,
@@ -164,6 +168,7 @@
         "heldPercentInstitutions":0.81749,
         "shortRatio":3.66,
         "shortPercentOfFloat":0.0419,
+        "impliedSharesOutstanding":919187968,
         "bookValue":17.098,
         "priceToBook":1.1785004,
         "lastFiscalYearEnd":1703980800,
@@ -176,6 +181,10 @@
         "pegRatio":-11.15,
         "lastSplitFactor":"12346:10000",
         "lastSplitDate":1088640000,
+        "52WeekChange":0.12778091,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.24,
+        "lastDividendDate":1709164800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"RF",
@@ -186,6 +195,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"3fe3de84-275c-3edc-995e-fff999764322",
+        "messageBoardId":"finmb_271409",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":20.15,
         "targetHighPrice":27.0,
@@ -205,4 +215,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

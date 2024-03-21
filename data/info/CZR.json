@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"100 West Liberty Street",
         "address2":"12th Floor",
@@ -9,7 +9,11 @@
         "phone":"775 328 0100",
         "website":"https:\/\/www.caesars.com",
         "industry":"Resorts & Casinos",
+        "industryKey":"resorts-casinos",
+        "industryDisp":"Resorts & Casinos",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Caesars Entertainment, Inc. operates as a gaming and hospitality company. The company owns, leases, or manages domestic properties in 18 states with slot machines, video lottery terminals and e-tables, and hotel rooms, as well as table games, including poker. It also operates and conducts retail and online sports wagering across 31 jurisdictions in North America and operates iGaming in five jurisdictions in North America; sports betting from our retail and online sportsbooks; and other games, such as keno. In addition, the company operates dining venues, bars, nightclubs, lounges, hotels, and entertainment venues; and provides staffing and management services. Caesars Entertainment, Inc. was founded in 1937 and is based in Reno, Nevada.",
         "fullTimeEmployees":51000,
         "companyOfficers":[
@@ -163,6 +167,7 @@
         "heldPercentInstitutions":0.92596,
         "shortRatio":2.42,
         "shortPercentOfFloat":0.045100003,
+        "impliedSharesOutstanding":216300000,
         "bookValue":21.094,
         "priceToBook":1.9735471,
         "lastFiscalYearEnd":1703980800,
@@ -172,10 +177,10 @@
         "trailingEps":3.64,
         "forwardEps":2.48,
         "pegRatio":0.13,
-        "lastSplitFactor":"1:1",
-        "lastSplitDate":1328659200,
         "enterpriseToRevenue":2.949,
         "enterpriseToEbitda":8.91,
+        "52WeekChange":-0.008315504,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"CZR",
@@ -186,6 +191,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"a45af203-cc8f-3f51-b380-342685e333db",
+        "messageBoardId":"finmb_3133890",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":41.63,
         "targetHighPrice":68.0,
@@ -215,4 +221,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.8058
     }
-]
+

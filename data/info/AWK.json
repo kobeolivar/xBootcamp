@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1 Water Street",
         "city":"Camden",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"856 955 4001",
         "website":"https:\/\/www.amwater.com",
-        "industry":"Utilities—Regulated Water",
+        "industry":"Utilities - Regulated Water",
+        "industryKey":"utilities-regulated-water",
+        "industryDisp":"Utilities - Regulated Water",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"American Water Works Company, Inc., through its subsidiaries, provides water and wastewater services in the United States. It offers water and wastewater services to approximately 1,700 communities in 14 states serving approximately 3.5 million active customers. The company serves residential customers; commercial customers, including food and beverage providers, commercial property developers and proprietors, and energy suppliers; fire service and private fire customers; industrial customers, such as large-scale manufacturers, mining, and production operations; public authorities comprising government buildings and other public sector facilities, such as schools and universities; and other utilities and community water and wastewater systems. It also provides water and wastewater services on military installations; and undertakes contracts with municipal customers, primarily to operate and manage water and wastewater facilities, as well as offers other related services. In addition, the company operates approximately 80 surface water treatment plants; 540 groundwater treatment plants; 175 wastewater treatment plants; 53,700 miles of transmission, distribution, and collection mains and pipes; 1,200 groundwater wells; 1,700 water and wastewater pumping stations; 1,100 treated water storage facilities; and 74 dams. The company was founded in 1886 and is headquartered in Camden, New Jersey.",
         "fullTimeEmployees":6500,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":0.91567004,
         "shortRatio":1.56,
         "shortPercentOfFloat":0.0146,
+        "impliedSharesOutstanding":194755008,
         "bookValue":50.311,
         "priceToBook":2.3495855,
         "lastFiscalYearEnd":1703980800,
@@ -180,10 +185,12 @@
         "trailingEps":4.9,
         "forwardEps":5.66,
         "pegRatio":3.01,
-        "lastSplitFactor":"2:1",
-        "lastSplitDate":838339200,
         "enterpriseToRevenue":8.281,
         "enterpriseToEbitda":15.653,
+        "52WeekChange":-0.1362639,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.708,
+        "lastDividendDate":1707264000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"AWK",
@@ -194,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"00dbc48a-a9a9-3544-b52e-fb89b6ae601a",
+        "messageBoardId":"finmb_250885",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":118.21,
         "targetHighPrice":159.0,
@@ -224,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.9417
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1221 Avenue of the Americas",
         "address2":"35th Floor",
@@ -9,7 +9,11 @@
         "phone":"212 584 5100",
         "website":"https:\/\/www.siriusxm.com",
         "industry":"Entertainment",
+        "industryKey":"entertainment",
+        "industryDisp":"Entertainment",
         "sector":"Communication Services",
+        "sectorKey":"communication-services",
+        "sectorDisp":"Communication Services",
         "longBusinessSummary":"Sirius XM Holdings Inc. operates as an audio entertainment company in North America. It operates in two segments, Sirius XM, and Pandora and Off-platform. The company's Sirius XM segment provides music, sports, entertainment, comedy, talk, news, traffic and weather channels, and other content, as well as podcast and infotainment services on subscription fee basis; and live, curated, and exclusive and on demand programming services through satellite radio systems and streamed through applications for mobile and home devices, and other consumer electronic equipment. This segment also distributes satellite radios through automakers and retailers, as well as its website; podcasts, including true crime, news, politics, music, comedy, sports, and entertainment; and offers location-based services through two-way wireless connectivity, including safety, security, convenience, maintenance and data, remote vehicles diagnostic, and stolen or parked vehicle locator services. In addition, this segment provides music channels on the DISH Network satellite television service as a programming package; Travel Link, a suite of data services that include graphical weather, fuel prices, sports schedule and scores, and movie listings; graphic information related to road closings, traffic flow, and incident data for consumers with in-vehicle navigation systems; real-time weather services in vehicles, boats, and planes; and music programming and commercial-free music services for office, restaurants, and other business. Its Pandora and Off-platform segment operates music, comedy, and podcast streaming platform, which offers personalized experience for listener through computers, tablets, mobile devices, vehicle speakers, and connected devices; and provides advertising services. The company was incorporated in 2013 and is headquartered in New York. Sirius XM Holdings Inc. operates as a subsidiary of The Liberty SiriusXM Group.",
         "fullTimeEmployees":5680,
         "companyOfficers":[
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":0.12045,
         "shortRatio":11.73,
         "shortPercentOfFloat":0.2482,
+        "impliedSharesOutstanding":3842459904,
         "bookValue":-0.667,
         "lastFiscalYearEnd":1703980800,
         "nextFiscalYearEnd":1735603200,
@@ -178,6 +183,10 @@
         "pegRatio":1.9,
         "enterpriseToRevenue":2.702,
         "enterpriseToEbitda":9.368,
+        "52WeekChange":0.0720222,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.027,
+        "lastDividendDate":1707350400,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"SIRI",
@@ -188,6 +197,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"5707d3f1-51a8-370a-8ac5-c7a3d09f7c02",
+        "messageBoardId":"finmb_94238",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":3.88,
         "targetHighPrice":7.0,
@@ -216,4 +226,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.347
     }
-]
+

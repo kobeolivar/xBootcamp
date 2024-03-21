@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Three Limited Parkway",
         "city":"Columbus",
@@ -8,7 +8,11 @@
         "phone":"614 415 7000",
         "website":"https:\/\/www.bbwinc.com",
         "industry":"Specialty Retail",
+        "industryKey":"specialty-retail",
+        "industryDisp":"Specialty Retail",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Bath & Body Works, Inc. operates a specialty retailer of home fragrance, body care, and soaps and sanitizer products. It sells its products under the Bath & Body Works, White Barn, and other brand names through retail stores and e-commerce sites located in the United States and Canada, as well as through international stores operated by partners under franchise, license, and wholesale arrangements. The company was formerly known as L Brands, Inc. and changed its name to Bath & Body Works, Inc. in August 2021. Bath & Body Works, Inc. was founded in 1963 and is headquartered in Columbus, Ohio.",
         "companyOfficers":[
             {
@@ -164,6 +168,7 @@
         "heldPercentInstitutions":0.97119004,
         "shortRatio":2.13,
         "shortPercentOfFloat":0.0287,
+        "impliedSharesOutstanding":227278000,
         "bookValue":-7.163,
         "lastFiscalYearEnd":1706918400,
         "nextFiscalYearEnd":1738540800,
@@ -173,8 +178,14 @@
         "trailingEps":3.84,
         "forwardEps":3.72,
         "pegRatio":2.82,
+        "lastSplitFactor":"1237:1000",
+        "lastSplitDate":1627948800,
         "enterpriseToRevenue":2.074,
         "enterpriseToEbitda":9.915,
+        "52WeekChange":0.4002911,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.2,
+        "lastDividendDate":1708560000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BBWI",
@@ -185,6 +196,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"77136431-5a55-3c12-a10c-4d614e140ebe",
+        "messageBoardId":"finmb_285544",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":48.27,
         "targetHighPrice":60.0,
@@ -213,4 +225,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.2642
     }
-]
+

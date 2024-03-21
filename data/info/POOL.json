@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"109 Northpark Boulevard",
         "city":"Covington",
@@ -8,7 +8,11 @@
         "phone":"985 892 5521",
         "website":"https:\/\/www.poolcorp.com",
         "industry":"Industrial Distribution",
+        "industryKey":"industrial-distribution",
+        "industryDisp":"Industrial Distribution",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Pool Corporation distributes swimming pool supplies, equipment, and related leisure products in the United States and internationally. The company offers maintenance products, including chemicals, supplies, and pool accessories; repair and replacement parts for pool equipment, such as cleaners, filters, heaters, pumps, and lights; and building materials, such as concrete, plumbing and electrical components, functional and decorative pool surfaces, decking materials, tiles, hardscapes, and natural stones for pool installations and remodeling. It also provides pool equipment and components for new pool construction and the remodeling of existing pools; irrigation and related products, such as irrigation system components, and professional turf care equipment and supplies; commercial products, including heaters, safety equipment, commercial decking equipment, and commercial pumps and filters. In addition, the company offers fiberglass pools, and hot tubs and packaged pool kits comprising walls, liners, braces, and coping for in-ground and above-ground pools; and other pool construction and recreational products comprising discretionary recreational and related outdoor living products, such as grills and components for outdoor kitchens. It serves swimming pool remodelers and builders; specialty retailers that sell swimming pool supplies; swimming pool repair and service businesses; irrigation construction and landscape maintenance contractors; and commercial pool operators and pool contractors. Pool Corporation was incorporated in 1993 and is headquartered in Covington, Louisiana.",
         "fullTimeEmployees":6000,
         "companyOfficers":[
@@ -144,6 +148,7 @@
         "heldPercentInstitutions":1.06547,
         "shortRatio":11.52,
         "shortPercentOfFloat":0.1331,
+        "impliedSharesOutstanding":38376200,
         "bookValue":34.227,
         "priceToBook":12.24092,
         "lastFiscalYearEnd":1703980800,
@@ -158,6 +163,10 @@
         "lastSplitDate":1095033600,
         "enterpriseToRevenue":3.07,
         "enterpriseToEbitda":21.629,
+        "52WeekChange":0.25883114,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.1,
+        "lastDividendDate":1710288000,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"POOL",
@@ -168,6 +177,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"3225d082-71bd-3b75-add4-8b2a836c8998",
+        "messageBoardId":"finmb_34117",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":418.97,
         "targetHighPrice":425.0,
@@ -198,4 +208,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

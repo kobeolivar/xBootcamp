@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"4250 Congress Street",
         "address2":"Suite 900",
@@ -10,7 +10,11 @@
         "fax":"980 299 5512",
         "website":"https:\/\/www.albemarle.com",
         "industry":"Specialty Chemicals",
+        "industryKey":"specialty-chemicals",
+        "industryDisp":"Specialty Chemicals",
         "sector":"Basic Materials",
+        "sectorKey":"basic-materials",
+        "sectorDisp":"Basic Materials",
         "longBusinessSummary":"Albemarle Corporation develops, manufactures, and markets engineered specialty chemicals worldwide. It operates through three segments: Energy Storage, Specialties and Ketjen. The Energy Storage segment offers lithium compounds, including lithium carbonate, lithium hydroxide, and lithium chloride; technical services for the handling and use of reactive lithium products; and lithium-containing by-products recycling services. The Specialties segment provides bromine-based specialty chemicals, including elemental bromine, alkyl and inorganic bromides, brominated powdered activated carbon, and other bromine fine chemicals; lithium specialties, such as butyllithium and lithium aluminum hydride; develops and manufactures cesium products for the chemical and pharmaceutical industries; and zirconium, barium, and titanium products for pyrotechnical applications that include airbag initiators. The Ketjen segment offers clean fuels technologies (CFT), which is composed of hydroprocessing catalysts (HPC) together with isomerization and akylation catalysts; fluidized catalytic cracking (FCC) catalysts and additives; and performance catalyst solutions (PCS), which is composed of organometallics and curatives. The company serves the energy storage, petroleum refining, consumer electronics, construction, automotive, lubricants, pharmaceuticals, and crop protection markets. Albemarle Corporation was founded in 1887 and is headquartered in Charlotte, North Carolina.",
         "fullTimeEmployees":9000,
         "companyOfficers":[
@@ -129,6 +133,7 @@
         "heldPercentInstitutions":0.95928,
         "shortRatio":3.4,
         "shortPercentOfFloat":0.107,
+        "impliedSharesOutstanding":117510000,
         "bookValue":80.202,
         "priceToBook":1.556819,
         "lastFiscalYearEnd":1703980800,
@@ -142,6 +147,10 @@
         "lastSplitDate":1172793600,
         "enterpriseToRevenue":1.901,
         "enterpriseToEbitda":20.383,
+        "52WeekChange":-0.4228807,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.4,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"ALB",
@@ -152,6 +161,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"e3252e1a-8c33-330a-a3fa-c99574706989",
+        "messageBoardId":"finmb_18671",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":124.86,
         "targetHighPrice":216.0,
@@ -181,4 +191,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.2107
     }
-]
+

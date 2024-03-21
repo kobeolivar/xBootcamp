@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"433 West Van Buren Street",
         "city":"Chicago",
@@ -8,7 +8,11 @@
         "phone":"312 786 5600",
         "website":"https:\/\/www.cboe.com",
         "industry":"Financial Data & Stock Exchanges",
+        "industryKey":"financial-data-stock-exchanges",
+        "industryDisp":"Financial Data & Stock Exchanges",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Cboe Global Markets, Inc., through its subsidiaries, operates as an options exchange worldwide. It operates through six segments: Options, North American Equities, Europe and Asia Pacific, Futures, Global FX, and Digital. The Options segment trades in listed market indices. The North American Equities segment trades in listed U.S. and Canadian equities. This segment also offers exchange-traded products (ETP) transaction and listing services. The Europe and Asia Pacific segment provides pan-European listed equities and derivatives transaction services, ETPs, exchange-traded commodities, and international depository receipts, as well as ETP listings and clearing services. The Futures segment trades in futures. The Global FX segment provides institutional foreign exchange (FX) trading and non-deliverable forward FX transactions services. The Digital segment offers Cboe Digital, an operator of the United States based digital asset spot market and a regulated futures exchange; Cboe Clear Digital, a regulated clearinghouse; licensing of proprietary market data; and access and capacity services. The company has strategic relationships with S&P Dow Jones Indices, LLC; IHS Markit Ltd.; DJI Opco, LLC; Frank Russell Company; FTSE International Limited; and MSCI Inc. The company was formerly known as CBOE Holdings, Inc. and changed its name to Cboe Global Markets, Inc. in October 2017. Cboe Global Markets, Inc. was founded in 1973 and is headquartered in Chicago, Illinois.",
         "fullTimeEmployees":1647,
         "companyOfficers":[
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.84871,
         "shortRatio":2.87,
         "shortPercentOfFloat":0.0298,
+        "impliedSharesOutstanding":105582000,
         "bookValue":37.763,
         "priceToBook":4.8777905,
         "lastFiscalYearEnd":1703980800,
@@ -177,6 +182,10 @@
         "pegRatio":2.68,
         "enterpriseToRevenue":5.394,
         "enterpriseToEbitda":16.953,
+        "52WeekChange":0.4404781,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.55,
+        "lastDividendDate":1701216000,
         "exchange":"BTS",
         "quoteType":"EQUITY",
         "symbol":"CBOE",
@@ -187,6 +196,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"41c5ab98-5362-3f93-805f-897da1aab9dc",
+        "messageBoardId":"finmb_32624297",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":184.2,
         "targetHighPrice":211.0,
@@ -217,4 +227,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

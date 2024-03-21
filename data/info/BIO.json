@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1000 Alfred Nobel Drive",
         "city":"Hercules",
@@ -9,7 +9,11 @@
         "fax":"510 741 5817",
         "website":"https:\/\/www.bio-rad.com",
         "industry":"Medical Devices",
+        "industryKey":"medical-devices",
+        "industryDisp":"Medical Devices",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Bio-Rad Laboratories, Inc. manufactures and distributes life science research and clinical diagnostic products in the United States, Europe, Asia, Canada, and Latin America. It operates through two segments, Life Science and Clinical Diagnostics. The company develops, manufactures, and markets instruments, systems, reagents, and consumables to separate, purify, characterize, and quantitate biological materials such as cells, proteins, and nucleic acids for proteomics, genomics, biopharmaceutical production, cellular biology, and food safety markets. It also designs, manufactures, markets, and supports test systems, informatics systems, test kits, and specialized quality controls for hospitals, diagnostic reference, transfusion, and physician office laboratories. The company offers its products through its direct sales force, as well as through distributors, agents, brokers, and resellers. Bio-Rad Laboratories, Inc. was founded in 1952 and is headquartered in Hercules, California.",
         "fullTimeEmployees":8030,
         "companyOfficers":[
@@ -156,6 +160,7 @@
         "heldPercentInstitutions":0.81678003,
         "shortRatio":2.15,
         "shortPercentOfFloat":0.0249,
+        "impliedSharesOutstanding":28537800,
         "bookValue":306.508,
         "priceToBook":1.1483877,
         "lastFiscalYearEnd":1703980800,
@@ -170,6 +175,8 @@
         "lastSplitDate":1015545600,
         "enterpriseToRevenue":3.515,
         "enterpriseToEbitda":18.352,
+        "52WeekChange":-0.2630391,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BIO",
@@ -180,6 +187,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"6cebea0a-fe88-3cb6-af78-b738eb7ab8a1",
+        "messageBoardId":"finmb_255743",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":351.99,
         "targetHighPrice":480.0,
@@ -210,4 +218,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

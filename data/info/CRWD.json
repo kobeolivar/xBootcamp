@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"206 East 9th Street",
         "address2":"Suite 1400",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"888 512 8906",
         "website":"https:\/\/www.crowdstrike.com",
-        "industry":"Software—Infrastructure",
+        "industry":"Software - Infrastructure",
+        "industryKey":"software-infrastructure",
+        "industryDisp":"Software - Infrastructure",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"CrowdStrike Holdings, Inc. provides cybersecurity solutions in the United States and internationally. Its unified platform offers cloud-delivered protection of endpoints, cloud workloads, identity, and data. The company offers corporate endpoint and cloud workload security, managed security, security and vulnerability management, IT operations management, identity protection, SIEM and log management, threat intelligence, data protection, security orchestration, automation and response and AI powered workflow automation, and securing generative AI workload services. It primarily sells subscriptions to its Falcon platform and cloud modules. The company was incorporated in 2011 and is headquartered in Austin, Texas.",
         "fullTimeEmployees":7925,
         "companyOfficers":[
@@ -160,6 +164,7 @@
         "heldPercentInstitutions":0.76538,
         "shortRatio":1.75,
         "shortPercentOfFloat":0.025899999,
+        "impliedSharesOutstanding":241868992,
         "bookValue":9.526,
         "priceToBook":34.585346,
         "lastFiscalYearEnd":1706659200,
@@ -171,6 +176,8 @@
         "pegRatio":2.63,
         "enterpriseToRevenue":25.007,
         "enterpriseToEbitda":721.137,
+        "52WeekChange":1.4295378,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"CRWD",
@@ -181,6 +188,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"91e696a0-f87a-3aaf-b2cd-1bd49fbc1d92",
+        "messageBoardId":"finmb_420347413",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":329.46,
         "targetHighPrice":435.0,
@@ -210,4 +218,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.4232
     }
-]
+

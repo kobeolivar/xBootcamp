@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1049 Camino Dos Rios",
         "city":"Thousand Oaks",
@@ -8,7 +8,11 @@
         "phone":"805 373 4545",
         "website":"https:\/\/www.teledyne.com",
         "industry":"Scientific & Technical Instruments",
+        "industryKey":"scientific-technical-instruments",
+        "industryDisp":"Scientific & Technical Instruments",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Teledyne Technologies Incorporated, together with its subsidiaries, provides enabling technologies for industrial growth markets in the United States and internationally. Its Digital Imaging segment provides visible spectrum sensors and digital cameras; and infrared, ultraviolet, visible, and X-ray spectra; as well as micro electromechanical systems and semiconductors, including analog-to-digital and digital-to-analog converters. This segment also offers cooled and uncooled infrared or thermal products, including sensors, camera cores, and camera systems; high-resolution, low-dose X-ray sensors, high-power microwave, and high-energy X-ray subsystems; and instruments for the measurement of physical properties and maritime products; as well as develops and manufactures multi-spectrum electro-optic\/infrared imaging systems and associated products, such as lasers, optics, and radars, CBRNE (Chemical, Biological, Radiological, Nuclear and Explosive detectors), and unmanned air and ground systems. The company's Instrumentation segment offers monitoring, control, and electronic test and measurement equipment; and power and communications connectivity devices for distributed instrumentation systems and sensor networks. The company's Aerospace and Defense Electronics segment provides electronic components and subsystems, data acquisition and communications components and equipment, harsh environment interconnects, general aviation batteries, and other components; and onboard avionics systems and ground-based applications, aircraft data and connectivity solutions, hardware systems, and software applications. Its Engineered Systems segment offers systems engineering and integration, technology development, and manufacturing solutions for defense, space, environmental, and energy applications; and designs and manufactures electrochemical energy systems and electronics for military applications. The company was founded in 1960 and is headquartered in Thousand Oaks, California.",
         "fullTimeEmployees":14900,
         "companyOfficers":[
@@ -146,6 +150,7 @@
         "heldPercentInstitutions":0.92977995,
         "shortRatio":3.49,
         "shortPercentOfFloat":0.0198,
+        "impliedSharesOutstanding":47381300,
         "bookValue":194.82,
         "priceToBook":2.1740067,
         "lastFiscalYearEnd":1703980800,
@@ -158,6 +163,8 @@
         "pegRatio":3.34,
         "enterpriseToRevenue":4.051,
         "enterpriseToEbitda":16.746,
+        "52WeekChange":0.012861013,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"TDY",
@@ -168,6 +175,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"271dd230-fa4c-35f5-92f8-ac114b8f6214",
+        "messageBoardId":"finmb_406526",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":423.54,
         "targetHighPrice":537.0,
@@ -198,4 +206,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

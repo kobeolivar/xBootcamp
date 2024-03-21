@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1211 Avenue of the Americas",
         "city":"New York",
@@ -8,7 +8,11 @@
         "phone":"212 852 7000",
         "website":"https:\/\/www.foxcorporation.com",
         "industry":"Entertainment",
+        "industryKey":"entertainment",
+        "industryDisp":"Entertainment",
         "sector":"Communication Services",
+        "sectorKey":"communication-services",
+        "sectorDisp":"Communication Services",
         "longBusinessSummary":"Fox Corporation operates as a news, sports, and entertainment company in the United States (U.S.). The company operates through Cable Network Programming; Television; and Other, Corporate and Eliminations segments. The Cable Network Programming segment produces and licenses news, business news, and sports content for distribution through traditional cable television systems, direct broadcast satellite operators, and telecommunication companies, virtual multi-channel video programming distributors, and other digital platforms primarily in the U.S. Television segment produces, acquires, markets, and distributes programming through the FOX broadcast network, advertising supported video-on-demand service Tubi, and power broadcast television stations including duopolies and other digital platform; and engages in production of content for company and third parties. Other, Corporate and Eliminations segment comprises the FOX Studio Lot which provides television and film production services including office space, studio operation services, and facility operations; and Credible, a U.S. consumer finance marketplace. The company was incorporated in 2018 and is headquartered in New York, New York.",
         "fullTimeEmployees":10400,
         "companyOfficers":[
@@ -164,6 +168,7 @@
         "heldPercentInstitutions":0.54985,
         "shortRatio":1.99,
         "shortPercentOfFloat":0.0218,
+        "impliedSharesOutstanding":497782016,
         "bookValue":21.519,
         "priceToBook":1.291417,
         "lastFiscalYearEnd":1688083200,
@@ -175,6 +180,10 @@
         "forwardEps":2.35,
         "enterpriseToRevenue":1.285,
         "enterpriseToEbitda":6.791,
+        "52WeekChange":-0.10773212,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.26,
+        "lastDividendDate":1709596800,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"FOX",
@@ -185,6 +194,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"1cbdb804-3b37-37c9-8a83-582f9218c8b4",
+        "messageBoardId":"finmb_546623668",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":27.79,
         "recommendationKey":"none",
@@ -209,4 +219,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":14.1479
     }
-]
+

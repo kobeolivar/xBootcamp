@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"5200 Illumina Way",
         "city":"San Diego",
@@ -9,7 +9,11 @@
         "fax":"858 202 4545",
         "website":"https:\/\/www.illumina.com",
         "industry":"Diagnostics & Research",
+        "industryKey":"diagnostics-research",
+        "industryDisp":"Diagnostics & Research",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Illumina, Inc. offers sequencing- and array-based solutions for genetic and genomic analysis in the United States, Singapore, the United Kingdom, and internationally. It operates through Core Illumina and GRAIL segments. The company offers sequencing and array-based instruments and consumables, which include reagents, flow cells, and library preparation; whole-genome sequencing kits, which sequence entire genomes of various size and complexity; and targeted resequencing kits, which sequence exomes, specific genes, and RNA or other genomic regions of interest. It also provides whole-genome sequencing, genotyping, noninvasive prenatal testing, and product support services; and Galleri, a multi-cancer early detection test. In addition, the company is developing solutions to help accelerate cancer diagnoses, blood-based detection for minimal residual disease, and other post-diagnostic applications. The company serves genomic research centers, academic institutions, government laboratories, and hospitals, as well as pharmaceutical, biotechnology, commercial molecular diagnostic laboratories, and consumer genomics companies. It markets and distributes its products directly to customers, as well as through life-science distributors. Illumina, Inc. was incorporated in 1998 and is based in San Diego, California.",
         "fullTimeEmployees":10590,
         "companyOfficers":[
@@ -158,6 +162,7 @@
         "heldPercentInstitutions":0.94547,
         "shortRatio":2.8,
         "shortPercentOfFloat":0.0349,
+        "impliedSharesOutstanding":158900000,
         "bookValue":36.132,
         "priceToBook":3.8041072,
         "lastFiscalYearEnd":1703980800,
@@ -171,6 +176,8 @@
         "lastSplitDate":1222128000,
         "enterpriseToRevenue":4.967,
         "enterpriseToEbitda":66.189,
+        "52WeekChange":-0.38607973,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"ILMN",
@@ -181,6 +188,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"c76f8ba3-209c-315d-a776-1d132bd357c6",
+        "messageBoardId":"finmb_29753",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":137.45,
         "targetHighPrice":258.0,
@@ -210,4 +218,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

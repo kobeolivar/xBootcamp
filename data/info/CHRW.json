@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"14701 Charlson Road",
         "city":"Eden Prairie",
@@ -8,7 +8,11 @@
         "phone":"952 683 2800",
         "website":"https:\/\/www.chrobinson.com",
         "industry":"Integrated Freight & Logistics",
+        "industryKey":"integrated-freight-logistics",
+        "industryDisp":"Integrated Freight & Logistics",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"C.H. Robinson Worldwide, Inc., together with its subsidiaries, provides freight transportation services, and related logistics and supply chain services in the United States and internationally. It operates through two segments: North American Surface Transportation and Global Forwarding. The company offers transportation and logistics services, such as truckload, less than truckload transportation brokerage services, which include the shipment of single or multiple pallets of freight; intermodal transportation that comprises the shipment service of freight in containers or trailers by a combination of truck and rail; and non-vessel operating common carrier and freight forwarding services, as well as organizes air shipments and provides door-to-door services. It also provides customs brokerage services; and other logistics services, such as fee-based managed, warehousing, small parcel, and other services. It has contractual relationships with approximately 45,000 transportation companies, including motor carriers, railroads, and ocean and air carriers. In addition, the company is involved in the buying, selling, and\/or marketing of fresh fruits, vegetables, and other value-added perishable items under the Robinson Fresh brand name. Further, the company offers transportation management services or managed TMS; and other surface transportation services. It provides its fresh produce to grocery retailers, restaurants, produce wholesalers, and foodservice distributors through a network of independent produce growers and suppliers. The company was founded in 1905 and is headquartered in Eden Prairie, Minnesota.",
         "fullTimeEmployees":15246,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":0.96362996,
         "shortRatio":4.29,
         "shortPercentOfFloat":0.0889,
+        "impliedSharesOutstanding":116891000,
         "bookValue":12.15,
         "priceToBook":6.119342,
         "lastFiscalYearEnd":1703980800,
@@ -184,6 +189,10 @@
         "lastSplitDate":1129507200,
         "enterpriseToRevenue":0.594,
         "enterpriseToEbitda":17.646,
+        "52WeekChange":-0.22051227,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.61,
+        "lastDividendDate":1709164800,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"CHRW",
@@ -194,6 +203,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"b52e1320-f384-3b8d-9e63-4b201df63310",
+        "messageBoardId":"finmb_368470",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":74.35,
         "targetHighPrice":104.0,
@@ -224,4 +234,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.621
     }
-]
+

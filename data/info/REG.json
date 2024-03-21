@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"One Independent Drive",
         "address2":"Suite 114",
@@ -9,8 +9,12 @@
         "phone":"904 598 7000",
         "fax":"904 634 3428",
         "website":"https:\/\/www.regencycenters.com",
-        "industry":"REIT—Retail",
+        "industry":"REIT - Retail",
+        "industryKey":"reit-retail",
+        "industryDisp":"REIT - Retail",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"Regency Centers is a preeminent national owner, operator, and developer of shopping centers located in suburban trade areas with compelling demographics. Our portfolio includes thriving properties merchandised with highly productive grocers, restaurants, service providers, and best-in-class retailers that connect to their neighborhoods, communities, and customers. Operating as a fully integrated real estate company, Regency Centers is a qualified real estate investment trust (REIT) that is self-administered, self-managed, and an S&P 500 Index member.",
         "fullTimeEmployees":492,
         "companyOfficers":[
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.98286,
         "shortRatio":1.79,
         "shortPercentOfFloat":0.016,
+        "impliedSharesOutstanding":185880992,
         "bookValue":36.972,
         "priceToBook":1.6425943,
         "lastFiscalYearEnd":1703980800,
@@ -181,6 +186,10 @@
         "pegRatio":-5.5,
         "enterpriseToRevenue":11.53,
         "enterpriseToEbitda":18.811,
+        "52WeekChange":0.062974095,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.67,
+        "lastDividendDate":1710201600,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"REG",
@@ -191,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"f4cf3fe4-b672-3433-aeec-ec055742d449",
+        "messageBoardId":"finmb_816889",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":60.73,
         "targetHighPrice":75.0,
@@ -221,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":6.6075
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"900 Cottage Grove Road",
         "city":"Bloomfield",
@@ -142,7 +142,7 @@
         "averageVolume":1647570,
         "averageVolume10days":1681160,
         "averageDailyVolume10Day":1681160,
-        "bid":346.35,
+        "bid":346.09,
         "ask":360.97,
         "bidSize":800,
         "askSize":900,
@@ -228,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.9022
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Mühlentalstrasse 2",
         "city":"Schaffhausen",
@@ -7,7 +7,11 @@
         "phone":"41 52 630 1600",
         "website":"https:\/\/www.garmin.com",
         "industry":"Scientific & Technical Instruments",
+        "industryKey":"scientific-technical-instruments",
+        "industryDisp":"Scientific & Technical Instruments",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Garmin Ltd. designs, develops, manufactures, markets, and distributes a range of wireless devices worldwide. Its Fitness segment offers running and multi-sport watches; cycling products; smartwatch devices; scales and monitors; and fitness accessories. This segment also provides Garmin Connect and Garmin Connect Mobile, which are web and mobile platforms where users can track and analyze their fitness, activities and workouts, and wellness data; and Connect IQ, an application development platform. The company's Outdoor segment offers adventure watches, outdoor handhelds and satellite communicators, golf devices, consumer automotive devices, and dog devices, as well as InReach and Gramin response communication device. Its Aviation segment designs, manufactures, and markets various aircraft avionics solutions, including integrated flight decks, electronic flight displays and instrumentation, navigation and communication products, automatic flight control systems and safety-enhancing technologies, audio control systems, engine indication systems, traffic awareness and avoidance solutions, ADS-B and transponders, weather information and avoidance solutions, datalink and connectivity solutions, and various services. The company's Marine segment provides chartplotters and multi-function displays, cartography products, fishfinders, sonar products, autopilot systems, radars, compliant instrument displays and sensors, VHF communication radios, handhelds and wearable devices, sailing products, audio products and accessories, digital switching products, and trolling motors. Its Auto segment offers embedded domain controllers and infotainment units; and software, map database, cameras, wearables, and automotive solutions. The company sells its products through independent retailers, dealers, distributors, installation and repair shops, and original equipment manufacturers, as well as online webshop. Garmin Ltd. was founded in 1989 and is based in Schaffhausen, Switzerland.",
         "fullTimeEmployees":19900,
         "companyOfficers":[
@@ -142,7 +146,7 @@
         "averageVolume":967511,
         "averageVolume10days":1354770,
         "averageDailyVolume10Day":1354770,
-        "bid":146.29,
+        "bid":146.37,
         "ask":150.0,
         "bidSize":900,
         "askSize":1300,
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":0.54777,
         "shortRatio":2.13,
         "shortPercentOfFloat":0.0145000005,
+        "impliedSharesOutstanding":191776992,
         "bookValue":36.564,
         "priceToBook":4.051526,
         "lastFiscalYearEnd":1703894400,
@@ -182,6 +187,10 @@
         "lastSplitDate":1155686400,
         "enterpriseToRevenue":10.411,
         "enterpriseToEbitda":42.869,
+        "52WeekChange":0.54253864,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.73,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"GRMN",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"c68259b0-048b-3945-b0cc-9e170f73cc39",
+        "messageBoardId":"finmb_598655",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":148.14,
         "targetHighPrice":140.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":5.7567
     }
-]
+

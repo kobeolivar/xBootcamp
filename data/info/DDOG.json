@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"620 8th Avenue",
         "address2":"45th Floor",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"866 329 4466",
         "website":"https:\/\/www.datadoghq.com",
-        "industry":"Software—Application",
+        "industry":"Software - Application",
+        "industryKey":"software-application",
+        "industryDisp":"Software - Application",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Datadog, Inc. operates an observability and security platform for cloud applications in North America and internationally. The company's products comprise infrastructure and application performance monitoring, log management, digital experience monitoring, continuous profiler, database monitoring, data streams and universal service monitoring, network monitoring, incident management, workflow automation, observability pipelines, cloud cost and cloud security management, application security management, cloud SIEM, sensitive data scanner, and CI visibility. Datadog, Inc. was incorporated in 2010 and is headquartered in New York, New York.",
         "fullTimeEmployees":5200,
         "companyOfficers":[
@@ -165,6 +169,7 @@
         "heldPercentInstitutions":0.79889,
         "shortRatio":2.04,
         "shortPercentOfFloat":0.0363,
+        "impliedSharesOutstanding":331873984,
         "bookValue":6.117,
         "priceToBook":20.085009,
         "lastFiscalYearEnd":1703980800,
@@ -176,6 +181,8 @@
         "pegRatio":5.88,
         "enterpriseToRevenue":18.458,
         "enterpriseToEbitda":13272.29,
+        "52WeekChange":0.8303677,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"DDOG",
@@ -186,6 +193,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"085d3cdc-4322-3ea5-9645-762cfc47ec54",
+        "messageBoardId":"finmb_134521275",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":122.86,
         "targetHighPrice":230.0,
@@ -215,4 +223,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.1481
     }
-]
+

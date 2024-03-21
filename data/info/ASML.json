@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"De Run 6501",
         "city":"Veldhoven",
@@ -7,7 +7,11 @@
         "phone":"31 48 0235 0934",
         "website":"https:\/\/www.asml.com",
         "industry":"Semiconductor Equipment & Materials",
+        "industryKey":"semiconductor-equipment-materials",
+        "industryDisp":"Semiconductor Equipment & Materials",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"ASML Holding N.V. develops, produces, markets, sells, and services advanced semiconductor equipment systems for chipmakers. It offers advanced semiconductor equipment systems, including lithography, metrology, and inspection systems. The company also provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography solutions to manufacture various range of semiconductor nodes and technologies. In addition, it offers metrology and inspection systems, including YieldStar optical metrology systems to assess the quality of patterns on the wafers; and HMI electron beam solutions to locate and analyze individual chip defects. Further, the company provides computational lithography solutions, and lithography systems and control software solutions; and refurbishes and upgrades lithography systems, as well as offers customer support and related services. It operates in Japan, South Korea, Singapore, Taiwan, China, rest of Asia, the Netherlands, rest of Europe, the Middle East, Africa, and the United States. The company was formerly known as ASM Lithography Holding N.V. and changed its name to ASML Holding N.V. in 2001. ASML Holding N.V. was founded in 1984 and is headquartered in Veldhoven, the Netherlands.",
         "fullTimeEmployees":40309,
         "companyOfficers":[
@@ -165,6 +169,7 @@
         "heldPercentInsiders":0.00002,
         "heldPercentInstitutions":0.19464001,
         "shortRatio":0.54,
+        "impliedSharesOutstanding":404980992,
         "bookValue":34.193,
         "priceToBook":28.976397,
         "lastFiscalYearEnd":1703980800,
@@ -175,10 +180,14 @@
         "trailingEps":21.65,
         "forwardEps":30.53,
         "pegRatio":1.94,
-        "lastSplitFactor":"77:100",
-        "lastSplitDate":1354147200,
+        "lastSplitFactor":"8:9",
+        "lastSplitDate":1191196800,
         "enterpriseToRevenue":13.787,
         "enterpriseToEbitda":39.176,
+        "52WeekChange":0.46187663,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.556,
+        "lastDividendDate":1707091200,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"ASML",
@@ -189,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"2ba52262-559d-3b17-bb19-4711bad6d978",
+        "messageBoardId":"finmb_388904",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":990.79,
         "targetHighPrice":1116.77,
@@ -219,4 +229,4 @@
         "financialCurrency":"EUR",
         "trailingPegRatio":2.8708
     }
-]
+

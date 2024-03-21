@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"600 Riverpark Drive",
         "city":"North Reading",
@@ -8,7 +8,11 @@
         "phone":"978 370 2700",
         "website":"https:\/\/www.teradyne.com",
         "industry":"Semiconductor Equipment & Materials",
+        "industryKey":"semiconductor-equipment-materials",
+        "industryDisp":"Semiconductor Equipment & Materials",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Teradyne, Inc. designs, develops, manufactures, and sells automated test systems and robotics products worldwide. It operates through four segments; Semiconductor Test, System Test, Robotics, and Wireless Test. The Semiconductor Test segment offers products and services for wafer level and device package testing of semiconductor devices in automotive, industrial, communications, consumer, smartphones, cloud, computer and electronic game, and other applications. This segment also provides FLEX test platform systems; J750 test system to address the volume semiconductor devices, including microcontrollers; Magnum platform that tests memory devices, such as flash memory and DRAM; and ETS platform for semiconductor manufacturers, and assembly and test subcontractors in the analog\/mixed signal markets. It serves integrated device manufacturers that integrate the fabrication of silicon wafers into their business; fabless companies that outsource the manufacturing of silicon wafers; foundries; and semiconductor assembly and test providers. The System Test segment offers defense\/aerospace test instrumentation and systems; storage and system level test systems; and circuit-board test and inspection systems. The Wireless Test segment provides wireless test solutions for silicon validation, wireless module manufacturing, and wireless end device manufacturing under the LitePoint brand. This segment also offers IQxel-MX and IQxel-MW7G series products for edge measurement performance in the manufacturing of connectivity products; IQxstream-5G and IQgig-5G family products to support 4G and 5G technologies; and IQgig-UWB+ for certification and manufacturing test support for ultra wideband products. The Robotics segment provides collaborative robotic arms, autonomous mobile robots, and advanced robotic control software for manufacturing, logistics, and industrial customers. The company was incorporated in 1960 and is headquartered in North Reading, Massachusetts.",
         "fullTimeEmployees":6500,
         "companyOfficers":[
@@ -160,6 +164,7 @@
         "heldPercentInstitutions":1.0779,
         "shortRatio":2.78,
         "shortPercentOfFloat":0.0396,
+        "impliedSharesOutstanding":153080992,
         "bookValue":16.542,
         "priceToBook":6.737396,
         "lastFiscalYearEnd":1703980800,
@@ -174,6 +179,10 @@
         "lastSplitDate":936144000,
         "enterpriseToRevenue":5.851,
         "enterpriseToEbitda":24.952,
+        "52WeekChange":-0.0046464205,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.12,
+        "lastDividendDate":1707955200,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"TER",
@@ -184,6 +193,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"6797ee0d-e4e6-3451-9b6d-d0cf4ab28e88",
+        "messageBoardId":"finmb_94728",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":111.45,
         "targetHighPrice":140.0,
@@ -214,4 +224,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.3506
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"251 Ballardvale Street",
         "city":"Wilmington",
@@ -8,7 +8,11 @@
         "phone":"781 222 6000",
         "website":"https:\/\/www.criver.com",
         "industry":"Diagnostics & Research",
+        "industryKey":"diagnostics-research",
+        "industryDisp":"Diagnostics & Research",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Charles River Laboratories International, Inc. provides drug discovery, non-clinical development, and safety testing services in the United States, Europe, Canada, the Asia Pacific, and internationally. It operates through three segments: Research Models and Services (RMS), Discovery and Safety Assessment (DSA), and Manufacturing Solutions (Manufacturing). The RMS segment produces and sells rodents, and purpose-bred rats and mice for use by researchers. This segment also provides a range of services to assist its clients in supporting the use of research models in research and screening pre-clinical drug candidates, including research models, genetically engineered models and services, insourcing solutions, and research animal diagnostic services. The DSA segment offers early and in vivo discovery services for the identification and validation of novel targets, chemical compounds, and antibodies through delivery of preclinical drug and therapeutic candidates ready for safety assessment; and safety assessment services, such as toxicology, pathology, safety pharmacology, bioanalysis, drug metabolism, and pharmacokinetics services. The Manufacturing segment provides in vitro methods for conventional and rapid quality control testing of sterile and non-sterile pharmaceuticals and consumer products. This segment also offers specialized testing of biologics that are outsourced by pharmaceutical and biotechnology companies. It also provides contract vivarium operation services to biopharmaceutical clients. The company was founded in 1947 and is headquartered in Wilmington, Massachusetts.",
         "fullTimeEmployees":20400,
         "companyOfficers":[
@@ -159,6 +163,7 @@
         "heldPercentInstitutions":1.0305899,
         "shortRatio":2.82,
         "shortPercentOfFloat":0.039,
+        "impliedSharesOutstanding":51349800,
         "bookValue":70.063,
         "priceToBook":3.90263,
         "lastFiscalYearEnd":1703894400,
@@ -171,6 +176,8 @@
         "pegRatio":2.59,
         "enterpriseToRevenue":4.04,
         "enterpriseToEbitda":17.193,
+        "52WeekChange":0.38438904,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"CRL",
@@ -181,6 +188,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"3967529a-ede8-32eb-b408-a3032696a9fe",
+        "messageBoardId":"finmb_91093",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":273.43,
         "targetHighPrice":290.0,
@@ -211,4 +219,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.9142
     }
-]
+

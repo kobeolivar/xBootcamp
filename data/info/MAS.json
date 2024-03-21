@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"17450 College Parkway",
         "city":"Livonia",
@@ -9,7 +9,11 @@
         "fax":"313 792 4177",
         "website":"https:\/\/www.masco.com",
         "industry":"Building Products & Equipment",
+        "industryKey":"building-products-equipment",
+        "industryDisp":"Building Products & Equipment",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Masco Corporation designs, manufactures, and distributes home improvement and building products in North America, Europe, and internationally. The company's Plumbing Products segment offers faucets, showerheads, handheld showers, valves, bath hardware and accessories, bathing units, shower bases and enclosures, sinks, toilets, acrylic tubs, shower trays, spas, exercise pools, and fitness systems; brass, copper, and composite plumbing system components; connected water products; thermoplastic solutions, extruded plastic profiles, specialized fabrications, and PEX tubing products; and other non-decorative plumbing products. This segment provides its products under the DELTA, BRIZO, PEERLESS, HANSGROHE, AXOR, KRAUS, EASY DRAIN, STEAMIST, ELITESTEAM, GINGER, NEWPORT BRASS, BRASSTECH, WALTEC, BRISTAN, HERITAGE, MIROLIN, HOT SPRING, CALDERA, FREEFLOW SPAS, FANTASY SPAS, ENDLESS POOLS, BRASSCRAFT, PLUMB SHOP, COBRA, COBRA PRO, and MASTER PLUMBER brands. Its Decorative Architectural Products segment offers paints, primers, specialty coatings, stains, and waterproofing products, as well as paint applicators and accessories; cabinet and door hardware, functional hardware, wall plates, hook and rail products, closet organization systems, and picture hanging accessories; decorative bath hardware, mirrors, and shower accessories and doors; and decorative indoor and outdoor lighting fixtures, ceiling fans, landscape lighting, and LED lighting systems. This segment provides its products under the BEHR, KILZ, WHIZZ, Elder & Jenks, LIBERTY, BRAINERD, FRANKLIN BRASS, KICHLER, and ÉLAN brands. It sells its products to the plumbing, heating, and hardware wholesalers; home centers and online retailers; hardware stores; electrical and landscape distributors; lighting showrooms; building supply outlets; and other mass merchandisers. Masco Corporation was incorporated in 1929 and is headquartered in Livonia, Michigan.",
         "fullTimeEmployees":18000,
         "companyOfficers":[
@@ -119,6 +123,7 @@
         "heldPercentInstitutions":0.98747003,
         "shortRatio":1.65,
         "shortPercentOfFloat":0.0182,
+        "impliedSharesOutstanding":219764992,
         "bookValue":-0.571,
         "lastFiscalYearEnd":1703980800,
         "nextFiscalYearEnd":1735603200,
@@ -132,6 +137,10 @@
         "lastSplitDate":1435708800,
         "enterpriseToRevenue":2.461,
         "enterpriseToEbitda":12.927,
+        "52WeekChange":0.57500005,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.29,
+        "lastDividendDate":1708473600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"MAS",
@@ -142,6 +151,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"da2095b2-87cd-3add-81d6-3933d7ec428d",
+        "messageBoardId":"finmb_181478",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":78.18,
         "targetHighPrice":89.0,
@@ -171,4 +181,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.8511
     }
-]
+

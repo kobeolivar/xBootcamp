@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3311 East Old Shakopee Road",
         "city":"Minneapolis",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"952 853 8100",
         "website":"https:\/\/www.dayforce.com",
-        "industry":"Software—Application",
+        "industry":"Software - Application",
+        "industryKey":"software-application",
+        "industryDisp":"Software - Application",
         "sector":"Technology",
+        "sectorKey":"technology",
+        "sectorDisp":"Technology",
         "longBusinessSummary":"Dayforce Inc., together with its subsidiaries, operates as a human capital management (HCM) software company in the United States, Canada, and internationally. It offers Dayforce, a cloud HCM platform that provides human resources, payroll and tax, workforce management, wallet, benefits, and talent intelligence functionalities; and Powerpay, a cloud HR and payroll solution for the small business market. The company also provides payroll and payroll-related services; and implementation and professional services. It sells its solutions through direct sales force and third-party channels. The company was formerly known as Ceridian HCM Holding Inc. and changed its name to Dayforce Inc. in February 2024. Dayforce Inc. was founded in 1992 and is headquartered in Minneapolis, Minnesota.",
         "fullTimeEmployees":9084,
         "companyOfficers":[
@@ -162,6 +166,7 @@
         "heldPercentInstitutions":1.1593801,
         "shortRatio":6.08,
         "shortPercentOfFloat":0.0979,
+        "impliedSharesOutstanding":159211008,
         "lastFiscalYearEnd":1703980800,
         "nextFiscalYearEnd":1735603200,
         "mostRecentQuarter":1703980800,
@@ -171,6 +176,8 @@
         "pegRatio":1.87,
         "enterpriseToRevenue":7.591,
         "enterpriseToEbitda":53.975,
+        "52WeekChange":-0.0002894402,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"DAY",
@@ -181,6 +188,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"5b1d59b5-451c-36af-b65a-b1bc2713cfb4",
+        "messageBoardId":"finmb_246737890",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":70.89,
         "targetHighPrice":95.0,
@@ -210,4 +218,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

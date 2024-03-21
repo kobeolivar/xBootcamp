@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"45 Glover Avenue",
         "address2":"7th Floor",
@@ -9,7 +9,11 @@
         "phone":"203 810 1000",
         "website":"https:\/\/www.factset.com",
         "industry":"Financial Data & Stock Exchanges",
+        "industryKey":"financial-data-stock-exchanges",
+        "industryDisp":"Financial Data & Stock Exchanges",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"FactSet Research Systems Inc., a financial data company, provides integrated financial information and analytical applications to the investment community in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company delivers insight and information through the workflow solutions of research, analytics and trading, content and technology solutions, and wealth. It serves portfolio managers, investment banks, asset managers, wealth advisors, corporate clients, and other financial services entities. FactSet Research Systems Inc. was founded in 1978 and is headquartered in Norwalk, Connecticut.",
         "fullTimeEmployees":12515,
         "companyOfficers":[
@@ -174,6 +178,7 @@
         "heldPercentInstitutions":0.93247,
         "shortRatio":5.66,
         "shortPercentOfFloat":0.0364,
+        "impliedSharesOutstanding":38086400,
         "bookValue":44.686,
         "priceToBook":10.085038,
         "lastFiscalYearEnd":1693440000,
@@ -188,6 +193,10 @@
         "lastSplitDate":1107734400,
         "enterpriseToRevenue":9.379,
         "enterpriseToEbitda":25.548,
+        "52WeekChange":0.24277234,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.98,
+        "lastDividendDate":1709078400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"FDS",
@@ -198,6 +207,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"1478cfa1-e4c4-3890-89d4-c70273b1f5ac",
+        "messageBoardId":"finmb_347669",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":450.66,
         "targetHighPrice":500.0,
@@ -228,4 +238,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.5839
     }
-]
+

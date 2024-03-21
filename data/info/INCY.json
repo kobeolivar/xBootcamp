@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1801 Augustine Cut-Off",
         "city":"Wilmington",
@@ -8,7 +8,11 @@
         "phone":"302 498 6700",
         "website":"https:\/\/www.incyte.com",
         "industry":"Biotechnology",
+        "industryKey":"biotechnology",
+        "industryDisp":"Biotechnology",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Incyte Corporation, a biopharmaceutical company, engages in the discovery, development, and commercialization of therapeutics for hematology\/oncology, and inflammation and autoimmunity areas in the United States and internationally. The company offers JAKAFI (ruxolitinib) for treatment of intermediate or high-risk myelofibrosis, polycythemia vera, and steroid-refractory acute graft-versus-host disease; MONJUVI (tafasitamab-cxix)\/MINJUVI (tafasitamab) for relapsed or refractory diffuse large B-cell lymphoma; PEMAZYRE (pemigatinib), a fibroblast growth factor receptor kinase inhibitor that act as oncogenic drivers in liquid and solid tumor types; ICLUSIG (ponatinib) to treat chronic myeloid leukemia and Philadelphia-chromosome positive acute lymphoblastic leukemia; and ZYNYZ (retifanlimab-dlwr) to treat adults with metastatic or recurrent locally advanced Merkel cell carcinoma, as well as OPZELURA cream for treatment of atopic dermatitis. Its clinical stage products include retifanlimab under Phase 3 clinical trials for squamous cell carcinoma of the anal canal and non-small cell lung cancer; axatilimab, an anti-CSF-1R monoclonal antibody under Phase 2 that is being developed as a therapy for patients with chronic GVHD; INCA033989 to inhibit oncogenesis; INCB160058, which is being developed as a disease-modifying therapeutic; and INCB99280 and INCB99318 for the treatment solid tumors. The company also develops INCB123667, INCA32459, and INCA33890, as well as Ruxolitinib cream, Povorcitinib, and INCA034460. It has collaboration out-license agreements with Novartis and Lilly; and in-license agreements with Agenus, Merus, MacroGenics, and Syndax. The company sells its products to specialty, retail, and hospital pharmacies, distributors, and wholesalers. The company was formerly known as Incyte Genomics Inc and changed its name to Incyte Corporation in March 2003. Incyte Corporation was incorporated in 1991 and is headquartered in Wilmington, Delaware.",
         "fullTimeEmployees":2524,
         "companyOfficers":[
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":1.0016,
         "shortRatio":4.45,
         "shortPercentOfFloat":0.041500002,
+        "impliedSharesOutstanding":224526000,
         "bookValue":23.139,
         "priceToBook":2.49449,
         "lastFiscalYearEnd":1703980800,
@@ -181,6 +186,8 @@
         "lastSplitDate":967766400,
         "enterpriseToRevenue":2.563,
         "enterpriseToEbitda":12.827,
+        "52WeekChange":-0.19402158,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"INCY",
@@ -191,6 +198,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"72960770-e83b-3ec3-92c6-dbd8ced339a4",
+        "messageBoardId":"finmb_332954",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":57.72,
         "targetHighPrice":92.0,
@@ -221,4 +229,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.7508
     }
-]
+

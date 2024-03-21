@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"One Congress Street",
         "city":"Boston",
@@ -8,7 +8,11 @@
         "phone":"617 786 3000",
         "website":"https:\/\/www.statestreet.com",
         "industry":"Asset Management",
+        "industryKey":"asset-management",
+        "industryDisp":"Asset Management",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"State Street Corporation, through its subsidiaries, provides a range of financial products and services to institutional investors worldwide. The company offers investment servicing products and services, including custody, accounting, regulatory reporting, investor, and performance and analytics; middle office products, such as IBOR, transaction management, loans, cash, derivatives and collateral, record keeping, and client reporting and investment analytics; finance leasing; foreign exchange, and brokerage and other trading services; securities finance and enhanced custody products; deposit and short-term investment facilities; investment manager and alternative investment manager operations outsourcing; performance, risk, and compliance analytics; and financial data management to support institutional investors. It also engages in the provision of portfolio management and risk analytics, as well as trading and post-trade settlement services with integrated compliance and managed data. In addition, the company offers investment management strategies and products, such as core and enhanced indexing, multi-asset strategies, active quantitative and fundamental active capabilities, and alternative investment strategies. Further, it provides services and solutions, including environmental, social, and governance investing; defined benefit and defined contribution; and global fiduciary solutions, as well as exchange-traded funds under the SPDR ETF brand. The company provides its products and services to mutual funds, collective investment funds, UCITS, hedge funds and other investment pools, corporate and public retirement plans, insurance companies, foundations, endowments, and investment managers. State Street Corporation was founded in 1792 and is headquartered in Boston, Massachusetts.",
         "fullTimeEmployees":46451,
         "companyOfficers":[
@@ -164,6 +168,7 @@
         "heldPercentInstitutions":0.90200996,
         "shortRatio":1.91,
         "shortPercentOfFloat":0.015700001,
+        "impliedSharesOutstanding":301944000,
         "bookValue":72.275,
         "priceToBook":1.0505707,
         "lastFiscalYearEnd":1703980800,
@@ -177,6 +182,10 @@
         "lastSplitFactor":"2:1",
         "lastSplitDate":991267200,
         "enterpriseToRevenue":-2.975,
+        "52WeekChange":0.015545487,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.69,
+        "lastDividendDate":1703808000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"STT",
@@ -187,6 +196,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"9d82ed81-6b6f-3b88-986b-476e7740c977",
+        "messageBoardId":"finmb_188785",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":75.93,
         "targetHighPrice":102.0,
@@ -210,4 +220,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":5.3891
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"100 West Fifth Street",
         "city":"Tulsa",
@@ -145,8 +145,8 @@
         "averageVolume":3038715,
         "averageVolume10days":2935940,
         "averageDailyVolume10Day":2935940,
-        "bid":79.54,
-        "ask":79.49,
+        "bid":79.4,
+        "ask":79.93,
         "bidSize":900,
         "askSize":800,
         "marketCap":46343643136,
@@ -231,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.6744
     }
-]
+

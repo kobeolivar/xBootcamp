@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1717 Main Street",
         "address2":"Suite 2000",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"972 421 3600",
         "website":"https:\/\/www.invitationhomes.com",
-        "industry":"REIT—Residential",
+        "industry":"REIT - Residential",
+        "industryKey":"reit-residential",
+        "industryDisp":"REIT - Residential",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"Invitation Homes, an S&P 500 company, is the nation's premier single-family home leasing and management company, meeting changing lifestyle demands by providing access to high-quality, updated homes with valued features such as close proximity to jobs and access to good schools. The company's mission, Together with you, we make a house a home, reflects its commitment to providing homes where individuals and families can thrive and high-touch service that continuously enhances residents' living experiences.",
         "fullTimeEmployees":1555,
         "companyOfficers":[
@@ -162,6 +166,7 @@
         "heldPercentInstitutions":1.04657,
         "shortRatio":2.82,
         "shortPercentOfFloat":0.0233,
+        "impliedSharesOutstanding":611958016,
         "bookValue":16.596,
         "priceToBook":2.1149673,
         "lastFiscalYearEnd":1703980800,
@@ -174,6 +179,10 @@
         "pegRatio":4.0,
         "enterpriseToRevenue":12.069,
         "enterpriseToEbitda":21.476,
+        "52WeekChange":0.21478379,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.28,
+        "lastDividendDate":1703548800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"INVH",
@@ -184,6 +193,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"4d81b072-2bf4-359d-959e-ddbc837ed8d9",
+        "messageBoardId":"finmb_415395909",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":35.1,
         "targetHighPrice":41.0,
@@ -214,4 +224,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":19.9576
     }
-]
+

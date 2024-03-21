@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"South Tower",
         "address2":"8th Floor 303 2nd Street",
@@ -9,7 +9,11 @@
         "phone":"650 487 3970",
         "website":"https:\/\/www.doordash.com",
         "industry":"Internet Content & Information",
+        "industryKey":"internet-content-information",
+        "industryDisp":"Internet Content & Information",
         "sector":"Communication Services",
+        "sectorKey":"communication-services",
+        "sectorDisp":"Communication Services",
         "longBusinessSummary":"DoorDash, Inc., together with its subsidiaries, operates a commerce platform that connects merchants, consumers, and independent contractors in the United States and internationally. The company operates DoorDash Marketplace and Wolt Marketplace, which provide various services, such as customer acquisition, demand generation, order fulfillment, merchandising, payment processing, and customer support. It also offers membership products, including DashPass and Wolt+; DoorDash Drive and Wolt Drive, which are white-label delivery fulfillment services that enable merchants that have generated consumer demand through their channels to fulfill demand using its platform; DoorDash Storefront that enables merchants to offer consumers on-demand access to e-commerce; and Bbot, which offers merchants digital ordering and payment solutions for in-store and online channels. In addition, the company enables merchants to advertise and promote on its platform to acquire consumers. The company was formerly known as Palo Alto Delivery Inc. and changed its name to DoorDash, Inc. in 2015. DoorDash, Inc. was founded in 2013 and is headquartered in San Francisco, California.",
         "fullTimeEmployees":19300,
         "companyOfficers":[
@@ -164,6 +168,7 @@
         "heldPercentInstitutions":0.92416,
         "shortRatio":2.45,
         "shortPercentOfFloat":0.0306,
+        "impliedSharesOutstanding":404004000,
         "bookValue":16.879,
         "priceToBook":8.102376,
         "lastFiscalYearEnd":1703980800,
@@ -175,6 +180,8 @@
         "pegRatio":12.31,
         "enterpriseToRevenue":6.041,
         "enterpriseToEbitda":-162.01,
+        "52WeekChange":1.2866855,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"DASH",
@@ -185,6 +192,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"abb5fed0-e670-3fad-a0ab-65c15b790508",
+        "messageBoardId":"finmb_243735719",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":136.76,
         "targetHighPrice":175.0,
@@ -214,4 +222,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"5 Greenway Plaza",
         "address2":"Suite 110",
@@ -150,7 +150,7 @@
         "averageVolume":8904313,
         "averageVolume10days":7251970,
         "averageDailyVolume10Day":7251970,
-        "bid":64.04,
+        "bid":63.72,
         "ask":64.05,
         "bidSize":1300,
         "askSize":800,
@@ -236,4 +236,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.1743
     }
-]
+

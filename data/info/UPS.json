@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"55 Glenlake Parkway, N.E.",
         "city":"Atlanta",
@@ -142,8 +142,8 @@
         "averageVolume":4003023,
         "averageVolume10days":4353060,
         "averageDailyVolume10Day":4353060,
-        "bid":155.4,
-        "ask":155.42,
+        "bid":160.5,
+        "ask":161.2,
         "bidSize":800,
         "askSize":800,
         "marketCap":132509245440,
@@ -226,4 +226,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.8365
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"500 Jackson Street",
         "address2":"Box 3005",
@@ -233,4 +233,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.7248
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"13320-B Ballantyne Corporate Place",
         "city":"Charlotte",
@@ -8,7 +8,11 @@
         "phone":"844 848 0137",
         "website":"https:\/\/www.dentsplysirona.com",
         "industry":"Medical Instruments & Supplies",
+        "industryKey":"medical-instruments-supplies",
+        "industryDisp":"Medical Instruments & Supplies",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"DENTSPLY SIRONA Inc. manufactures and sells various dental products and technologies worldwide. It operates in four segments: Connected Technology Solutions, Essential Dental Solutions, Orthodontic and Implant Solutions, and Wellspect Healthcare. The company offers dental equipment comprising imaging equipment, motorized dental handpieces, treatment centers, other instruments, amalgamators, mixing machines, and porcelain furnaces; and dental CAD\/CAM technologies to support dental restorations, such as intraoral scanners, 3-D printers, mills, other software and services, and a full-chairside economical restoration of esthetic ceramic dentistry, as well as DS Core, its cloud-based platform. It also provides endodontic products consisting of motorized endodontic handpieces, files, sealers, irrigation needles, and other tools that support root canal procedures; restorative products, including dental ceramics, crowns, and veneers; and preventative products, such as curing light systems, dental diagnostic systems, and ultrasonic scalers and polishers, as well as dental anesthetics, prophylaxis paste, dental sealants, and impression materials. In addition, the company offers SureSmile and Byte aligner solutions; VPro\/HyperByte, a high-frequency vibration technology device; SureSmile Simulator, which creates a 3D visualization of a patient's outcome; and Byte Plus for treatment planning. Further, it provides dental implants, digital dentures, crown and bridge porcelain products, bone regenerative and restorative solutions, treatment planning software, and educational programs; dental prosthetics; urology catheters; and other health-related consumables. The company serves professional dental and consumable medical device markets through third-party distributors. The company was formerly known as DENTSPLY International Inc. and changed its name to DENTSPLY SIRONA Inc. in February 2016. DENTSPLY SIRONA Inc. was founded in 1877 and is headquartered in Charlotte, North Carolina",
         "fullTimeEmployees":15000,
         "companyOfficers":[
@@ -163,6 +167,7 @@
         "heldPercentInstitutions":1.05882,
         "shortRatio":3.09,
         "shortPercentOfFloat":0.06,
+        "impliedSharesOutstanding":207363008,
         "bookValue":15.893,
         "priceToBook":2.1047003,
         "lastFiscalYearEnd":1703980800,
@@ -176,6 +181,10 @@
         "lastSplitDate":1153180800,
         "enterpriseToRevenue":2.234,
         "enterpriseToEbitda":14.015,
+        "52WeekChange":-0.09412402,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.14,
+        "lastDividendDate":1703721600,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"XRAY",
@@ -186,6 +195,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"b120cb46-16a2-3b25-a348-9a0c7d1d483b",
+        "messageBoardId":"finmb_27504",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":33.45,
         "targetHighPrice":42.0,
@@ -215,4 +225,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.6244
     }
-]
+

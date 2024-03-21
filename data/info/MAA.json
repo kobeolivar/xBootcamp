@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"6815 Poplar Avenue",
         "address2":"Suite 500",
@@ -9,8 +9,12 @@
         "phone":"901 682 6600",
         "fax":"901 682 6667",
         "website":"https:\/\/www.maac.com",
-        "industry":"REIT—Residential",
+        "industry":"REIT - Residential",
+        "industryKey":"reit-residential",
+        "industryDisp":"REIT - Residential",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"MAA, an S&P 500 company, is a real estate investment trust (REIT) focused on delivering full-cycle and superior investment performance for shareholders through the ownership, management, acquisition, development and redevelopment of quality apartment communities primarily in the Southeast, Southwest and Mid-Atlantic regions of the United States. As of December 31, 2023, MAA had ownership interest in 102,662 apartment units, including communities currently in development, across 16 states and the District of Columbia.",
         "fullTimeEmployees":2427,
         "companyOfficers":[
@@ -166,6 +170,7 @@
         "heldPercentInstitutions":0.95765996,
         "shortRatio":3.03,
         "shortPercentOfFloat":0.0305,
+        "impliedSharesOutstanding":119860000,
         "bookValue":52.223,
         "priceToBook":2.5456216,
         "lastFiscalYearEnd":1703980800,
@@ -178,6 +183,10 @@
         "pegRatio":-7.01,
         "enterpriseToRevenue":9.326,
         "enterpriseToEbitda":15.968,
+        "52WeekChange":-0.06214732,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.47,
+        "lastDividendDate":1704931200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"MAA",
@@ -188,6 +197,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"cc2464bb-73dc-32d9-ae28-eecc01e27c56",
+        "messageBoardId":"finmb_332358",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":132.94,
         "targetHighPrice":152.0,
@@ -218,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

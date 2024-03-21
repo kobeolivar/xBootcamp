@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3005 Highland Parkway",
         "city":"Downers Grove",
@@ -9,7 +9,11 @@
         "fax":"630 743 2671",
         "website":"https:\/\/www.dovercorporation.com",
         "industry":"Specialty Industrial Machinery",
+        "industryKey":"specialty-industrial-machinery",
+        "industryDisp":"Specialty Industrial Machinery",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Dover Corporation provides equipment and components, consumable supplies, aftermarket parts, software and digital solutions, and support services worldwide. The company's Engineered Products segment provides various equipment, component, software, solution, and services that are used in vehicle aftermarket, waste handling, industrial automation, aerospace and defense, industrial winch and hoist, and fluid dispensing end-market. This segment offers manual and power clamp, rotary and linear mechanical indexer, conveyor, pick and place unit, glove port, and manipulator, as well as end-of-arm robotic gripper, slide, and end effector; winches, hoists, bearings, drives, and electric monitoring system; and radio frequency and microwave filters and switches, and signal intelligence solutions. Its Clean Energy & Fueling segment offers component, equipment, and software and service solution enabling safe storage and transport of fuel, cryogenic gases, and hazardous fluids, as well as operation of retail fueling and vehicle wash establishment. The company's Imaging & Identification segment provides precision marking and coding, product traceability equipment, brand protection, and digital textile printing equipment and solution, as well as related consumable, software, and service to packaged and consumer goods, pharmaceutical, manufacturing, fashion and apparel, and other end-market. Its Pumps & Process Solutions segment manufactures specialty pump, connector, flow meter, fluid connecting solution, plastics and polymer processing equipment, and engineered components for rotating and reciprocating machines. The company's Climate & Sustainability Technologies segment manufactures refrigeration system, refrigeration display case, commercial glass refrigerator and freezer door, and brazed plate heat exchanger for industrial heating and cooling, and residential climate control applications. The company was incorporated in 1947 and is headquartered in Downers Grove, Illinois.",
         "fullTimeEmployees":25000,
         "companyOfficers":[
@@ -173,6 +177,7 @@
         "heldPercentInstitutions":0.8677,
         "shortRatio":2.18,
         "shortPercentOfFloat":0.0215,
+        "impliedSharesOutstanding":139896992,
         "bookValue":36.503,
         "priceToBook":4.873572,
         "lastFiscalYearEnd":1703980800,
@@ -187,6 +192,10 @@
         "lastSplitDate":1525824000,
         "enterpriseToRevenue":3.301,
         "enterpriseToEbitda":16.042,
+        "52WeekChange":0.24919951,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.51,
+        "lastDividendDate":1709078400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"DOV",
@@ -197,6 +206,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"60aa4a96-8158-3a27-a662-dbc1f27c9bbb",
+        "messageBoardId":"finmb_174901",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":177.9,
         "targetHighPrice":190.0,
@@ -227,4 +237,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.2932
     }
-]
+

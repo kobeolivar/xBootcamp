@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"4600 South Syracuse Street",
         "address2":"Suite 500",
@@ -9,8 +9,12 @@
         "phone":"(720) 428-5050",
         "fax":"(949) 407-0800",
         "website":"https:\/\/www.healthpeak.com",
-        "industry":"REIT—Healthcare Facilities",
+        "industry":"REIT - Healthcare Facilities",
+        "industryKey":"reit-healthcare-facilities",
+        "industryDisp":"REIT - Healthcare Facilities",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"Healthpeak Properties, Inc. is a fully integrated real estate investment trust (REIT) and S&P 500 company. Healthpeak owns, operates, and develops high-quality real estate for healthcare discovery and delivery.",
         "fullTimeEmployees":193,
         "companyOfficers":[
@@ -175,6 +179,7 @@
         "heldPercentInstitutions":0.7442,
         "shortRatio":1.35,
         "shortPercentOfFloat":0.033800002,
+        "impliedSharesOutstanding":709577024,
         "bookValue":11.606,
         "priceToBook":1.5354127,
         "lastFiscalYearEnd":1703980800,
@@ -185,8 +190,14 @@
         "trailingEps":0.56,
         "forwardEps":0.55,
         "pegRatio":-3.58,
+        "lastSplitFactor":"1098:1000",
+        "lastSplitDate":1477958400,
         "enterpriseToRevenue":7.858,
         "enterpriseToEbitda":14.887,
+        "52WeekChange":-0.13399017,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.3,
+        "lastDividendDate":1707782400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"DOC",
@@ -197,6 +208,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"2e09a5b0-1eac-3840-8404-f266726d465c",
+        "messageBoardId":"finmb_277966",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":17.82,
         "targetHighPrice":26.0,
@@ -227,4 +239,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

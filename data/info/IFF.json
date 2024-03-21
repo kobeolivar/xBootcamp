@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"521 West 57th Street",
         "city":"New York",
@@ -8,7 +8,11 @@
         "phone":"212 765 5500",
         "website":"https:\/\/www.iff.com",
         "industry":"Specialty Chemicals",
+        "industryKey":"specialty-chemicals",
+        "industryDisp":"Specialty Chemicals",
         "sector":"Basic Materials",
+        "sectorKey":"basic-materials",
+        "sectorDisp":"Basic Materials",
         "longBusinessSummary":"International Flavors & Fragrances Inc., together with its subsidiaries, manufactures and sells cosmetic active and natural health ingredients for use in various consumer products in the United States, Europe, and internationally. It operates through four segments: Nourish, Health & Biosciences, Scent, and Pharma Solutions. The Nourish segment offers natural and plant-based specialty food ingredients, such as flavor compounds used in savory products; beverages; sweets; and dairy products. It also provides value-added spices and seasoning ingredients; savory solutions, including spices, sauces, marinades, and mixtures; and natural antioxidants and anti-microbials. The Health & Biosciences segment develops and produces enzymes, food cultures, probiotics, and specialty ingredients for food and non-food applications. Its Scent segment provides fragrance compounds, which include fine fragrances comprising perfumes and colognes, as well as consumer fragrances; fragrance ingredients comprising synthetic and natural ingredients that include natural flavor extracts, specialty botanical extracts, distillates, essential oils, citrus products, aroma chemicals, natural gums, and resins; and cosmetic active ingredients consisting of active and functional ingredients, and delivery systems for cosmetic and personal care product industries. Its Pharma Solutions segment produces and sells cellulosics and seaweed-based pharma excipients. The company sells its products primarily to manufacturers of perfumes and cosmetics, hair and other personal care products, soaps and detergents, cleaning products, dairy, meat and other processed foods, beverages, snacks and savory foods, sweet and baked goods, dietary supplements, infant and elderly nutrition, functional food, and pharmaceutical excipients and oral care products. International Flavors & Fragrances Inc. was incorporated in 1909 and is headquartered in New York, New York.",
         "fullTimeEmployees":21500,
         "companyOfficers":[
@@ -172,6 +176,7 @@
         "heldPercentInstitutions":1.00359,
         "shortRatio":1.89,
         "shortPercentOfFloat":0.0227,
+        "impliedSharesOutstanding":257651008,
         "bookValue":57.233,
         "priceToBook":1.4558034,
         "lastFiscalYearEnd":1703980800,
@@ -185,6 +190,10 @@
         "lastSplitDate":759024000,
         "enterpriseToRevenue":2.751,
         "enterpriseToEbitda":18.003,
+        "52WeekChange":0.0049096346,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.81,
+        "lastDividendDate":1703635200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"IFF",
@@ -195,6 +204,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"c1cbcd58-f852-38ef-a458-45cf292e350c",
+        "messageBoardId":"finmb_281407",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":83.32,
         "targetHighPrice":102.0,
@@ -224,4 +234,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":19.2997
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3000 Schwab Way",
         "city":"Westlake",
@@ -144,7 +144,7 @@
         "averageVolume":7596308,
         "averageVolume10days":8538830,
         "averageDailyVolume10Day":8538830,
-        "bid":71.99,
+        "bid":71.0,
         "ask":72.0,
         "bidSize":1300,
         "askSize":800,
@@ -226,4 +226,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.1877
     }
-]
+

@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3600 Las Vegas Boulevard South",
         "city":"Las Vegas",
@@ -8,7 +8,11 @@
         "phone":"702 693 7120",
         "website":"https:\/\/www.mgmresorts.com",
         "industry":"Resorts & Casinos",
+        "industryKey":"resorts-casinos",
+        "industryDisp":"Resorts & Casinos",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"MGM Resorts International, through its subsidiaries, owns and operates casino, hotel, and entertainment resorts in the United States and internationally. The company operates through three segments: Las Vegas Strip Resorts, Regional Operations, and MGM China. Its casino resorts offer gaming, hotel, convention, dining, entertainment, retail, and other resort amenities. The company's casino operations include slots and table games, as well as online sports betting and iGaming through BetMGM. Its customers include premium gaming customers; leisure and wholesale travel customers; business travelers; and group customers, including conventions, trade associations, and small meetings. The company was formerly known as MGM MIRAGE and changed its name to MGM Resorts International in June 2010. MGM Resorts International was incorporated in 1986 and is based in Las Vegas, Nevada.",
         "fullTimeEmployees":58000,
         "companyOfficers":[
@@ -167,6 +171,7 @@
         "heldPercentInstitutions":0.69221,
         "shortRatio":2.89,
         "shortPercentOfFloat":0.0559,
+        "impliedSharesOutstanding":319678016,
         "bookValue":11.671,
         "priceToBook":3.8342903,
         "lastFiscalYearEnd":1703980800,
@@ -181,6 +186,10 @@
         "lastSplitDate":1116460800,
         "enterpriseToRevenue":2.701,
         "enterpriseToEbitda":18.159,
+        "52WeekChange":0.081979156,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.003,
+        "lastDividendDate":1670457600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"MGM",
@@ -191,6 +200,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"7545bfa0-2e8c-3cdf-b20b-cc3fa52a4794",
+        "messageBoardId":"finmb_286798",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":44.75,
         "targetHighPrice":68.0,
@@ -221,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":18.5274
     }
-]
+

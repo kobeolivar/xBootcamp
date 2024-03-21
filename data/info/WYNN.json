@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3131 Las Vegas Boulevard South",
         "city":"Las Vegas",
@@ -8,7 +8,11 @@
         "phone":"702 770 7555",
         "website":"https:\/\/www.wynnresorts.com",
         "industry":"Resorts & Casinos",
+        "industryKey":"resorts-casinos",
+        "industryDisp":"Resorts & Casinos",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Wynn Resorts, Limited designs, develops, and operates integrated resorts. The company operates through four segments: Wynn Palace, Wynn Macau, Las Vegas Operations, and Encore Boston Harbor. The Wynn Palace segment operates private gaming salons and sky casinos; a luxury hotel tower with suites, and villas, including a health club, spa, salon, and pool; food and beverage outlets; retail space; meeting and convention space; and performance lake and floral art displays. The Wynn Macau segment operates casino space with private gaming salons, sky casinos, and a poker room; a luxury hotel tower, that include health clubs, spas, a salon, and a pool; food and beverage outlets; retail space; meeting and convention space; and Chinese zodiac-inspired ceiling attractions. The Las Vegas Operations segment operates casino space with private gaming salons, a sky casino, a poker room, and a race and sports book; a luxury hotel tower with suites, and villas, including swimming pools, private cabanas, full-service spas and salons, and a wedding chapel; food and beverage outlets; meeting and convention space; retail space; and theaters, nightclubs, a beach club. The Encore Boston Harbor segment operates casino space with gaming areas, and a poker room; a luxury hotel tower including a spa and salon; food and beverage outlets and a nightclub; retail space; meeting and convention space; and a waterfront park, floral displays, and water shuttle service. Wynn Resorts, Limited was incorporated in 2002 and is based in Las Vegas, Nevada.",
         "fullTimeEmployees":27800,
         "companyOfficers":[
@@ -110,6 +114,7 @@
         "heldPercentInstitutions":0.63278,
         "shortRatio":2.15,
         "shortPercentOfFloat":0.037100002,
+        "impliedSharesOutstanding":112078000,
         "bookValue":-2.27,
         "lastFiscalYearEnd":1703980800,
         "nextFiscalYearEnd":1735603200,
@@ -121,6 +126,10 @@
         "pegRatio":0.13,
         "enterpriseToRevenue":3.055,
         "enterpriseToEbitda":11.52,
+        "52WeekChange":-0.05762714,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.25,
+        "lastDividendDate":1708041600,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"WYNN",
@@ -131,6 +140,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"5ae6a65b-05a9-36c6-8510-d06d0450b198",
+        "messageBoardId":"finmb_3449701",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":99.96,
         "targetHighPrice":147.0,
@@ -159,4 +169,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.2226
     }
-]
+

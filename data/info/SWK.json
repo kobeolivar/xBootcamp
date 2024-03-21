@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"1000 Stanley Drive",
         "city":"New Britain",
@@ -8,7 +8,11 @@
         "phone":"860 225 5111",
         "website":"https:\/\/www.stanleyblackanddecker.com",
         "industry":"Tools & Accessories",
+        "industryKey":"tools-accessories",
+        "industryDisp":"Tools & Accessories",
         "sector":"Industrials",
+        "sectorKey":"industrials",
+        "sectorDisp":"Industrials",
         "longBusinessSummary":"Stanley Black & Decker, Inc. provides hand tools, power tools, outdoor products, and related accessories in the United States, Canada, Other Americas, Europe, and Asia. Its Tools & Outdoor segment offers professional grade corded and cordless electric power tools and equipment, including drills, impact wrenches and drivers, grinders, saws, routers, and sanders; pneumatic tools and fasteners, such as nail guns, nails, staplers and staples, and concrete and masonry anchors; corded and cordless electric power tools; hand-held vacuums, paint tools, and cleaning appliances; leveling and layout tools, planes, hammers, demolition tools, clamps, vises, knives, saws, chisels, and industrial and automotive tools; drill, screwdriver, router bits, abrasives, saw blades, and threading products; tool boxes, sawhorses, medical cabinets, and engineered storage solutions; and electric and gas-powered lawn and garden products. This segment sells its products under the DEWALT, CRAFTSMAN, CUB ADET, BLACK+DECKER, and HUSTLER brands through retailers, third-party distributors, independent dealers, and a direct sales force. The company's Industrial segment provides threaded fasteners, blind rivets and tools, blind inserts and tools, drawn arc weld studs and systems, engineered plastic and mechanical fasteners, self-piercing riveting systems, precision nut running systems, micro fasteners, high-strength structural fasteners, axel swage, latches, heat shields, pins, couplings, fitting, and other engineered products; and attachments used on excavators and handheld tools. This segment sells its products through direct sales force and third-party distributors to the automotive, manufacturing, electronics, construction, aerospace, and other industries. The company was formerly known as The Stanley Works and changed its name to Stanley Black & Decker, Inc. in March 2010. Stanley Black & Decker, Inc. was founded in 1843 and is headquartered in New Britain, Connecticut.",
         "fullTimeEmployees":50500,
         "companyOfficers":[
@@ -172,6 +176,7 @@
         "heldPercentInstitutions":0.90599996,
         "shortRatio":3.75,
         "shortPercentOfFloat":0.0468,
+        "impliedSharesOutstanding":153804000,
         "bookValue":58.951,
         "priceToBook":1.6252481,
         "lastFiscalYearEnd":1703894400,
@@ -185,6 +190,10 @@
         "lastSplitDate":833846400,
         "enterpriseToRevenue":1.36,
         "enterpriseToEbitda":17.923,
+        "52WeekChange":0.22631514,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.81,
+        "lastDividendDate":1709769600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"SWK",
@@ -195,6 +204,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"84b5b16f-52e2-352d-a8e8-73d7f7545d67",
+        "messageBoardId":"finmb_304977",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":95.81,
         "targetHighPrice":110.0,
@@ -224,4 +234,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

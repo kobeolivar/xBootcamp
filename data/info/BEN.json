@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"One Franklin Parkway",
         "city":"San Mateo",
@@ -8,7 +8,11 @@
         "phone":"650-312-2000",
         "website":"https:\/\/www.franklinresources.com",
         "industry":"Asset Management",
+        "industryKey":"asset-management",
+        "industryDisp":"Asset Management",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Franklin Resources, Inc. is a publicly owned asset management holding company. Through its subsidiaries, the firm provides its services to individuals, institutions, pension plans, trusts, and partnerships. It launches equity, fixed income, balanced, and multi-asset mutual funds through its subsidiaries. The firm invests in the public equity, fixed income, and alternative markets. Franklin Resources, Inc. was founded in 1947 and is based in San Mateo, California with an additional office in Calgary, Canada; Dubai, United Arab Emirates; Edinburgh, United Kingdom; Fort Lauderdale, United States; Hyderabad, India; London, United Kingdom; Rancho Cordova, United states; Shanghai, China; Singapore; Stamford, United States; and Vienna, Austria.",
         "fullTimeEmployees":9100,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":0.48646998,
         "shortRatio":6.05,
         "shortPercentOfFloat":0.064899996,
+        "impliedSharesOutstanding":526558016,
         "bookValue":24.259,
         "priceToBook":1.1480275,
         "lastFiscalYearEnd":1696032000,
@@ -184,6 +189,10 @@
         "lastSplitDate":1374796800,
         "enterpriseToRevenue":2.121,
         "enterpriseToEbitda":8.834,
+        "52WeekChange":0.044291735,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.31,
+        "lastDividendDate":1704153600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BEN",
@@ -194,6 +203,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"e75084b2-a0b1-3b1e-b920-2bf35cd515f8",
+        "messageBoardId":"finmb_28703",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":27.85,
         "targetHighPrice":30.0,
@@ -224,4 +234,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.0802
     }
-]
+

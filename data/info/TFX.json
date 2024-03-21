@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"550 East Swedesford Road",
         "address2":"Suite 400",
@@ -9,7 +9,11 @@
         "phone":"610-225-6800",
         "website":"https:\/\/www.teleflex.com",
         "industry":"Medical Instruments & Supplies",
+        "industryKey":"medical-instruments-supplies",
+        "industryDisp":"Medical Instruments & Supplies",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Teleflex Incorporated designs, develops, manufactures, and supplies single-use medical devices for common diagnostic and therapeutic procedures in critical care and surgical applications worldwide. The company provides vascular access products that comprise Arrow branded catheters, catheter navigation and tip positioning systems, and intraosseous access systems for the administration of intravenous therapies, the measurement of blood pressure, and the withdrawal of blood samples through a single puncture site. It also offers interventional products, which consists of various coronary catheters, structural heart support devices, and peripheral intervention and mechanical circulatory support platform that are used by interventional cardiologists and radiologists, and vascular surgeons; and Arrow branded pumps and catheters, Guideline, Turnpike, and Trapliner catheters, the Manta Vascular Closure, and Arrow Oncontrol devices. The company provides anesthesia products, such as airway and pain management products to support hospital, emergency medicine, and military channels; and surgical products, including metal and polymer ligation clips, and fascial closure surgical systems that are used in laparoscopic surgical procedures, percutaneous surgical systems, and other surgical instruments. It also offers interventional urology products comprising the UroLift System, an invasive technology for treating lower urinary tract symptoms due to benign prostatic hyperplasia; respiratory products, including oxygen and aerosol therapies, spirometry, and ventilation management products for use in various care settings; urology products, such as catheters, urine collectors, and catheterization accessories and products for operative endourology; and bladder management services. The company serves hospitals and healthcare providers, medical device manufacturers, and home care markets. Teleflex Incorporated was incorporated in 1943 and is headquartered in Wayne, Pennsylvania.",
         "fullTimeEmployees":14500,
         "companyOfficers":[
@@ -164,6 +168,7 @@
         "heldPercentInstitutions":0.98690003,
         "shortRatio":5.14,
         "shortPercentOfFloat":0.0428,
+        "impliedSharesOutstanding":47056500,
         "bookValue":94.409,
         "priceToBook":2.3767862,
         "lastFiscalYearEnd":1703980800,
@@ -178,6 +183,10 @@
         "lastSplitDate":866505600,
         "enterpriseToRevenue":4.072,
         "enterpriseToEbitda":16.287,
+        "52WeekChange":-0.08643407,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.34,
+        "lastDividendDate":1709164800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"TFX",
@@ -188,6 +197,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"cfc736f9-d56d-3ff4-b535-f0f0e38e3037",
+        "messageBoardId":"finmb_307430",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":224.39,
         "targetHighPrice":285.0,
@@ -218,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.5486
     }
-]
+

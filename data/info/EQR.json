@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Two North Riverside Plaza",
         "address2":"Suite 400",
@@ -9,8 +9,12 @@
         "phone":"312 474 1300",
         "fax":"312 454 8703",
         "website":"https:\/\/www.equityapartments.com",
-        "industry":"REIT—Residential",
+        "industry":"REIT - Residential",
+        "industryKey":"reit-residential",
+        "industryDisp":"REIT - Residential",
         "sector":"Real Estate",
+        "sectorKey":"real-estate",
+        "sectorDisp":"Real Estate",
         "longBusinessSummary":"Equity Residential is committed to creating communities where people thrive. The Company, a member of the S&P 500, is focused on the acquisition, development and management of residential properties located in and around dynamic cities that attract affluent long-term renters. Equity Residential owns or has investments in 305 properties consisting of 80,683 apartment units, with an established presence in Boston, New York, Washington, D.C., Seattle, San Francisco and Southern California, and an expanding presence in Denver, Atlanta, Dallas\/Ft. Worth and Austin.",
         "fullTimeEmployees":2400,
         "companyOfficers":[
@@ -174,6 +178,7 @@
         "heldPercentInstitutions":0.95234,
         "shortRatio":2.21,
         "shortPercentOfFloat":0.0185,
+        "impliedSharesOutstanding":379553984,
         "bookValue":29.129,
         "priceToBook":2.1782417,
         "lastFiscalYearEnd":1703980800,
@@ -188,6 +193,10 @@
         "lastSplitDate":1002844800,
         "enterpriseToRevenue":11.125,
         "enterpriseToEbitda":18.096,
+        "52WeekChange":0.13018394,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.663,
+        "lastDividendDate":1703808000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"EQR",
@@ -198,6 +207,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"ce422961-0af7-3abb-bdb6-618d92a33599",
+        "messageBoardId":"finmb_28209",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":63.45,
         "targetHighPrice":73.0,
@@ -228,4 +238,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":6.456
     }
-]
+

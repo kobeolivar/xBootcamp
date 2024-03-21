@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"FMC Tower",
         "address2":"2929 Walnut Street Cira Centre South",
@@ -9,7 +9,11 @@
         "phone":"215 299 6000",
         "website":"https:\/\/www.fmc.com",
         "industry":"Agricultural Inputs",
+        "industryKey":"agricultural-inputs",
+        "industryDisp":"Agricultural Inputs",
         "sector":"Basic Materials",
+        "sectorKey":"basic-materials",
+        "sectorDisp":"Basic Materials",
         "longBusinessSummary":"FMC Corporation, an agricultural sciences company, provides crop protection, plant health, and professional pest and turf management products. It develops, markets, and sells crop protection chemicals that includes insecticides, herbicides, and fungicides; and biologicals, crop nutrition, and seed treatment products, which are used in agriculture to enhance crop yield and quality by controlling a range of insects, weeds, and diseases, as well as in non-agricultural markets for pest control. The company markets its products through its own sales organization and through alliance partners, independent distributors, and sales representatives. It operates in North America, Latin America, Europe, the Middle East, Africa, and Asia. The company was founded in 1883 and is headquartered in Philadelphia, Pennsylvania.",
         "fullTimeEmployees":6600,
         "companyOfficers":[
@@ -159,6 +163,7 @@
         "heldPercentInstitutions":0.95166,
         "shortRatio":2.45,
         "shortPercentOfFloat":0.0559,
+        "impliedSharesOutstanding":124817000,
         "bookValue":35.355,
         "priceToBook":1.8359498,
         "lastFiscalYearEnd":1703980800,
@@ -173,6 +178,10 @@
         "lastSplitDate":1551657600,
         "enterpriseToRevenue":2.635,
         "enterpriseToEbitda":13.693,
+        "52WeekChange":-0.45186388,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.58,
+        "lastDividendDate":1703721600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"FMC",
@@ -183,6 +192,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"051015aa-ba29-34a0-abcc-e745beedaea1",
+        "messageBoardId":"finmb_28606",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":64.91,
         "targetHighPrice":95.0,
@@ -213,4 +223,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

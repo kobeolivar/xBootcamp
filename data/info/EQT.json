@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"EQT Plaza",
         "address2":"625 Liberty Avenue Suite 1700",
@@ -9,7 +9,11 @@
         "phone":"412 553 5700",
         "website":"https:\/\/www.eqt.com",
         "industry":"Oil & Gas E&P",
+        "industryKey":"oil-gas-e-p",
+        "industryDisp":"Oil & Gas E&P",
         "sector":"Energy",
+        "sectorKey":"energy",
+        "sectorDisp":"Energy",
         "longBusinessSummary":"EQT Corporation operates as a natural gas production company in the United States. The company sells natural gas and natural gas liquids to marketers, utilities, and industrial customers through pipelines located in the Appalachian Basin. It also offers marketing services and contractual pipeline capacity management services. The company was formerly known as Equitable Resources Inc. and changed its name to EQT Corporation in February 2009. EQT Corporation was founded in 1878 and is headquartered in Pittsburgh, Pennsylvania.",
         "fullTimeEmployees":881,
         "companyOfficers":[
@@ -164,6 +168,7 @@
         "heldPercentInstitutions":0.91696,
         "shortRatio":2.67,
         "shortPercentOfFloat":0.0433,
+        "impliedSharesOutstanding":440720992,
         "bookValue":35.183,
         "priceToBook":0.9766081,
         "lastFiscalYearEnd":1703980800,
@@ -178,6 +183,10 @@
         "lastSplitDate":1542067200,
         "enterpriseToRevenue":4.157,
         "enterpriseToEbitda":4.844,
+        "52WeekChange":0.14527595,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.158,
+        "lastDividendDate":1708041600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"EQT",
@@ -188,6 +197,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"bfa511a0-149d-3859-b584-acb8d48f75a0",
+        "messageBoardId":"finmb_269924",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":34.36,
         "targetHighPrice":50.0,
@@ -218,4 +228,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

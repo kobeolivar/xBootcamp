@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"599 South Rivershore Lane",
         "city":"Eagle",
@@ -8,7 +8,11 @@
         "phone":"208 938 1047",
         "website":"https:\/\/www.lambweston.com",
         "industry":"Packaged Foods",
+        "industryKey":"packaged-foods",
+        "industryDisp":"Packaged Foods",
         "sector":"Consumer Defensive",
+        "sectorKey":"consumer-defensive",
+        "sectorDisp":"Consumer Defensive",
         "longBusinessSummary":"Lamb Weston Holdings, Inc. produces, distributes, and markets frozen potato products worldwide. The company operates through four segments: Global, Foodservice, Retail, and Other. It offers frozen potatoes, commercial ingredients, and appetizers under the Lamb Weston brand, as well as under various customer labels. The company also provides its products under its owned or licensed brands, such as Grown in Idaho and Alexia, and other licensed brands, as well as under retailers' own brands. In addition, it engages in the vegetable and dairy businesses. The company sells its products through a network of internal sales personnel and independent brokers, agents, and distributors to chain restaurants, wholesale, grocery, mass merchants, club and specialty retailers, businesses, educational institutions, independent restaurants, regional chain restaurants, and convenience stores. Lamb Weston Holdings, Inc. was incorporated in 1950 and is headquartered in Eagle, Idaho.",
         "fullTimeEmployees":10200,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":0.91685,
         "shortRatio":2.78,
         "shortPercentOfFloat":0.0327,
+        "impliedSharesOutstanding":144372000,
         "bookValue":11.552,
         "priceToBook":8.893698,
         "lastFiscalYearEnd":1685232000,
@@ -182,6 +187,10 @@
         "pegRatio":1.02,
         "enterpriseToRevenue":2.907,
         "enterpriseToEbitda":13.366,
+        "52WeekChange":0.044543386,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.36,
+        "lastDividendDate":1706745600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"LW",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"c556331d-e98f-3097-b430-dade00c6c714",
+        "messageBoardId":"finmb_374372246",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":102.74,
         "targetHighPrice":138.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.3435
     }
-]
+

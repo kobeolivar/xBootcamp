@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"9200 West 108th Circle",
         "city":"Westminster",
@@ -8,7 +8,11 @@
         "phone":"303 469 3131",
         "website":"https:\/\/www.ball.com",
         "industry":"Packaging & Containers",
+        "industryKey":"packaging-containers",
+        "industryDisp":"Packaging & Containers",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Ball Corporation supplies aluminum packaging products for the beverage, personal care, and household products industries in the United States, Brazil, and internationally. The company manufactures and sells aluminum beverage containers to fillers of carbonated soft drinks, beer, energy drinks, and other beverages. It also manufactures and sells extruded aluminum aerosol containers, recloseable aluminum bottles, aluminum cups, and aluminum slugs. Ball Corporation was founded in 1880 and is headquartered in Westminster, Colorado.",
         "fullTimeEmployees":21000,
         "companyOfficers":[
@@ -170,6 +174,7 @@
         "heldPercentInstitutions":0.88445,
         "shortRatio":4.61,
         "shortPercentOfFloat":0.0367,
+        "impliedSharesOutstanding":317719008,
         "bookValue":11.939,
         "priceToBook":5.4887342,
         "lastFiscalYearEnd":1703980800,
@@ -180,8 +185,14 @@
         "trailingEps":2.23,
         "forwardEps":3.46,
         "pegRatio":1.72,
+        "lastSplitFactor":"2:1",
+        "lastSplitDate":1494979200,
         "enterpriseToRevenue":2.066,
         "enterpriseToEbitda":13.721,
+        "52WeekChange":0.24214733,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.2,
+        "lastDividendDate":1709164800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"BALL",
@@ -192,6 +203,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"0fedd49e-896d-3082-8f3c-230b40371ae3",
+        "messageBoardId":"finmb_170352",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":65.53,
         "targetHighPrice":74.0,
@@ -222,4 +234,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.4597
     }
-]
+

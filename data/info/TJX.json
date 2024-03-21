@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"770 Cochituate Road",
         "city":"Framingham",
@@ -144,7 +144,7 @@
         "averageVolume":4919061,
         "averageVolume10days":5401480,
         "averageDailyVolume10Day":5401480,
-        "bid":97.06,
+        "bid":97.55,
         "ask":99.75,
         "bidSize":800,
         "askSize":1200,
@@ -230,4 +230,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.57
     }
-]
+

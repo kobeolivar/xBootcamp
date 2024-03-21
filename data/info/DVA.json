@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"2000 16th Street",
         "city":"Denver",
@@ -8,7 +8,11 @@
         "phone":"720 631 2100",
         "website":"https:\/\/www.davita.com",
         "industry":"Medical Care Facilities",
+        "industryKey":"medical-care-facilities",
+        "industryDisp":"Medical Care Facilities",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"DaVita Inc. provides kidney dialysis services for patients suffering from chronic kidney failure in the United States. The company operates kidney dialysis centers and provides related lab services in outpatient dialysis centers. It also offers outpatient, hospital inpatient, and home-based hemodialysis services; operates clinical laboratories that provide routine laboratory tests for dialysis and other physician-prescribed laboratory tests for ESRD patients; and management and administrative services to outpatient dialysis centers. In addition, the company offers integrated care and disease management services to patients in risk-based and other integrated care arrangements; clinical research programs; physician services; and comprehensive kidney care services. Further, it engages in the provision of acute inpatient dialysis services and related laboratory services; and transplant software business. The company was formerly known as DaVita HealthCare Partners Inc. and changed its name to DaVita Inc. in September 2016. DaVita Inc. was incorporated in 1994 and is headquartered in Denver, Colorado.",
         "fullTimeEmployees":70000,
         "companyOfficers":[
@@ -137,8 +141,8 @@
         "averageVolume":905590,
         "averageVolume10days":1090170,
         "averageDailyVolume10Day":1090170,
-        "bid":136.32,
-        "ask":136.41,
+        "bid":135.74,
+        "ask":136.95,
         "bidSize":900,
         "askSize":800,
         "marketCap":11896068096,
@@ -161,6 +165,7 @@
         "heldPercentInstitutions":0.51789004,
         "shortRatio":3.56,
         "shortPercentOfFloat":0.0686,
+        "impliedSharesOutstanding":88143400,
         "bookValue":11.89,
         "priceToBook":11.458368,
         "lastFiscalYearEnd":1703980800,
@@ -175,6 +180,8 @@
         "lastSplitDate":1378684800,
         "enterpriseToRevenue":2.025,
         "enterpriseToEbitda":10.477,
+        "52WeekChange":0.84449756,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"DVA",
@@ -185,6 +192,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"9a98f945-67ed-31a1-b380-e8d4ee6cc270",
+        "messageBoardId":"finmb_35644",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":136.24,
         "targetHighPrice":145.0,
@@ -215,4 +223,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":1.2388
     }
-]
+

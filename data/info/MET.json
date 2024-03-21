@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"200 Park Avenue",
         "city":"New York",
@@ -233,4 +233,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":0.11
     }
-]
+

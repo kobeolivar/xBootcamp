@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"610 Newport Center Drive",
         "address2":"Suite 1100",
@@ -145,7 +145,7 @@
         "averageVolume10days":264560,
         "averageDailyVolume10Day":264560,
         "bid":2903.52,
-        "ask":2925.0,
+        "ask":2920.0,
         "bidSize":900,
         "askSize":800,
         "marketCap":79658033152,
@@ -224,4 +224,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.5421
     }
-]
+

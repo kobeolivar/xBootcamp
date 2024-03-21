@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"6900 E Layton Avenue",
         "address2":"Suite 700",
@@ -150,7 +150,7 @@
         "averageVolume10days":18703800,
         "averageDailyVolume10Day":18703800,
         "bid":34.55,
-        "ask":34.69,
+        "ask":34.87,
         "bidSize":2200,
         "askSize":1800,
         "marketCap":39805837312,
@@ -232,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

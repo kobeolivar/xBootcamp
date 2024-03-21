@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"160 South Industrial Boulevard",
         "city":"Calhoun",
@@ -8,7 +8,11 @@
         "phone":"706 629 7721",
         "website":"https:\/\/www.mohawkind.com",
         "industry":"Furnishings, Fixtures & Appliances",
+        "industryKey":"furnishings-fixtures-appliances",
+        "industryDisp":"Furnishings, Fixtures & Appliances",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Mohawk Industries, Inc. designs, manufactures, sources, distributes, and markets flooring products for residential and commercial remodeling, and new construction channels in the United States, Europe, Latin America, and internationally. It operates through three segments: Global Ceramic, Flooring North America, and Flooring Rest of the World. The company provides ceramic, porcelain, and natural stone tiles products for floor and wall applications; natural stones, porcelain slabs, and quartz countertops, as well as installation materials; floor covering products comprising broadloom carpets, carpet tiles, rugs and mats, carpet pads, laminates, medium-density fiberboards, wood floorings, luxury vinyl tiles, and sheet vinyl; and roofing panels, insulation boards, mezzanine flooring products, medium-density fiberboard, and chipboards. It also licenses its intellectual property to flooring manufacturers. The company sells its products under the American Olean, Daltile, Decortiles, Eliane, EmilGroup, KAI, Kerama Marazzi, Marazzi, Ragno, Aladdin Commercial, Durkan, Foss, IVC, Karastan, Mohawk, Mohawk Group, Mohawk Home, Pergo, Portico, Quick-Step, Feltex, GH Commercial, Godfrey Hirst, Hycraft, IVC Commercial, IVC Home, Lentex, Leoline, and Moduleo, Redbook, Unilin, and Vitromex brands. It offers its products to company-owned service centers and stores, company-operated distributors, floor covering retailers, wholesalers, mass merchandisers, department stores, shop at home, buying groups, ceramic tile specialists, e-commerce retailers, residential builders, independent distributors, commercial contractors, and commercial end users. The company was incorporated in 1988 and is headquartered in Calhoun, Georgia.",
         "fullTimeEmployees":43300,
         "companyOfficers":[
@@ -161,6 +165,7 @@
         "heldPercentInstitutions":0.82803,
         "shortRatio":2.03,
         "shortPercentOfFloat":0.0332,
+        "impliedSharesOutstanding":63696400,
         "bookValue":119.698,
         "priceToBook":1.054153,
         "lastFiscalYearEnd":1703980800,
@@ -175,6 +180,8 @@
         "lastSplitDate":881280000,
         "enterpriseToRevenue":0.933,
         "enterpriseToEbitda":7.191,
+        "52WeekChange":0.29988432,
+        "SandP52WeekChange":0.32311738,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"MHK",
@@ -185,6 +192,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"ce58e97c-879c-3398-90af-3b1ff0e19d91",
+        "messageBoardId":"finmb_31670",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":126.18,
         "targetHighPrice":152.0,
@@ -215,4 +223,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

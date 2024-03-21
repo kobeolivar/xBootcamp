@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"2025 Hamilton Avenue",
         "city":"San Jose",
@@ -8,7 +8,11 @@
         "phone":"408 376 7108",
         "website":"https:\/\/www.ebayinc.com",
         "industry":"Internet Retail",
+        "industryKey":"internet-retail",
+        "industryDisp":"Internet Retail",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"eBay Inc., together with its subsidiaries, operates marketplace platforms that connect buyers and sellers in the United States, the United Kingdom, China, Germany, and internationally. The company's marketplace platform includes its online marketplace at ebay.com, off-platform businesses, and the eBay suite of mobile apps. Its platforms enable users to list, sell, and buy various products. The company was founded in 1995 and is headquartered in San Jose, California.",
         "fullTimeEmployees":12300,
         "companyOfficers":[
@@ -169,6 +173,7 @@
         "heldPercentInstitutions":0.92498,
         "shortRatio":3.26,
         "shortPercentOfFloat":0.052199997,
+        "impliedSharesOutstanding":518000000,
         "bookValue":12.371,
         "priceToBook":4.2033787,
         "lastFiscalYearEnd":1703980800,
@@ -183,6 +188,10 @@
         "lastSplitDate":1437350400,
         "enterpriseToRevenue":2.584,
         "enterpriseToEbitda":10.516,
+        "52WeekChange":0.22426379,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.27,
+        "lastDividendDate":1709856000,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"EBAY",
@@ -193,6 +202,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"6cf6bfa4-6efa-3ac5-bd50-e46cbdb24cb5",
+        "messageBoardId":"finmb_27862",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":52.0,
         "targetHighPrice":56.15,
@@ -223,4 +233,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

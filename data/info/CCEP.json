@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Pemberton House",
         "address2":"Bakers Road",
@@ -7,8 +7,12 @@
         "country":"United Kingdom",
         "phone":"44 1895 231 313",
         "website":"https:\/\/www.cocacolaep.com",
-        "industry":"Beverages—Non-Alcoholic",
+        "industry":"Beverages - Non-Alcoholic",
+        "industryKey":"beverages-non-alcoholic",
+        "industryDisp":"Beverages - Non - Alcoholic",
         "sector":"Consumer Defensive",
+        "sectorKey":"consumer-defensive",
+        "sectorDisp":"Consumer Defensive",
         "longBusinessSummary":"Coca-Cola Europacific Partners PLC, together with its subsidiaries, produces, distributes, and sells a range of non-alcoholic ready to drink beverages. It offers flavours, mixers, and energy drinks; soft drinks, waters, enhanced water, and isotonic drinks; and ready-to-drink tea and coffee, juices, and other drinks. The company provides its products under the Coca-Cola, Diet Coke, Coca-Cola Zero Sugar, Fanta, Sprite, Monster Energy, Coca-Cola Energy, Relentless, nalu, URGE, BURN, Kuli, REIGN, POWERADE, Appletiser, Schweppes, FINLEY, mezzo mix, Royal Bliss, Lift, Vio SCHORLE, Coca-Cola Signature Mixers, NORDIC MIST, smartwater, Chaudfontaine, AQUARIUS, VILAS del Turbon, BONAQUA, Apollinaris, Krystal, Honest, Costa Coffee, Fuzetea, CHAQWA, NESTEA, Capri-Sun, Oasis, Minute Maid, MER, and Tropico brands. In addition, it engages in the bottling and other operations. The company was formerly known as Coca-Cola European Partners plc and changed its name to Coca-Cola Europacific Partners PLC in May 2021. The company was founded in 1904 and is based in Uxbridge, the United Kingdom.",
         "fullTimeEmployees":32000,
         "companyOfficers":[
@@ -157,6 +161,7 @@
         "heldPercentInsiders":0.55581003,
         "heldPercentInstitutions":0.35493,
         "shortRatio":2.78,
+        "impliedSharesOutstanding":465062016,
         "bookValue":17.369,
         "priceToBook":4.1096206,
         "lastFiscalYearEnd":1703980800,
@@ -171,6 +176,10 @@
         "lastSplitDate":863481600,
         "enterpriseToRevenue":2.321,
         "enterpriseToEbitda":14.745,
+        "52WeekChange":0.26770258,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.23,
+        "lastDividendDate":1700092800,
         "exchange":"NMS",
         "quoteType":"EQUITY",
         "symbol":"CCEP",
@@ -181,6 +190,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"c5c4db67-99f9-3ad5-ac1b-9ce852b486bc",
+        "messageBoardId":"finmb_109130811",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":71.38,
         "targetHighPrice":84.94,
@@ -211,4 +221,4 @@
         "financialCurrency":"EUR",
         "trailingPegRatio":1.7066
     }
-]
+

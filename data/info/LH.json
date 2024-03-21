@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"358 South Main Street",
         "city":"Burlington",
@@ -8,7 +8,11 @@
         "phone":"336 229 1127",
         "website":"https:\/\/www.labcorp.com",
         "industry":"Diagnostics & Research",
+        "industryKey":"diagnostics-research",
+        "industryDisp":"Diagnostics & Research",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"Laboratory Corporation of America Holdings operates as a life sciences company that provides vital information to help doctors, hospitals, pharmaceutical companies, researchers, and patients make clear and confident decisions. It operates in two segments, Labcorp Diagnostics (Dx) and Biopharma Laboratory Services (BLS). The company offers various tests, such as blood chemistry analyses, urinalyses, blood cell counts, thyroid tests, PAP tests, hemoglobin A1C and vitamin D, prostate-specific antigens, tests for sexually transmitted diseases, hepatitis C tests, microbiology cultures and procedures, and alcohol and other substance-abuse tests. It also provides specialty testing services comprising gene-based and esoteric testing; advanced tests target specific diseases; services related to anatomic pathology\/oncology, cardiovascular disease, coagulation, diagnostic genetics, endocrinology, infectious disease, women's health, pharmacogenetics, parentage and donor testing, occupational testing services, medical drug monitoring services, chronic disease programs, and kidney stone prevention tests; and health and wellness services to employers and managed care organizations (MCOs), including health fairs, on-site and at-home testing, vaccinations, and health screenings. In addition, the company offers online and mobile applications that enable patients to check test results; online applications for providers, MCOs, and accountable care organizations; and drug development, medical device, and companion diagnostic development solutions from early-stage research to clinical development, as well as support for crop protection and chemical testing. It serves pharmaceutical, biotechnology, medical device, and diagnostics companies; and MCOs, employer plans, other health insurance providers, governmental agencies, physicians and other healthcare providers, hospitals and health systems, employers, patients and consumers, contract research organizations, crop protection and chemical companies, academic institutions, independent clinical laboratories, and retailers. The company was incorporated in 1994 and is headquartered in Burlington, North Carolina.",
         "fullTimeEmployees":56950,
         "companyOfficers":[
@@ -145,7 +149,7 @@
         "averageVolume":733520,
         "averageVolume10days":853320,
         "averageDailyVolume10Day":853320,
-        "bid":210.69,
+        "bid":208.33,
         "ask":214.09,
         "bidSize":800,
         "askSize":800,
@@ -171,6 +175,7 @@
         "heldPercentInstitutions":0.98421997,
         "shortRatio":2.67,
         "shortPercentOfFloat":0.0344,
+        "impliedSharesOutstanding":84100000,
         "bookValue":93.862,
         "priceToBook":2.2510707,
         "lastFiscalYearEnd":1703980800,
@@ -180,10 +185,14 @@
         "trailingEps":4.33,
         "forwardEps":16.05,
         "pegRatio":1.52,
-        "lastSplitFactor":"2:1",
-        "lastSplitDate":1021248000,
+        "lastSplitFactor":"1164:1000",
+        "lastSplitDate":1688342400,
         "enterpriseToRevenue":1.894,
         "enterpriseToEbitda":14.235,
+        "52WeekChange":0.13531351,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.72,
+        "lastDividendDate":1708905600,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"LH",
@@ -194,6 +203,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"2b9645dc-7a42-3738-ac9f-a5a75117b1c0",
+        "messageBoardId":"finmb_30643",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":211.29,
         "targetHighPrice":270.0,
@@ -223,4 +233,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

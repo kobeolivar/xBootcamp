@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"910 Louisiana Street",
         "city":"Houston",
@@ -7,8 +7,12 @@
         "country":"United States",
         "phone":"713 537 3000",
         "website":"https:\/\/www.nrg.com",
-        "industry":"Utilities—Independent Power Producers",
+        "industry":"Utilities - Independent Power Producers",
+        "industryKey":"utilities-independent-power-producers",
+        "industryDisp":"Utilities - Independent Power Producers",
         "sector":"Utilities",
+        "sectorKey":"utilities",
+        "sectorDisp":"Utilities",
         "longBusinessSummary":"NRG Energy, Inc., together with its subsidiaries, operates as an energy and home services company in the United States and Canada. It operates through Texas; East; West\/Services\/Other; Vivint Smart Home; and Corporate Activities segments. The company produces and sells electricity generated using coal, oil, solar, and battery storage; natural gas; and a cloud-based home platform, including hardware, software, sales, installation, customer service, technical support, and professional monitoring solutions. It offers retail electricity and energy management, line and surge protection products, HVAC installation, repair and maintenance, home protection products, carbon offsets, back-up power stations, portable power, portable solar, and portable lighting; retail services comprising demand response, commodity sales, energy efficiency, and energy management solutions; and system power, distributed generation, renewable and low-carbon products, carbon management and specialty services, backup generation, storage and distributed solar, and energy advisory services. In addition, the company trades in power, natural gas, and related commodities; environmental products; weather products; and financial products, including forwards, futures, options, and swaps. It offers its products and services under the NRG, Reliant, Direct Energy, Green Mountain Energy, and Vivint. It serves residential, commercial, government, industrial, and wholesale customers. NRG Energy, Inc. was founded in 1989 and is headquartered in Houston, Texas.",
         "fullTimeEmployees":18131,
         "companyOfficers":[
@@ -108,6 +112,7 @@
         "heldPercentInstitutions":1.0239199,
         "shortRatio":5.17,
         "shortPercentOfFloat":0.1083,
+        "impliedSharesOutstanding":214734000,
         "bookValue":10.839,
         "priceToBook":6.1850724,
         "lastFiscalYearEnd":1703980800,
@@ -121,6 +126,10 @@
         "lastSplitDate":1180656000,
         "enterpriseToRevenue":0.869,
         "enterpriseToEbitda":88.817,
+        "52WeekChange":1.165108,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.408,
+        "lastDividendDate":1706659200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"NRG",
@@ -131,6 +140,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"e758ebe9-a5a2-3c81-b9c8-078479c2d873",
+        "messageBoardId":"finmb_413857",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":67.04,
         "targetHighPrice":78.0,
@@ -160,4 +170,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.4177
     }
-]
+

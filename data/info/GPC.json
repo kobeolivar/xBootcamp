@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"2999 Wildwood Parkway",
         "city":"Atlanta",
@@ -8,7 +8,11 @@
         "phone":"678 934 5000",
         "website":"https:\/\/www.genpt.com",
         "industry":"Specialty Retail",
+        "industryKey":"specialty-retail",
+        "industryDisp":"Specialty Retail",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"Genuine Parts Company distributes automotive replacement parts, and industrial parts and materials. It operates in two segments: Automotive Parts Group and Industrial Parts Group segments. The company distributes automotive replacement parts for hybrid and electric vehicles, trucks, SUVs, buses, motorcycles, recreational vehicles, farm vehicles, small engines, farm equipment, marine equipment, and heavy duty equipment; and equipment and parts used by repair shops, service stations, fleet operators, automobile and truck dealers, leasing companies, bus and truck lines, mass merchandisers, farms, and individuals. It also distributes industrial replacement parts and related supplies, such as abrasives, adhesives, sealants and tape, bearings, chemicals, cutting tools, electrical, facility maintenance, hose and fittings, hydraulics, janitorial, mechanical power transmission, pneumatics, process pumps and equipment, safety, seals and gaskets, and tools and testing instruments, as well as maintenance, repair, and operation customers in aggregate and cement, automotive, chemical and allied products, equipment and machinery, equipment rental and leasing, fabricated metals, food and beverage, iron and steel, lumber and wood, oil and gas, pulp and paper, and rubber products. In addition, the company provides various services and repairs comprising gearbox and fluid power and process pump assembly and repair, hydraulic drive shaft repair, electrical panel assembly and repair, hose and gasket manufacture and assembly. It operates in the United States, Canada, France, the United Kingdom, Ireland, Germany, Poland, the Netherlands, Belgium, Spain, Portugal, Australia, New Zealand, Mexico, Indonesia, and Singapore. The company was incorporated in 1928 and is headquartered in Atlanta, Georgia.",
         "fullTimeEmployees":60000,
         "companyOfficers":[
@@ -168,6 +172,7 @@
         "heldPercentInstitutions":0.80254996,
         "shortRatio":1.28,
         "shortPercentOfFloat":0.0123000005,
+        "impliedSharesOutstanding":139423008,
         "bookValue":31.534,
         "priceToBook":4.9908037,
         "lastFiscalYearEnd":1703980800,
@@ -182,6 +187,10 @@
         "lastSplitDate":861062400,
         "enterpriseToRevenue":1.115,
         "enterpriseToEbitda":11.989,
+        "52WeekChange":0.0066108704,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":1.0,
+        "lastDividendDate":1709164800,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"GPC",
@@ -192,6 +201,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"2e50ae82-e546-35a3-bd5e-f0da6b120ddd",
+        "messageBoardId":"finmb_275034",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":157.38,
         "targetHighPrice":160.0,
@@ -222,4 +232,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":3.231
     }
-]
+

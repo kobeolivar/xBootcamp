@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Comerica Bank Tower",
         "address2":"1717 Main Street",
@@ -8,8 +8,12 @@
         "country":"United States",
         "phone":"833-571-0486",
         "website":"https:\/\/www.comerica.com",
-        "industry":"Banks—Regional",
+        "industry":"Banks - Regional",
+        "industryKey":"banks-regional",
+        "industryDisp":"Banks - Regional",
         "sector":"Financial Services",
+        "sectorKey":"financial-services",
+        "sectorDisp":"Financial Services",
         "longBusinessSummary":"Comerica Incorporated, through its subsidiaries, provides various financial products and services. The company operates through Commercial Bank, Retail Bank, Wealth Management, and Finance segments. The Commercial Bank segment offers various products and services, including commercial loans and lines of credit, deposits, cash management, payment solutions, card services, capital market products, international trade finance, letters of credit, foreign exchange management services, and loan syndication services for small and middle market businesses, multinational corporations, and governmental entities. The Retail Bank segment provides personal financial services, such as consumer lending, consumer deposit gathering, and mortgage loan origination; and various consumer products that include deposit accounts, installment loans, credit cards, student loans, home equity lines of credit, and residential mortgage loans. The Wealth Management segment offers products and services comprising financial planning, trust and fiduciary services, investment management and advisory, brokerage, private banking, and business transition planning services for affluents, high-net worth and ultra-high-net-worth individuals and families, business owners, and executives, and institutional clients. The Finance segment comprises securities portfolio, and asset and liability management activities. It operates in Texas, California, Michigan, Arizona, and Florida, the United States; and Canada and Mexico. The company was formerly known as DETROITBANK Corporation and changed its name to Comerica Incorporated in July 1982. Comerica Incorporated was founded in 1849 and is headquartered in Dallas, Texas.",
         "fullTimeEmployees":7496,
         "companyOfficers":[
@@ -145,7 +149,7 @@
         "averageVolume":2154625,
         "averageVolume10days":2722410,
         "averageDailyVolume10Day":2722410,
-        "bid":52.9,
+        "bid":51.63,
         "ask":52.92,
         "bidSize":900,
         "askSize":1200,
@@ -171,6 +175,7 @@
         "heldPercentInstitutions":0.82268995,
         "shortRatio":2.86,
         "shortPercentOfFloat":0.050300002,
+        "impliedSharesOutstanding":132490000,
         "bookValue":45.581,
         "priceToBook":1.1605713,
         "lastFiscalYearEnd":1703980800,
@@ -184,6 +189,10 @@
         "lastSplitFactor":"3:2",
         "lastSplitDate":891475200,
         "enterpriseToRevenue":2.348,
+        "52WeekChange":0.2717445,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.71,
+        "lastDividendDate":1710374400,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"CMA",
@@ -194,6 +203,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"5be95348-6a32-3a5b-aaff-5a7b8f8833d1",
+        "messageBoardId":"finmb_318670",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":52.9,
         "targetHighPrice":68.0,
@@ -217,4 +227,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

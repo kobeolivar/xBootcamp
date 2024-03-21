@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"3M Center",
         "city":"Saint Paul",
@@ -146,7 +146,7 @@
         "averageVolume10days":8773060,
         "averageDailyVolume10Day":8773060,
         "bid":107.94,
-        "ask":107.88,
+        "ask":107.99,
         "bidSize":900,
         "askSize":900,
         "marketCap":59619753984,
@@ -231,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":2.4728
     }
-]
+

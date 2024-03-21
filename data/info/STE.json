@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"70 Sir John Rogerson’s Quay",
         "address2":"Dublin 2",
@@ -8,7 +8,11 @@
         "phone":"353 1 232 2000",
         "website":"https:\/\/www.steris.com",
         "industry":"Medical Devices",
+        "industryKey":"medical-devices",
+        "industryDisp":"Medical Devices",
         "sector":"Healthcare",
+        "sectorKey":"healthcare",
+        "sectorDisp":"Healthcare",
         "longBusinessSummary":"STERIS plc provides infection prevention products and services worldwide. It operates through four segments: Healthcare, Applied Sterilization Technologies, Life Sciences, and Dental. The Healthcare segment offers cleaning chemistries and sterility assurance products; automated endoscope reprocessing system and tracking products; endoscopy accessories, washers, sterilizers, and other pieces of capital equipment for the operation of a sterile processing department; and equipment used directly in the operating room, including surgical tables, lights, and connectivity solutions, as well as equipment management services. It also provides capital equipment installation, maintenance, upgradation, repair, and troubleshooting services; preventive maintenance programs and repair services; instrument and endoscope repair and maintenance services; and custom process improvement consulting and outsourced instrument sterile processing services. The Applied Sterilization Technologies segment provides contract sterilization and testing services for medical device and pharmaceutical manufacturers through a network of approximately 50 contract sterilization and laboratory facilities. The Life Sciences segment designs, manufactures and sells consumable products, such as formulated cleaning chemistries, barrier, sterility assurance products, steam and vaporized hydrogen peroxide sterilizers, and washer disinfectors. This segment also offers equipment installation, maintenance, upgradation, repair, and troubleshooting services; and preventive maintenance programs and repair services. The Dental segment provides hand and electric-powered dental instruments, infection control products, conscious sedation, personal protective equipment, and water quality products for dental suite. The company serves its products and services to hospitals, other healthcare providers, and pharmaceutical manufacturers. The company was founded in 1985 and is based in Dublin, Ireland.",
         "fullTimeEmployees":17000,
         "companyOfficers":[
@@ -171,6 +175,7 @@
         "heldPercentInstitutions":0.97935,
         "shortRatio":5.11,
         "shortPercentOfFloat":0.028399998,
+        "impliedSharesOutstanding":98814000,
         "bookValue":64.928,
         "priceToBook":3.4975665,
         "lastFiscalYearEnd":1680220800,
@@ -185,6 +190,10 @@
         "lastSplitDate":904003200,
         "enterpriseToRevenue":4.878,
         "enterpriseToEbitda":18.548,
+        "52WeekChange":0.28580093,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.52,
+        "lastDividendDate":1708560000,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"STE",
@@ -195,6 +204,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"e14378b8-12ac-3007-be88-db01b8034353",
+        "messageBoardId":"finmb_34783",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":227.09,
         "targetHighPrice":265.0,
@@ -225,4 +235,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

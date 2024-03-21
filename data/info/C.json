@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"388 Greenwich Street",
         "city":"New York",
@@ -150,7 +150,7 @@
         "averageVolume10days":15355060,
         "averageDailyVolume10Day":15355060,
         "bid":61.38,
-        "ask":61.32,
+        "ask":61.33,
         "bidSize":1300,
         "askSize":800,
         "marketCap":117464129536,
@@ -225,4 +225,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

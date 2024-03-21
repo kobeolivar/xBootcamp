@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"Plaza America Tower I",
         "address2":"Suite 500 11700 Plaza America Drive",
@@ -9,7 +9,11 @@
         "phone":"703 956 4000",
         "website":"https:\/\/www.nvrinc.com",
         "industry":"Residential Construction",
+        "industryKey":"residential-construction",
+        "industryDisp":"Residential Construction",
         "sector":"Consumer Cyclical",
+        "sectorKey":"consumer-cyclical",
+        "sectorDisp":"Consumer Cyclical",
         "longBusinessSummary":"NVR, Inc. operates as a homebuilder in the United States. The company operates through, Homebuilding and Mortgage Banking segments. It engages in the construction and sale of single-family detached homes, townhomes, and condominium buildings under the Ryan Homes, NVHomes, and Heartland Homes names. The company markets its Ryan Homes products to first-time and first-time move-up buyers; and NVHomes and Heartland Homes products to move-up and luxury buyers. It also provides various mortgage related services to its homebuilding customers, as well as brokers title insurance; performs title searches in connection with mortgage loan closings; and sells mortgage loans to investors in the secondary markets on a servicing released basis. The company primarily serves in Maryland, Virginia, West Virginia, Delaware, New Jersey, Eastern Pennsylvania, New York, Ohio, Western Pennsylvania, Indiana, Illinois, North Carolina, Georgia, South Carolina, Florida, Tennessee, and Washington, D.C. NVR, Inc. was founded in 1980 and is headquartered in Reston, Virginia.",
         "fullTimeEmployees":6300,
         "companyOfficers":[
@@ -131,6 +135,7 @@
         "heldPercentInstitutions":0.84783,
         "shortRatio":2.8,
         "shortPercentOfFloat":0.0184,
+        "impliedSharesOutstanding":3198060,
         "bookValue":1366.164,
         "priceToBook":5.8572474,
         "lastFiscalYearEnd":1703980800,
@@ -143,6 +148,10 @@
         "pegRatio":-4.39,
         "enterpriseToRevenue":2.402,
         "enterpriseToEbitda":11.794,
+        "52WeekChange":0.48633003,
+        "SandP52WeekChange":0.32311738,
+        "lastDividendValue":0.167,
+        "lastDividendDate":635731200,
         "exchange":"NYQ",
         "quoteType":"EQUITY",
         "symbol":"NVR",
@@ -153,6 +162,7 @@
         "timeZoneFullName":"America\/New_York",
         "timeZoneShortName":"EDT",
         "uuid":"1c44bc9b-2e18-3afe-b2b0-0f9355801bcd",
+        "messageBoardId":"finmb_182505",
         "gmtOffSetMilliseconds":-14400000,
         "currentPrice":8001.96,
         "targetHighPrice":8000.0,
@@ -183,4 +193,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+

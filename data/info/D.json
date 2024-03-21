@@ -1,4 +1,4 @@
-[
+
     {
         "address1":"120 Tredegar Street",
         "city":"Richmond",
@@ -146,7 +146,7 @@
         "averageVolume10days":7095650,
         "averageDailyVolume10Day":7095650,
         "bid":48.5,
-        "ask":48.7,
+        "ask":48.8,
         "bidSize":1100,
         "askSize":1300,
         "marketCap":40615985152,
@@ -231,4 +231,4 @@
         "financialCurrency":"USD",
         "trailingPegRatio":null
     }
-]
+
