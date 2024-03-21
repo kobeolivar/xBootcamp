@@ -1,7 +1,9 @@
 import pandas as pd
 # import zipfile
 import requests
-
+#########################################################
+data_path = 'data'
+#########################################################
 
 def f01_create_df_from_dict():
     # Creating a basic example dataset
