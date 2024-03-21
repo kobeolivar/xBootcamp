@@ -26,6 +26,9 @@
 - x10_explore_pandas.py
 - x11_explore_yfinance.py
 - x12_explore_scikit.py
-  
+
+### Technical Indicators
+https://ta-lib.org/functions/
+
 ### Modification Log
 cloned by sylvan
