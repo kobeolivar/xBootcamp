@@ -21,7 +21,8 @@ def get_json_values(symbols, data_path):
         if os.path.exists(json_file_path):
             with open(json_file_path, 'r') as file:
                 json_data = json.load(file)
-            market_cap = json_data[0].get('marketCap')  # Assuming data is a list of dicts
+            # Directly access 'marketCap' from the dictionary without indexing
+            market_cap = json_data.get('marketCap')
             if market_cap:
                 market_caps.append([symbol, market_cap])
         else:
@@ -29,6 +30,7 @@ def get_json_values(symbols, data_path):
 
     df = pd.DataFrame(market_caps, columns=['Symbol', 'MarketCap']).sort_values(by='MarketCap', ascending=False).reset_index(drop=True)
     return df
+
 
 
 def main():
