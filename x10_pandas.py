@@ -77,17 +77,25 @@ def f05_create_df_from_read_html():
     df_list = pd.read_html(url, match='Symbol')
     # Assuming the first table is the S&P 500 list
     df = df_list[0]
-    df.to_csv('data/pandas/sp500_wikipedia.csv')
+    csv_file = 'data/pandas/sp500_wikipedia.csv'
+    df.to_csv(csv_file)
+
     print(df)
     
     # Assuming you have a DataFrame named df
     # Change the CIK column to string type
     df['CIK'] = df['CIK'].astype(str)
 
-    # Assuming you have a DataFrame named df
-    # Convert 'Date Added' and 'Founded' columns to datetime
-    df['Date Added'] = pd.to_datetime(df['Date Added'])
-    df['Founded'] = pd.to_datetime(df['Founded'])
+    # # Assuming you have a DataFrame named df
+    # # Convert 'Date Added' and 'Founded' columns to datetime
+    # for index, row in df[2:].iterrows():
+    #     try:
+    #         df['Date Added'] = pd.to_datetime(df['Date Added'])
+    #         df['Founded'] = pd.to_datetime(df['Founded'], format='%Y')
+    #     except Exception as e:
+    #         print(f"Error reading the CSV file: {e}")
+    #         print(f"Error in row {index}: {e}")
+    #         return None
     
     # Check the DataFrame to ensure the changes have been made
     print(df.dtypes)
@@ -105,7 +113,7 @@ def f05_create_df_from_read_html():
 
     # Grouping and aggregating data
     # grouped_df = df.groupby('Department').agg({'Salary': 'mean', 'Age': 'max'})
-    grouped_df = df.groupby('GICS Sector'))
+    grouped_df = df.groupby('GICS Sector').agg({'GICS Sector': 'count'})
     print(grouped_df)
 
     return df
@@ -261,14 +269,14 @@ def medart_iterator():
 
 def main():
     
-    employee_df = f01_create_df_from_dict()
+    #employee_df = f01_create_df_from_dict()
     #print(employee_df)
     #planets_df = f02_create_df_from_list()
   
     #err elements_df  = f03_create_df_from_csv()
     #ok  elements_df  = f04_create_df_from_json()
     #err download_from_kaggle()
-    #ok sp500_df = f05_create_df_from_read_html()
+    sp500_df = f05_create_df_from_read_html()
 
     #ok medart_20_codes()
     #medart_iterator()
