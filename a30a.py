@@ -58,8 +58,7 @@ def make_dirs():
 
 def main():
     warnings.filterwarnings("ignore", category=FutureWarning, module="yfinance.utils")
-    proj_path = '/home/larry/atapps/aStockTrading'
-    symbols_path = f'{proj_path}/data/tickers/symbols.csv'
+    symbols_path = f'data/tickers/symbols.csv'
     symbols = pd.read_csv(symbols_path)['Symbol'].tolist()
     sma_periods = [5, 10, 20, 50, 100, 200]
     roc_periods = [5, 10, 20, 50, 100, 200]
