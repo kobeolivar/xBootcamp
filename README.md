@@ -32,4 +32,5 @@ https://ta-lib.org/functions/
 
 ### Modification Log
 cloned by sylvan
-cloned by kobe
+cloned by kobe kobeolivar
+
